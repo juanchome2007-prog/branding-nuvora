@@ -94,6 +94,6 @@ Escribinos: WhatsApp +598 92428556
 ## Notas para el feed
 
 - **Orden de publicación sugerido:** Post 1 (lanzamiento) → Post 2 (colores) → Post 3 (beneficios) → Post 4 (VS) → Post 5 (fijar en perfil).
-- **Precio en los posts:** usar $590 de lista. Si arrancás con la promo de lanzamiento, cambiá el badge a "$490 · precio de estreno".
+- **Precio en los posts:** PVP $590. En lanzamiento, badge "$490 · precio de estreno" y mencioná el código `ESTRENO` (-$100) en el caption.
 - **Reseñas:** no uses testimonios de muestra. Recién cuando tengas ventas reales sumá un post con reseña verdadera.
 - **Confirmar antes de publicar:** modelo/specs reales del vaso y los nombres de los 4 colores.

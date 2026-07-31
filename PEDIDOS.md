@@ -37,9 +37,22 @@ Costo unitario: **$180**. Recordá que Nuvora promete **"Envío a todo Uruguay"*
 | **$590** ⭐ | **$410** | **69%** | **$7.080** | **$4.920** |
 | $690 | $510 | 74% | $8.280 | $6.120 |
 
-**Recomendación:**
-- **Precio de lista: $590.** Da buen margen (cubre envío gratis con holgura) y sigue siendo un precio accesible para un gadget con display.
-- **Promo de lanzamiento: $490** (precio "de estreno") las primeras semanas para mover las 12 unidades rápido y juntar primeras ventas/reseñas reales.
-- A $590 las 12 unidades dejan **~$4.920** de ganancia sobre los $2.160 invertidos.
+### Precios de lanzamiento (DEFINIDOS)
 
-> Ajustá según lo que cobren competidores uruguayos por el mismo vaso — si el mercado está a $790+, podés subir sin problema.
+| Concepto | Valor |
+|---|---|
+| **Precio de lista (PVP)** | **$590** |
+| **Precio de lanzamiento** | **$490** |
+| Descuento a aplicar en Shopify | **$100 fijo** (código sugerido: `ESTRENO`) |
+| Vigencia de la promo | Primeras 2 semanas o hasta agotar la primera tanda (12 u) |
+
+**Cómo montarlo en Shopify (lo hacés vos):**
+1. Cargás el producto con **PVP $590** en las 4 variantes de color.
+2. Creás un **código de descuento `ESTRENO` de $100 fijo** → deja el vaso en **$490**.
+3. Lo comunicás en el feed y en las historias (ver contenido) con el código.
+
+**Margen a cada precio:**
+- A **$490** (lanzamiento): margen **$310/u** (63%). Vender las 12 u = **$3.720** de ganancia.
+- A **$590** (lista, post-promo): margen **$410/u** (69%). 12 u = **$4.920** de ganancia.
+
+> Ajustá según lo que cobren competidores uruguayos por el mismo vaso — si el mercado está a $790+, podés subir el PVP sin problema y mantener el $490 como gancho de estreno.

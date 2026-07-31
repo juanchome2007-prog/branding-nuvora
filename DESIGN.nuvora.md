@@ -35,6 +35,23 @@ Confirma la dirección "azul marino oscuro" que definiste, pero hoy vive únicam
 | Fondo | `#FFFFFF` |
 | Texto | `#000000` |
 
+## Identidad visual aplicada en redes (posts reales)
+
+Además de la paleta base del tema, los posts/anuncios de Nuvora usan una identidad propia más marcada. Documentada acá para mantener consistencia:
+
+| Uso | Hex |
+|---|---|
+| Fondo posts (navy con degradé) | `#1B2E49` → `#122238` → `#090F18` |
+| Acento primario (títulos clave, botón CTA) | `#F5B01E` (ámbar) |
+| Acento secundario (eyebrow, checks, logo) | `#3E9BD6` (azul) |
+| Texto | `#FFFFFF` / muteado `#8FA1B5` |
+
+- **Logo:** isotipo nube + rayo (degradé azul `#5CB3EC`→`#2A62B0`) + "Nuvora".
+- **Tipografía en redes:** **Poppins** (títulos 800, texto 400/600) — más geométrica/redondeada que la Inter del sitio. Mantener Inter para la web, Poppins para las piezas de redes.
+- **Formato producto:** foto real dentro de una tarjeta con esquinas redondeadas sobre el navy.
+- **Funnel de venta:** CTA de comentario ("Comentá 'QUIERO' y te paso el link"), pre-venta / "unidades contadas".
+- Plantillas y piezas del Vaso Térmico Inteligente: `contenido/instagram/`.
+
 ## Tipografía (confirmada en `settings_data.json`)
 
 Fuente: **Inter**, en tres pesos:

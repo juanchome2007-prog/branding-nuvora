@@ -7,7 +7,7 @@ Registro de pedidos de stock (compra a proveedor) y precios de venta.
 ## Pedido #1 — Vaso Inteligente
 
 - **Fecha de registro:** 2026-07-31
-- **Producto:** Vaso Inteligente (asumido: vaso/botella con display LED de temperatura — confirmar modelo exacto)
+- **Producto:** Vaso Térmico Inteligente (mug de acero inoxidable con display LED de temperatura en la tapa, antiderrame, logo "COFFEE")
 - **Cantidad:** 12 unidades → 3 por color, en los 4 colores
 - **Costo unitario:** $180
 - **Costo total del pedido:** $2.160 (12 × $180)
@@ -17,13 +17,13 @@ Registro de pedidos de stock (compra a proveedor) y precios de venta.
 
 | Color | Unidades |
 |---|---|
-| Color 1 (a confirmar) | 3 |
-| Color 2 (a confirmar) | 3 |
-| Color 3 (a confirmar) | 3 |
-| Color 4 (a confirmar) | 3 |
+| Azul (degradé azul→menta) | 3 |
+| Rosa | 3 |
+| Verde oliva | 3 |
+| Blanco/menta | 3 |
 | **Total** | **12** |
 
-> Anotá acá los 4 colores reales cuando los tengas para tener el inventario claro.
+> Colores tomados de las fotos del producto. Si el pedido real trajo otra combinación (ej. crema o grafito), ajustá esta tabla.
 
 ### Análisis de precio de venta
 

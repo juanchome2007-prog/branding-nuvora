@@ -2,7 +2,7 @@
 
 > Formato vertical **9:16**. Fondo navy `#193A5C`, texto blanco (Inter Bold para títulos).
 > Voseo uruguayo, frases cortas, sin emojis. Aprovechá los stickers interactivos de Historias.
-> Producto: Vaso Inteligente con display LED de temperatura, 4 colores. PVP $590 · lanzamiento $490 (código `ESTRENO`).
+> Producto: Vaso Inteligente con display LED de temperatura, 4 colores. PVP $690 · lanzamiento $590 (código `ESTRENO`).
 
 ---
 
@@ -28,10 +28,10 @@ Ves la temperatura en la pantalla, de un toque.
 **Sticker:** encuesta → "¿Qué color te llevás?" (opciones con los 4 colores reales).
 
 ### Historia A3 — Oferta + link
-**Visual:** vaso + badge grande "$490 · precio de estreno" (tachado $590 arriba).
+**Visual:** vaso + badge grande "$590 · precio de estreno" (tachado $690 arriba).
 **Texto en pantalla:**
 ```
-Precio de estreno: $490
+Precio de estreno: $590
 Código: ESTRENO
 Envío a todo Uruguay.
 ```
@@ -55,7 +55,7 @@ Stock limitado en esta primera tanda.
 **Texto en pantalla:**
 ```
 Todavía estás a tiempo del precio de estreno.
-$490 con el código ESTRENO.
+$590 con el código ESTRENO.
 ```
 **Sticker:** cuenta regresiva al cierre de la promo + sticker de link.
 

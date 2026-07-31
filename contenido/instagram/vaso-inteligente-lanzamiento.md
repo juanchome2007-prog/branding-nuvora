@@ -9,7 +9,7 @@
 
 ## Post 1 — Portada de lanzamiento (formato ficha de producto, plantilla Nuvora)
 
-**Visual:** fondo navy `#193A5C`. Isotipo Nuvora arriba centrado. Vaso recortado en el centro (el color que mejor rinda en foto). Badge de precio en una esquina: "$590".
+**Visual:** fondo navy `#193A5C`. Isotipo Nuvora arriba centrado. Vaso recortado en el centro (el color que mejor rinda en foto). Badge de precio en una esquina: "$590 · estreno" (PVP $690).
 
 **Caption:**
 ```
@@ -94,6 +94,6 @@ Escribinos: WhatsApp +598 92428556
 ## Notas para el feed
 
 - **Orden de publicación sugerido:** Post 1 (lanzamiento) → Post 2 (colores) → Post 3 (beneficios) → Post 4 (VS) → Post 5 (fijar en perfil).
-- **Precio en los posts:** PVP $590. En lanzamiento, badge "$490 · precio de estreno" y mencioná el código `ESTRENO` (-$100) en el caption.
+- **Precio en los posts:** PVP $690. En lanzamiento, badge "$590 · precio de estreno" y mencioná el código `ESTRENO` (-$100) en el caption.
 - **Reseñas:** no uses testimonios de muestra. Recién cuando tengas ventas reales sumá un post con reseña verdadera.
 - **Confirmar antes de publicar:** modelo/specs reales del vaso y los nombres de los 4 colores.

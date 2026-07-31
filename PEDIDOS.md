@@ -41,18 +41,18 @@ Costo unitario: **$180**. Recordá que Nuvora promete **"Envío a todo Uruguay"*
 
 | Concepto | Valor |
 |---|---|
-| **Precio de lista (PVP)** | **$590** |
-| **Precio de lanzamiento** | **$490** |
+| **Precio de lista (PVP)** | **$690** |
+| **Precio de lanzamiento** | **$590** |
 | Descuento a aplicar en Shopify | **$100 fijo** (código sugerido: `ESTRENO`) |
 | Vigencia de la promo | Primeras 2 semanas o hasta agotar la primera tanda (12 u) |
 
 **Cómo montarlo en Shopify (lo hacés vos):**
-1. Cargás el producto con **PVP $590** en las 4 variantes de color.
-2. Creás un **código de descuento `ESTRENO` de $100 fijo** → deja el vaso en **$490**.
+1. Cargás el producto con **PVP $690** en las 4 variantes de color.
+2. Creás un **código de descuento `ESTRENO` de $100 fijo** → deja el vaso en **$590**.
 3. Lo comunicás en el feed y en las historias (ver contenido) con el código.
 
 **Margen a cada precio:**
-- A **$490** (lanzamiento): margen **$310/u** (63%). Vender las 12 u = **$3.720** de ganancia.
-- A **$590** (lista, post-promo): margen **$410/u** (69%). 12 u = **$4.920** de ganancia.
+- A **$590** (lanzamiento): margen **$410/u** (69%). Vender las 12 u = **$4.920** de ganancia.
+- A **$690** (lista, post-promo): margen **$510/u** (74%). 12 u = **$6.120** de ganancia.
 
-> Ajustá según lo que cobren competidores uruguayos por el mismo vaso — si el mercado está a $790+, podés subir el PVP sin problema y mantener el $490 como gancho de estreno.
+> Ajustá según lo que cobren competidores uruguayos por el mismo vaso — si el mercado está a $790+, podés subir el PVP sin problema y mantener el $590 como gancho de estreno.

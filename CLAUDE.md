@@ -51,7 +51,7 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - Las ventas por WhatsApp/IG/link de pago no las ve el píxel: sumarlas a mano al evaluar.
 
 ## Contabilidad diaria (rutina 21:55 UY)
-- Corte histórico (hasta 17/10/2026 19:30 UY = 2026-10-17T22:30Z): ventas $4.950 (5 packs 2x1: Ramón contra reembolso, Jessica depósito, Diego link, #1011, #1013). Costos fijos del corte: producto $1.172,5 (10 frascos × $117,25) + cinta $42 + Shopify $280 (US$7) + comisión MP $180. #1010 = prueba (no cuenta). #1012 DESCARTADO (no pagó; el dueño lo cancela a mano con reponer stock): no cuenta como venta.
+- Corte histórico (hasta 17/10/2026 19:30 UY = 2026-10-17T22:30Z): ventas $4.950 (5 packs 2x1: Ramón contra reembolso, Jessica depósito, Diego link, #1011, #1013). Costos fijos del corte: producto $1.172,5 (10 frascos × $117,25) + cinta $42 + Shopify $280 (US$7) + comisión MP $180. #1010 = prueba (no cuenta). #1012 CANCELADO el 17/10 (no pagó; stock repuesto): no cuenta como venta.
 - Gasto en anuncios: siempre el total real de Meta (cuenta 1580817367054085) desde 2026-10-13 hasta hoy.
 - Ventas nuevas: pedidos de Shopify creados después del corte (excluir cancelados y pruebas). Costo producto $85/frasco; 2x1=2, 4x2=4, 6x3=6 frascos. Comisión MP ~6% solo en pagos con Mercado Pago. En 6x3 sumar envío DAC que paga Nuvora ($260 agencia / $330 domicilio). Shopify ~US$7/mes (≈$280) cada 15.
 - Stock: 102 frascos libres al corte (incluye los 2 viejos liberados del #1012). Frascos actuales = 102 − frascos de pedidos nuevos no cancelados. Ajustar inventario (disponible) en "Sucursal de la tienda": 2x1 = ⌊F/2⌋, 4x2 = ⌊F/4⌋, 6x3 = ⌊F/6⌋. Avisar si F < 20.

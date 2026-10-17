@@ -81,3 +81,6 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - Fase 2 (después de saldar a mamá): Nuvora se sostiene con su propio capital, sin pedir préstamos. De la ganancia neta mensual: 40% sueldo del dueño, 60% queda en el negocio.
 - La tecnología es para ganar plata: su ganancia suma al capital. Cuando se termine el stock: sacarla del capital y seguir solo con Nuvora.
 - Llevar el capital actualizado cada vez que el dueño avise un movimiento (pago del lote, cobros, entregas a mamá, ventas de tecnología).
+
+## Productos nuevos
+- Para sumar otro producto seguir PLAYBOOK-nuevo-producto.md (números → investigación → tienda → 8 creativos → testeo → escalado → cuentas).

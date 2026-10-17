@@ -46,15 +46,18 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - Campañas: "BLANQUEADOR DENTAL COCO 1.0" (destino WhatsApp, pausada) y "CBO - BLANQUEADOR DENTAL COCO 2.0" (web, conjuntos IMG y VID, 4 ads c/u).
 - Plan: 2–3 testeos (CBO a la web, conjunto IMG + VID, ~$1.000/día, 3–4 días sin tocar) → campaña de escalado con ganadores (+ conjunto/campaña a WhatsApp) → testear iteraciones de los ganadores.
 - Ganadores al 17/10: "Línea de tiempo dental VID 1.0" (WhatsApp, $192/venta), "Problemas de años 2.0" (VID, tráfico más barato), "Última chance azul 2.0" (IMG, ROAS 5,45); en duda "Dientes amarillos 2.0". Perdedores: "Sin renunciar a nada", "Dientes manchados de tantos mates".
-- Economía: lote inicial 12 frascos a $117,25 (vendidos). Lote nuevo (17/10): 100 frascos a $85 c/u ($8.500) → 2x1 cuesta $170. Tope de costo por venta del 2x1 ≈ $760 (precio − producto − comisión MP ~6%). Envío DAC: agencia $260, domicilio $330 (lo paga el cliente; gratis en 6x3, lo paga Nuvora). Shopify ~US$7/mes. Pedido #1010 fue prueba del dueño.
+- Economía: lote inicial 12 frascos a $117,25 (vendidos). Lote nuevo (17/10): 100 frascos a $85 c/u ($8.500) → 2x1 cuesta $170. Tope de costo por venta del 2x1 ≈ $760 (precio − producto − comisión MP ~6%). Envío DAC: agencia $260, domicilio $330 (lo paga el cliente; gratis en 6x3, lo paga Nuvora). Shopify US$25/mes. Pedido #1010 fue prueba del dueño.
 - Web: tema "Nuvora - Botón transferencia WhatsApp" (193840808212) con tarjeta "Medios de pago" + botón WhatsApp para transferencia (snippet nv-wa-trust); publicarlo lo hace el dueño (themePublish bloqueado).
 - Las ventas por WhatsApp/IG/link de pago no las ve el píxel: sumarlas a mano al evaluar.
 
 ## Contabilidad diaria (rutina 21:55 UY)
 - Corte histórico (hasta 17/10/2026 19:30 UY = 2026-10-17T22:30Z): ventas $4.950 (5 packs 2x1: Ramón contra reembolso, Jessica depósito, Diego link, #1011, #1013). Costos fijos del corte: producto $1.172,5 (10 frascos × $117,25) + cinta $42 + Shopify $280 (US$7) + comisión MP $180. #1010 = prueba (no cuenta). #1012 CANCELADO el 17/10 (no pagó; stock repuesto): no cuenta como venta.
 - Gasto en anuncios: siempre el total real de Meta (cuenta 1580817367054085) desde 2026-10-13 hasta hoy.
-- Ventas nuevas: pedidos de Shopify creados después del corte (excluir cancelados y pruebas). Costo producto $85/frasco; 2x1=2, 4x2=4, 6x3=6 frascos. Comisión MP ~6% solo en pagos con Mercado Pago. En 6x3 sumar envío DAC que paga Nuvora ($260 agencia / $330 domicilio). Shopify ~US$7/mes (≈$280) cada 15.
+- Ventas nuevas: pedidos de Shopify creados después del corte (excluir cancelados y pruebas). Costo producto $85/frasco; 2x1=2, 4x2=4, 6x3=6 frascos. Comisión MP ~6% solo en pagos con Mercado Pago. En 6x3 sumar envío DAC que paga Nuvora ($260 agencia / $330 domicilio). Herramientas: ver abajo.
 - Stock: 102 frascos libres al corte (incluye los 2 viejos liberados del #1012). Frascos actuales = 102 − frascos de pedidos nuevos no cancelados. Ajustar inventario (disponible) en "Sucursal de la tienda": 2x1 = ⌊F/2⌋, 4x2 = ⌊F/4⌋, 6x3 = ⌊F/6⌋. Avisar si F < 20.
+- Costo por pedido: frascos $85 c/u + empaque ≈$15 (cinta $42/rollo ≈30 pedidos, film negro $180/rollo ≈20 pedidos, pegotín $4 = $80 la hoja de 20; etiquetas DAC gratis) + MP 6% si paga con MP + DAC en 6x3. Rendimiento de rollos estimado: corregir si el dueño dice otro.
+- Herramientas de trabajo (fijo mensual, US$ a $40): Higgsfield US$49 · Claude US$20 · Shopify US$25 · CapCut US$20 · dominio US$16/año (US$1,33/mes) = US$115,33 ≈ $4.613/mes ≈ $152/día. Se descuentan prorrateadas por día desde el 18/10 (antes del corte solo se contó Shopify $280).
+- Margen 2x1 antes de anuncios ≈ $990 − 170 − 59 (MP) − 15 = $746 → hacen falta ~6–7 ventas 2x1/mes solo para cubrir herramientas.
 - Ventas por fuera de la web (WhatsApp/IG/link): el dueño las cuenta en la sesión de la notificación → crear pedido en Shopify (pagado o pendiente) y recalcular.
 
 ## Capital (al 17/10/2026)

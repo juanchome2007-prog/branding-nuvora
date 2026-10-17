@@ -2,6 +2,34 @@
 
 Mismo proceso que se usó con el blanqueador de carbón de coco (oct 2026). Seguir los pasos en orden y no saltear la validación de números.
 
+## 0a. Filtro de producto (MUST + puntaje, pasa con 15/20)
+Reconstruido el 17/10/2026 (el material original del mentor se perdió). Ajustar si el dueño recuerda criterios distintos.
+
+**MUST (si falla uno, se descarta):**
+1. Meta lo deja anunciar: sin réplicas de marca, sin claims médicos ni resultados garantizados, sin categoría prohibida.
+2. Precio de venta ≥ 3× el costo (producto + traída), y el margen del pack cubre un costo por venta de ~$400 y deja ganancia.
+3. Resuelve un problema o un deseo claro.
+4. Se puede demostrar en video.
+5. Proveedor con stock y entrega rápida.
+6. Se puede enviar por DAC: chico, liviano, no frágil, no peligroso.
+
+**Puntaje (0, 1 o 2 cada uno; máximo 20):**
+| # | Criterio | 0 | 1 | 2 |
+|---|---|---|---|---|
+| 1 | Efecto wow / demostración | no se nota | se nota | impacta en 3 s |
+| 2 | Fuerza del problema o deseo | leve | medio | dolor/deseo fuerte |
+| 3 | Mercado en Uruguay | nicho chico | medio | masivo |
+| 4 | Difícil de conseguir en tiendas/súper | está en todos lados | en algunos | casi no se consigue |
+| 5 | Precio de impulso ($790–$1.990) | muy fuera | cerca | dentro |
+| 6 | Margen | 3× | 4× | 5× o más |
+| 7 | Validación (anuncios de otros activos >1 mes) | no hay | pocos | varios, sin saturar |
+| 8 | Se puede armar en packs / upsell | no | algo | 2x1, 4x2, 6x3 naturales |
+| 9 | Recompra / consumible | no | a veces | se termina y se recompra |
+| 10 | Bajo riesgo de quejas/devoluciones | alto | medio | bajo |
+
+**Decisión:** 15–20 → seguir con los pasos de abajo. 12–14 → solo si sobra plata para testear. <12 → descartar.
+El blanqueador como referencia: ver puntaje en el chat del 17/10.
+
 ## 0. Antes de comprar: ¿el producto da los números?
 - Costo unitario + envío del proveedor → costo por unidad.
 - Armar la oferta en packs (ej: 2x1 / 4x2 / 6x3) y calcular el margen por pack:

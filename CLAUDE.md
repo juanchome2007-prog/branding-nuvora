@@ -60,6 +60,6 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 ## Capital (al 17/10/2026)
 - Aportes: propio $1.407 (12 frascos) · regalo de mamá $510 (anuncios campaña WhatsApp) · préstamo de mamá $6.990 (tecnología + envío), sin fecha de devolución.
 - Deudas: mamá $6.990 · proveedor lote 100 frascos $8.500 (sin pagar) · Meta cobra cada $1.240 de gasto desde Mercado Pago (dejar reserva ahí; pasar de Prex a MP cuesta $45).
-- Caja 17/10: efectivo $2.800 · Mercado Pago $3.749 · banco $7 · Prex (sin dato). Retiro personal 16/10: $150 (ocio).
+- Caja 17/10 (antes de pagar lote): efectivo $2.650 · Mercado Pago $3.750 · Prex $7 (no hay banco). Plan de pago del lote $8.500: $2.500 efectivo + $2.000 de MP + $4.000 préstamo nuevo de mamá → queda efectivo $150 · MP $1.750 (reserva Meta) · deuda mamá $10.990. Retiro personal 16/10: $150 (ocio).
 - Por cobrar: AirPods $790 (seña $600 de $1.390) · Ramón $990 (contra reembolso) · #1012 $990 (depósito) · Lore $990 (transferencia, sin pedido aún).
 - Tecnología (línea temporal, se deja al terminar stock): costo $6.090 + envío $900. Vendido $5.980 (4 AirPods + cable+ficha), costo vendido $2.610. Stock a costo: 3 baterías MagSafe ($380) · 4 fichas USB-C ($150) · 4 cables USB-C ($60) · 5 cargadores completos ($180) · 1 AirPods Pro 2 ($600) = $3.480.

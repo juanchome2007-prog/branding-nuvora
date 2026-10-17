@@ -68,10 +68,11 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - Tecnología (línea temporal, se deja al terminar stock): costo $6.090 + envío $900. Vendido $5.980 (4 AirPods + cable+ficha), costo vendido $2.610. Stock a costo: 3 baterías MagSafe ($380) · 4 fichas USB-C ($150) · 4 cables USB-C ($60) · 5 cargadores completos ($180) · 1 AirPods Pro 2 ($600) = $3.480.
 
 ## Plan para devolver el préstamo de mamá ($10.990 una vez pagado el lote)
-- Regla 1: toda la plata de la tecnología (stock que queda + saldo AirPods $790) va directo a mamá. Al ritmo de venta anterior (≈2,3× el costo) el stock de $3.480 rinde ≈ $8.000.
-- Regla 2: por cada 2x1 vendido se separan $150 para mamá (4x2 = $300, 6x3 = $450).
-- Se le entrega a mamá cada domingo lo juntado en la semana.
-- Devuelto a mamá hasta ahora: $0 (al 17/10). Precios de la tecnología los pone el dueño.
-- Proyección: tecnología + AirPods ≈ $8.790 → faltan ≈ $2.200 → ≈ 15 ventas 2x1.
-- Mantener siempre ≥ $1.240 en Mercado Pago para el cobro de Meta antes de separar plata para mamá.
+- Devuelto a mamá hasta ahora: $0 (al 17/10). Sin interés ni fecha.
+- Tecnología (réplicas: NUNCA por Nuvora ni con anuncios, se vende de boca en boca; precios los pone el dueño): cada venta se anota en el capital (qué, precio, cobrado o no, stock que queda). No se cuenta con esa plata para el plan.
+- Cierre de fin de mes (junto con Nuvora): a mamá va el 100% de lo cobrado de tecnología en el mes + el 50% de la ganancia neta de Nuvora del mes (después de anuncios, producto, empaque, MP, envíos y herramientas). El otro 50% se reinvierte. Mes con pérdida: no se paga.
+- Octubre 2026 = mes de testeo: no se paga con Nuvora (sí lo de tecnología si se vende).
+- Mantener siempre ≥ $1.240 en Mercado Pago para el cobro de Meta.
+- Referencia: con CPA ~$400 hacen falta ~13 ventas 2x1/mes para cubrir herramientas; ~30/mes ≈ $2.900 a mamá; ~45/mes ≈ $5.500.
+- Cuando se termine el stock de tecnología: cerrar esa línea (sacarla del capital) y seguir solo con Nuvora.
 - Llevar el capital actualizado cada vez que el dueño avise un movimiento (pago del lote, cobros, entregas a mamá, ventas de tecnología).

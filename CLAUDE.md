@@ -71,6 +71,7 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - Regla 1: toda la plata de la tecnología (stock que queda + saldo AirPods $790) va directo a mamá. Al ritmo de venta anterior (≈2,3× el costo) el stock de $3.480 rinde ≈ $8.000.
 - Regla 2: por cada 2x1 vendido se separan $150 para mamá (4x2 = $300, 6x3 = $450).
 - Se le entrega a mamá cada domingo lo juntado en la semana.
+- Devuelto a mamá hasta ahora: $0 (al 17/10). Precios de la tecnología los pone el dueño.
 - Proyección: tecnología + AirPods ≈ $8.790 → faltan ≈ $2.200 → ≈ 15 ventas 2x1.
 - Mantener siempre ≥ $1.240 en Mercado Pago para el cobro de Meta antes de separar plata para mamá.
 - Llevar el capital actualizado cada vez que el dueño avise un movimiento (pago del lote, cobros, entregas a mamá, ventas de tecnología).

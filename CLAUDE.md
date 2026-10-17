@@ -42,5 +42,9 @@ Imágenes (cada una en 1:1, 4:5, 9:16 y 1200x628):
 Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago · Envíos a todo Uruguay"; cada creativo tiene su texto principal y título (oferta 2x1 $990 · 6x3 envío gratis).
 
 ## Estrategia de campañas
-- Campaña existente: "CBO - BLANQUEADOR DENTAL COCO 2.0" con conjunto de imágenes (4 ads) y conjunto de videos (4 ads).
-- Plan: identificar ganadores de cada campaña de test y después pasar todos los ganadores a una sola campaña para escalar.
+- Cuenta Meta: "Nuvora ads" (1580817367054085), moneda UYU.
+- Campañas: "BLANQUEADOR DENTAL COCO 1.0" (destino WhatsApp, pausada) y "CBO - BLANQUEADOR DENTAL COCO 2.0" (web, conjuntos IMG y VID, 4 ads c/u).
+- Plan: 2–3 testeos (CBO a la web, conjunto IMG + VID, ~$1.000/día, 3–4 días sin tocar) → campaña de escalado con ganadores (+ conjunto/campaña a WhatsApp) → testear iteraciones de los ganadores.
+- Ganadores al 17/10: "Línea de tiempo dental VID 1.0" (WhatsApp, $192/venta), "Problemas de años 2.0" (VID, tráfico más barato), "Última chance azul 2.0" (IMG, ROAS 5,45); en duda "Dientes amarillos 2.0". Perdedores: "Sin renunciar a nada", "Dientes manchados de tantos mates".
+- Economía: costo 12 frascos $1.407 ($117,25 c/u, $234,5 el 2x1). Tope de costo por venta del 2x1 ≈ $695 (precio − producto − comisión MP). Envío DAC: agencia $260, domicilio $330 (lo paga el cliente; gratis en 6x3, lo paga Nuvora). Shopify ~US$7/mes. Pedido #1010 fue prueba del dueño.
+- Las ventas por WhatsApp/IG/link de pago no las ve el píxel: sumarlas a mano al evaluar.

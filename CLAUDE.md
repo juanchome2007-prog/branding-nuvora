@@ -76,5 +76,7 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - Octubre 2026 = mes de testeo: no se paga.
 - Mantener siempre ≥ $1.240 en Mercado Pago para el cobro de Meta.
 - Referencia: con CPA ~$400 hacen falta ~13 ventas 2x1/mes para cubrir herramientas; ~30/mes ≈ $2.900 a mamá; ~45/mes ≈ $5.500.
-- Cuando se termine el stock de tecnología: sacarla del capital y seguir solo con Nuvora.
+- Reporte de cierre de mes (siempre este formato): ganancia del mes (Nuvora + tecnología) → 50% mamá / 50% reinversión; plata en mano (efectivo, MP, Prex); stock (frascos y tecnología a costo); deuda con mamá que queda; capital neto y cuánto creció vs el mes anterior.
+- Fase 2 (después de saldar a mamá): Nuvora se sostiene con su propio capital, sin pedir préstamos. De la ganancia neta mensual: 40% sueldo del dueño, 60% queda en el negocio.
+- La tecnología es para ganar plata: su ganancia suma al capital. Cuando se termine el stock: sacarla del capital y seguir solo con Nuvora.
 - Llevar el capital actualizado cada vez que el dueño avise un movimiento (pago del lote, cobros, entregas a mamá, ventas de tecnología).

@@ -51,15 +51,15 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - Las ventas por WhatsApp/IG/link de pago no las ve el píxel: sumarlas a mano al evaluar.
 
 ## Contabilidad diaria (rutina 21:55 UY)
-- Corte histórico (hasta 17/10/2026 19:30 UY = 2026-10-17T22:30Z): ventas $4.950 (5 packs 2x1: Ramón contra reembolso, Jessica depósito, Diego link, #1011, #1013). Costos fijos del corte: producto $1.172,5 (10 frascos × $117,25) + cinta $42 + Shopify $280 (US$7) + comisión MP $180. #1010 = prueba (no cuenta). #1012 (2x1, depósito) pendiente: se cuenta recién cuando figure PAGADO (usa 2 frascos viejos a $117,25).
+- Corte histórico (hasta 17/10/2026 19:30 UY = 2026-10-17T22:30Z): ventas $4.950 (5 packs 2x1: Ramón contra reembolso, Jessica depósito, Diego link, #1011, #1013). Costos fijos del corte: producto $1.172,5 (10 frascos × $117,25) + cinta $42 + Shopify $280 (US$7) + comisión MP $180. #1010 = prueba (no cuenta). #1012 DESCARTADO (no pagó; el dueño lo cancela a mano con reponer stock): no cuenta como venta.
 - Gasto en anuncios: siempre el total real de Meta (cuenta 1580817367054085) desde 2026-10-13 hasta hoy.
 - Ventas nuevas: pedidos de Shopify creados después del corte (excluir cancelados y pruebas). Costo producto $85/frasco; 2x1=2, 4x2=4, 6x3=6 frascos. Comisión MP ~6% solo en pagos con Mercado Pago. En 6x3 sumar envío DAC que paga Nuvora ($260 agencia / $330 domicilio). Shopify ~US$7/mes (≈$280) cada 15.
-- Stock: 100 frascos libres al corte (+2 reservados #1012). Frascos actuales = 100 − frascos de pedidos nuevos no cancelados. Ajustar inventario (disponible) en "Sucursal de la tienda": 2x1 = ⌊F/2⌋, 4x2 = ⌊F/4⌋, 6x3 = ⌊F/6⌋. Avisar si F < 20.
+- Stock: 102 frascos libres al corte (incluye los 2 viejos liberados del #1012). Frascos actuales = 102 − frascos de pedidos nuevos no cancelados. Ajustar inventario (disponible) en "Sucursal de la tienda": 2x1 = ⌊F/2⌋, 4x2 = ⌊F/4⌋, 6x3 = ⌊F/6⌋. Avisar si F < 20.
 - Ventas por fuera de la web (WhatsApp/IG/link): el dueño las cuenta en la sesión de la notificación → crear pedido en Shopify (pagado o pendiente) y recalcular.
 
 ## Capital (al 17/10/2026)
 - Aportes: propio $1.407 (12 frascos) · regalo de mamá $510 (anuncios campaña WhatsApp) · préstamo de mamá $6.990 (tecnología + envío), sin fecha de devolución.
 - Deudas: mamá $6.990 · proveedor lote 100 frascos $8.500 (sin pagar) · Meta cobra cada $1.240 de gasto desde Mercado Pago (dejar reserva ahí; pasar de Prex a MP cuesta $45).
 - Caja 17/10 (antes de pagar lote): efectivo $2.650 · Mercado Pago $3.750 · Prex $7 (no hay banco). Plan de pago del lote $8.500: $2.500 efectivo + $2.000 de MP + $4.000 préstamo nuevo de mamá → queda efectivo $150 · MP $1.750 (reserva Meta) · deuda mamá $10.990. Retiro personal 16/10: $150 (ocio).
-- Por cobrar: AirPods $790 (seña $600 de $1.390) · Ramón $990 (contra reembolso) · #1012 $990 (depósito) · Lore $990 (transferencia, sin pedido aún).
+- Por cobrar: AirPods $790 (seña $600 de $1.390) · Ramón $990 (contra reembolso) · Lore $990 (transferencia, sin pedido aún).
 - Tecnología (línea temporal, se deja al terminar stock): costo $6.090 + envío $900. Vendido $5.980 (4 AirPods + cable+ficha), costo vendido $2.610. Stock a costo: 3 baterías MagSafe ($380) · 4 fichas USB-C ($150) · 4 cables USB-C ($60) · 5 cargadores completos ($180) · 1 AirPods Pro 2 ($600) = $3.480.

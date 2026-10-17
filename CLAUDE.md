@@ -49,3 +49,10 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - Economía: lote inicial 12 frascos a $117,25 (vendidos). Lote nuevo (17/10): 100 frascos a $85 c/u ($8.500) → 2x1 cuesta $170. Tope de costo por venta del 2x1 ≈ $760 (precio − producto − comisión MP ~6%). Envío DAC: agencia $260, domicilio $330 (lo paga el cliente; gratis en 6x3, lo paga Nuvora). Shopify ~US$7/mes. Pedido #1010 fue prueba del dueño.
 - Web: tema "Nuvora - Botón transferencia WhatsApp" (193840808212) con tarjeta "Medios de pago" + botón WhatsApp para transferencia (snippet nv-wa-trust); publicarlo lo hace el dueño (themePublish bloqueado).
 - Las ventas por WhatsApp/IG/link de pago no las ve el píxel: sumarlas a mano al evaluar.
+
+## Contabilidad diaria (rutina 21:55 UY)
+- Corte histórico (hasta 17/10/2026 19:30 UY = 2026-10-17T22:30Z): ventas $4.950 (5 packs 2x1: Ramón contra reembolso, Jessica depósito, Diego link, #1011, #1013). Costos fijos del corte: producto $1.172,5 (10 frascos × $117,25) + cinta $42 + Shopify $280 (US$7) + comisión MP $180. #1010 = prueba (no cuenta). #1012 (2x1, depósito) pendiente: se cuenta recién cuando figure PAGADO (usa 2 frascos viejos a $117,25).
+- Gasto en anuncios: siempre el total real de Meta (cuenta 1580817367054085) desde 2026-10-13 hasta hoy.
+- Ventas nuevas: pedidos de Shopify creados después del corte (excluir cancelados y pruebas). Costo producto $85/frasco; 2x1=2, 4x2=4, 6x3=6 frascos. Comisión MP ~6% solo en pagos con Mercado Pago. En 6x3 sumar envío DAC que paga Nuvora ($260 agencia / $330 domicilio). Shopify ~US$7/mes (≈$280) cada 15.
+- Stock: 100 frascos libres al corte (+2 reservados #1012). Frascos actuales = 100 − frascos de pedidos nuevos no cancelados. Ajustar inventario (disponible) en "Sucursal de la tienda": 2x1 = ⌊F/2⌋, 4x2 = ⌊F/4⌋, 6x3 = ⌊F/6⌋. Avisar si F < 20.
+- Ventas por fuera de la web (WhatsApp/IG/link): el dueño las cuenta en la sesión de la notificación → crear pedido en Shopify (pagado o pendiente) y recalcular.

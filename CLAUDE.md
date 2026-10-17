@@ -66,3 +66,11 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - Caja 17/10 (antes de pagar lote): efectivo $2.650 · Mercado Pago $3.750 · Prex $7 (no hay banco). Plan de pago del lote $8.500: $2.500 efectivo + $2.000 de MP + $4.000 préstamo nuevo de mamá → queda efectivo $150 · MP $1.750 (reserva Meta) · deuda mamá $10.990. Retiro personal 16/10: $150 (ocio).
 - Por cobrar: AirPods $790 (seña $600 de $1.390) · Ramón $990 (contra reembolso) · Lore $990 (transferencia, sin pedido aún).
 - Tecnología (línea temporal, se deja al terminar stock): costo $6.090 + envío $900. Vendido $5.980 (4 AirPods + cable+ficha), costo vendido $2.610. Stock a costo: 3 baterías MagSafe ($380) · 4 fichas USB-C ($150) · 4 cables USB-C ($60) · 5 cargadores completos ($180) · 1 AirPods Pro 2 ($600) = $3.480.
+
+## Plan para devolver el préstamo de mamá ($10.990 una vez pagado el lote)
+- Regla 1: toda la plata de la tecnología (stock que queda + saldo AirPods $790) va directo a mamá. Al ritmo de venta anterior (≈2,3× el costo) el stock de $3.480 rinde ≈ $8.000.
+- Regla 2: por cada 2x1 vendido se separan $150 para mamá (4x2 = $300, 6x3 = $450).
+- Se le entrega a mamá cada domingo lo juntado en la semana.
+- Proyección: tecnología + AirPods ≈ $8.790 → faltan ≈ $2.200 → ≈ 15 ventas 2x1.
+- Mantener siempre ≥ $1.240 en Mercado Pago para el cobro de Meta antes de separar plata para mamá.
+- Llevar el capital actualizado cada vez que el dueño avise un movimiento (pago del lote, cobros, entregas a mamá, ventas de tecnología).

@@ -38,6 +38,7 @@ Imágenes (cada una en 1:1, 4:5, 9:16 y 1200x628):
 2. Pack 6x3 fondo negro — 4:5 https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/27dc3436-0ef0-400c-816d-d8b7e53b8fcd.jpg
 3. Mate culpable — 4:5 https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/ffa2d3cd-2b16-448c-87e6-ea72ce20d7ce.jpg
 4. Pedidos reales (foto del usuario con datos tapados).
+5. Fotos de las fiestas ("¿Sonreís con la boca cerrada en las fotos?") — 1:1 https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/daf60716-b58e-4f14-b714-5c04809ad58d.jpg · 4:5 https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/4359257b-2dde-45df-86f5-8d05669e2e91.jpg · 9:16 https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/b270cdc4-df2b-4782-b6f7-f18a877cc739.jpg · 1200x628 https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/c49400b3-63be-4760-b01e-9a618807c67e.jpg
 
 Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago · Envíos a todo Uruguay"; cada creativo tiene su texto principal y título (oferta 2x1 $990 · 6x3 envío gratis).
 

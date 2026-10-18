@@ -48,6 +48,7 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - Ganadores al 17/10: "Línea de tiempo dental VID 1.0" (WhatsApp, $192/venta), "Problemas de años 2.0" (VID, tráfico más barato), "Última chance azul 2.0" (IMG, ROAS 5,45); en duda "Dientes amarillos 2.0". Perdedores: "Sin renunciar a nada", "Dientes manchados de tantos mates".
 - Economía: lote inicial 12 frascos a $117,25 (vendidos). Lote nuevo (17/10): 100 frascos a $85 c/u ($8.500) → 2x1 cuesta $170. Tope de costo por venta del 2x1 ≈ $760 (precio − producto − comisión MP ~6%). Envío DAC: agencia $260, domicilio $330 (lo paga el cliente; gratis en 6x3, lo paga Nuvora). Shopify US$25/mes. Pedido #1010 fue prueba del dueño.
 - Web: tema "Nuvora - Botón transferencia WhatsApp" (193840808212) con tarjeta "Medios de pago" + botón WhatsApp para transferencia (snippet nv-wa-trust); publicarlo lo hace el dueño (themePublish bloqueado).
+- Testeo 3 (arranca dom 19/10 00:00): CBO web ~$1.000/día, 8 creativos nuevos + "Línea de tiempo dental VID" (ganador de WhatsApp, ahora a web; su texto debe decir comprar en la web, no WhatsApp). Revisión a las 48 h (mar 21/10): apagar avisos con gasto ≥ $380 y 0 carritos, o CTR de enlace < 0,8% con >1.500 impresiones. Los que queden siguen hasta 72–96 h y se elige ganador por costo por venta (tope $746).
 - Las ventas por WhatsApp/IG/link de pago no las ve el píxel: sumarlas a mano al evaluar.
 
 ## Contabilidad diaria (rutina 21:55 UY)

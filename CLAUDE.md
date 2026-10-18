@@ -85,3 +85,7 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 
 ## Productos nuevos
 - Para sumar otro producto seguir PLAYBOOK-nuevo-producto.md (números → investigación → tienda → 8 creativos → testeo → escalado → cuentas).
+
+## Sistema y rutina
+- Ver SISTEMA-nuvora.md (ajustes de cuentas, rutina diaria/semanal/mensual, automatizaciones, criterio para sumar producto).
+- Cierre diario: usar la fecha de Uruguay, no UTC. Mostrar ganancia y caja por separado, CPA real (gasto ÷ ventas totales) y MER.

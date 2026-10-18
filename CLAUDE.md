@@ -8,7 +8,7 @@
 ## Negocio
 - Nuvora (Uruguay). Producto: Miracle Teeth WHITENER, polvo de carbón activado de coco.
 - Tienda: nuvorauy.com (Shopify) · IG @_nuvora.uy · WhatsApp 091 498 062.
-- Pagos: Mercado Pago, transferencia, Prex. **No trabaja con contra reembolso.** Envíos con DAC desde San José de Mayo, despacho en el día.
+- Pagos: Mercado Pago, transferencia, Prex. **No trabaja con contra reembolso.** No agregar Abitab/Redpagos en la web (decisión del dueño). Envíos con DAC desde San José de Mayo, despacho en el día.
 - Oferta: 2x1 $990 · 4x2 $1.980 · 6x3 $2.970. **Envío gratis SOLO con 6x3.**
 
 ## Reglas de anuncios / IG

@@ -24,7 +24,7 @@
 
 ## 2. Rutina diaria
 
-**Mañana (celular, 20 min)**
+**9:55 · Arranque (celular, 20 min)** — el dueño rinde mejor de madrugada en la compu; se levanta 9:55.
 - Revisar pedidos nuevos de la noche (Shopify) y WhatsApp/IG.
 - Responder mensajes pendientes. Pasar a Shopify cualquier venta por fuera.
 - Generar etiquetas DAC.
@@ -34,11 +34,13 @@
 - Llevar a DAC → despacho en el día.
 - Marcar pedidos como preparados en Shopify.
 
-**Tarde (celular, 30 min)**
-- Contenido: 1 historia por día (pedidos saliendo, uso real, preguntas frecuentes).
-- Grabar material para creativos cuando hay luz de día (UGC, nada de negro y dorado).
+**17:00 · Contenido (celular)** — la alarma abre una sesión donde se define con Claude qué subir ese día:
+- Historias: todos los días, 3 a 5.
+- Reel: martes y viernes.
+- Post: domingo.
+- Grabar con luz de día (UGC, nada de negro y dorado).
 
-**Noche (antes de 21:55)**
+**Noche (antes de 21:55; lunes y jueves sale del liceo 22:05 → contesta al cierre a las 22:15)**
 - Avisarme ventas por fuera de la web, cobros, gastos o retiros del día.
 - 21:55 llega el cierre: leer ganancia, caja, CPA real, stock.
 
@@ -46,7 +48,7 @@
 
 | Día | Qué | Dónde |
 |---|---|---|
-| Lunes | Revisión de anuncios: ganadores, perdedores, qué apagar (solo si pasaron 3–4 días) | Compu |
+| Lunes 10:30 | Revisión de anuncios: ganadores, perdedores, qué apagar (solo si pasaron 3–4 días) | Compu |
 | Miércoles | Grabar/armar 2–3 creativos nuevos (iteraciones de ganadores) | Celu + compu |
 | Viernes | Reponer insumos (cinta, film, pegotines) si hace falta | Calle |
 | Domingo | Reporte semanal: ventas, ganancia, caja, stock, deuda con mamá | Celu |

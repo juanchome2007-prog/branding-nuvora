@@ -95,3 +95,21 @@ El blanqueador está "estable" cuando, **3 semanas seguidas**:
 - ganancia semanal positiva después de herramientas.
 
 Mientras tanto: 1 hora por semana de investigación (sin gastar). Cuando se cumple → PLAYBOOK-nuevo-producto.md.
+
+## 8. Plan B si no podés cumplir una alarma
+
+Regla general: lo que toca plata o clientes (pedidos, DAC, cuentas) no se saltea, se corre. El contenido y lo semanal sí se pueden saltear.
+
+| Alarma | Si no podés | Mínimo indispensable |
+|---|---|---|
+| 9:55 Arranque | Hacelo apenas agarres el celu, antes de las 11:50 | Responder a quien quiere comprar (2 min) |
+| 11:50 DAC | Despachá en el otro horario de DAC del día; si no llegás, avisale al cliente por WhatsApp que sale mañana temprano | Nunca dejar un pedido pago más de 24 h sin despachar |
+| 17:00 Contenido | Subí 1 sola historia (pedido saliendo o la oferta) o reciclá una vieja; el reel pasa al día siguiente | 1 historia |
+| 21:25 / 22:15 Cuentas | Contestale al cierre al otro día de mañana; Claude recalcula | Anotar en notas del celu ventas por fuera y gastos para no olvidarlos |
+| Lunes anuncios | Hacelo martes; mientras, no toques nada (los anuncios siguen solos) | Mirar que ningún anuncio gaste más de $746 por venta |
+| Miércoles creativos | Pasa al jueves o al fin de semana | 1 creativo en vez de 3 |
+| Viernes insumos | Sábado; si se terminó algo, comprá lo justo para los pedidos del día | Que no falte cinta ni film |
+| Domingo reporte | Lunes a la mañana | — |
+
+Si una alarma se te cruza seguido (más de 2 veces en una semana), avisale a Claude y se cambia el horario.
+Si tenés un día imposible (examen, viaje, enfermo): avisale a Claude a la mañana y se arma un plan del día solo con lo indispensable.

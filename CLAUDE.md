@@ -99,3 +99,9 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 
 ## Productos nuevos
 - Para sumar otro producto seguir PLAYBOOK-nuevo-producto.md (números → investigación → tienda → 8 creativos → testeo → escalado → cuentas).
+
+## Campaña 4 (propuesta 19/10): CBO a WhatsApp con los mejores creativos
+- Objetivo Ventas, conversión en "Mensajes → WhatsApp" (091 498 062). CBO ~$700/día, 3–4 días sin tocar.
+- VID: LINEA DE TIEMPO DENTAL (2 ventas WhatsApp a $192; CTR 2,28% en 3.0) · SI SEGUIS SIN USAR ESTO (CTR 1,39%, 1 carrito) · PROBLEMAS DE AÑOS 2.0 (1 venta web, tráfico barato).
+- IMG: ULTIMA CHANCE AZUL 2.0 (1 venta a $191) · DIENTES AMARILLOS 2.0 (1 venta a $829) · SONREIS CON LA BOCA CERRADA 3.0 (CTR 1,2%, poco gasto).
+- Textos adaptados a WhatsApp (botón "Enviar mensaje", "Escribinos y te asesoramos"). Guion de respuestas, objeciones, seguimientos y audios: WHATSAPP-guion-ventas.md.

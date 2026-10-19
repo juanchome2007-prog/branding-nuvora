@@ -126,6 +126,15 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - Proceso: primero proponer ideas y texto de cada slide al dueño, armar solo cuando dice "va".
 - Serie del 19/10: mates https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/bf3c9499-16d1-4206-a51d-e845092a4f91.jpg · boca cerrada …/902232f4-5ef4-4b3a-8369-96436eb8c7a4.jpg · secreto …/4536c36f-278e-432c-937a-2f3b32f432cd.jpg · Vicky …/05f6175b-039c-476e-93c1-f93778d22ca9.jpg · regalo 2x1 …/b84b081c-ce1e-4297-9a1c-efbf68f27234.jpg
 
+## Sistema orgánico de IG (aprobado por el dueño 19/10)
+- Solo Reels + historias. Sin sorteos ni otras tácticas salvo que el dueño lo pida.
+- 1) Reels de PRUEBA ("Reels de prueba"/Trial reels de IG: se muestran solo a NO seguidores) → alcance y seguidores nuevos. 1 por día, hooks distintos sobre la misma idea; el que supera el promedio (vistas, retención, seguidores) se comparte al perfil y se itera.
+- 2) Reels de NUTRICIÓN (para seguidores, 2–3/semana) → educan y dan confianza: cómo se usa, errores comunes, tips para materos, respuestas a preguntas reales, detrás de escena de los pedidos.
+- 3) HISTORIAS para VENDER → serie de 5 slides a las 20:00 (método "aburre vs vende").
+- Flujo: prueba atrae → nutrición convence → historias venden.
+- Formato reel: 7–15 s, 9:16, hook en texto en el 1er segundo, luz natural/UGC, sin la cara del dueño (manos, mate, frasco, espejo), audio en tendencia, cierre "Seguinos" (prueba) o pregunta para comentar (nutrición). Mismas reglas de claims + disclaimer.
+- Proceso: proponer ideas y textos → armar solo con "va".
+
 ## Landing (19/10)
 - Publicado: "Nuvora - Reseña WhatsApp 2" (193921548564). Copia nueva SIN publicar: "Nuvora - Landing ordenada" (193924530452) con orden atención→dolor→solución→confianza→acción: producto (+ franja de confianza nv-trust-strip: pago seguro · sale hoy con seguimiento DAC · te responde una persona real) → problema ("Lo que tus mates le hacen a tu sonrisa") → por qué elegir + tarjetas → ingredientes → modo de uso → antes/después → reseñas → pedidos reales → comparativa → dudas (nuevas: cuánto pago en total, cómo pago MP/transferencia/Prex, cuándo me llega) + cierre → contacto.
 - Decisiones del dueño: se QUEDA el antes/después y las frases actuales de la landing (no aprobó sacarlas). Garantías aprobadas (19/10): (1) si llega dañado, el cliente manda el VIDEO de apertura y se le manda otro sin costo (sacar foto de cada paquete antes de cerrarlo); (2) si DAC no lo entrega (se verifica con seguimiento), se manda otro; (3) respuesta en el día por WhatsApp. NO: devolución por gusto ni garantía de resultados. Entrega: sale en el día, llega al día siguiente o a más tardar en 2 días hábiles.

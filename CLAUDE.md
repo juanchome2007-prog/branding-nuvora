@@ -75,7 +75,7 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 
 ## Capital (al 18/10/2026)
 - Aportes: propio $1.407 (12 frascos) · regalo de mamá $510 (anuncios campaña WhatsApp) · préstamo de mamá $6.990 (tecnología + envío), sin fecha de devolución.
-- Deudas: mamá $10.990 ($6.990 + $4.000 para el lote) · proveedor $0 · Meta cobra cada $1.240 de gasto desde Mercado Pago (dejar reserva ahí; pasar de Prex a MP cuesta $45).
+- Deudas: mamá $10.990 ($6.990 + $4.000 para el lote) · proveedor $0 · Meta cobra cada $2.480 de gasto desde Mercado Pago (límite duplicado el 19/10; antes $1.240) (dejar reserva ahí; pasar de Prex a MP cuesta $45).
 - Lote 100 frascos PAGADO el 18/10: $8.500 = $2.500 efectivo + $2.000 MP + $4.000 préstamo de mamá.
 - Caja al 18/10 13:23 (después de pagar el lote y cobro de Meta $507,71 a las 06:40, saldo de gasto viejo): efectivo $150 · Mercado Pago $1.241,88 · Prex $7 = $1.398,88. Los cobros de Meta son movimiento de caja, NO costo extra (el costo ya se cuenta con el gasto total de Meta). Retiro personal 16/10: $150 (ocio). Caja al 19/10 (retiro $50 ocio en efectivo): efectivo $100 · MP $1.241,88 · Prex $7 = $1.348,88.
 - Cuenta Scotiabank (caja de ahorro UYU) que a veces se pasa a clientes = es de MAMÁ, no del dueño. Si un cliente paga ahí: anotarlo como venta y preguntar al dueño si mamá se lo pasa (entra a caja) o queda como devolución del préstamo. Preferir siempre pasar la cuenta de Mercado Pago del dueño (ahí cobra Meta).
@@ -89,7 +89,7 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - Tecnología (réplicas: NUNCA por Nuvora ni con anuncios; boca en boca; precios los pone el dueño): cada venta se anota (qué, precio, cobrado o no, stock que queda). Ganancia = precio − costo del producto.
 - Cierre de fin de mes: ganancia del mes = ganancia neta de Nuvora (después de anuncios, producto, empaque, MP, envíos, herramientas) + ganancia de tecnología vendida. 50% a mamá, 50% se reinvierte. Mes con pérdida: no se paga.
 - Octubre 2026 = mes de testeo: no se paga.
-- Mantener siempre ≥ $1.240 en Mercado Pago para el cobro de Meta.
+- Reserva en Mercado Pago para Meta: tener siempre al menos lo gastado en anuncios desde el último cobro (tope $2.480). Último cobro 18/10 06:40; después se gastaron ≈$1.052 (campaña 3.O, pausada).
 - Referencia: con CPA ~$400 hacen falta ~13 ventas 2x1/mes para cubrir herramientas; ~30/mes ≈ $2.900 a mamá; ~45/mes ≈ $5.500.
 - Reporte de cierre de mes (siempre este formato): ganancia del mes (Nuvora + tecnología) → 50% mamá / 50% reinversión; plata en mano (efectivo, MP, Prex); stock (frascos y tecnología a costo); deuda con mamá que queda; capital neto y cuánto creció vs el mes anterior.
 - Retiros personales (ocio o imprevistos de la vida pagados con plata del negocio): el dueño los avisa (monto, fecha, motivo: ocio/imprevisto, de dónde salió: efectivo/MP/Prex). No son gasto del negocio (no bajan la ganancia ni la parte de mamá): restan de la plata en mano y del 50% de reinversión. En el cierre se listan con total del mes. Retiros: 16/10 $150 ocio (efectivo) · 19/10 $50 ocio (efectivo). Total octubre: $200.

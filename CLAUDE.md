@@ -28,7 +28,7 @@
 
 ## Creativos del testeo 3 (campaña "CBO - BLANQUEADOR DENTAL COCO 3.O", id 120251634378310524)
 Videos (voz del usuario, ganchos con lip sync):
-1. Demostración — https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/d36a3ed7-7b18-46e6-8724-8ccb720eca7f.mp4
+1. Demostración — https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/d36a3ed7-7b18-46e6-8724-8ccb720eca7f.mp4 ⚠️ CORREGIR antes de volver a usar: en el cepillado la boca debe verse negra por el polvo (sale blanca) y en el enjuague tiene que ESCUPIR el agua (en el video se la traga).
 2. Empezá hoy — https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/cc4d166c-3bf2-409d-9e4c-4932538fada8.mp4
 3. No es para vos — https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/3b0444c8-9f77-4db5-93e0-3db05ce6de96.mp4
 4. No es magia — https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/f60ef4d7-b554-40a0-97f6-87ecaeba0779.mp4

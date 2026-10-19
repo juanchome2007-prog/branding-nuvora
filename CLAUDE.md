@@ -79,7 +79,7 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - Lote 100 frascos PAGADO el 18/10: $8.500 = $2.500 efectivo + $2.000 MP + $4.000 préstamo de mamá.
 - Caja al 18/10 13:23 (después de pagar el lote y cobro de Meta $507,71 a las 06:40, saldo de gasto viejo): efectivo $150 · Mercado Pago $1.241,88 · Prex $7 = $1.398,88. Los cobros de Meta son movimiento de caja, NO costo extra (el costo ya se cuenta con el gasto total de Meta). Retiro personal 16/10: $150 (ocio). Caja al 19/10 (retiros $50 ocio + $64 imprevisto en efectivo, $236 ocio en MP): efectivo $36 · MP $1.005,88 · Prex $7 = $1.048,88.
 - Cuenta Scotiabank (caja de ahorro UYU) que a veces se pasa a clientes = es de MAMÁ, no del dueño. Si un cliente paga ahí: anotarlo como venta y preguntar al dueño si mamá se lo pasa (entra a caja) o queda como devolución del préstamo. Preferir siempre pasar la cuenta de Mercado Pago del dueño (ahí cobra Meta).
-- Por cobrar: AirPods $790 (seña $600 de $1.390) · Ramón $990 (contra reembolso) · Lore $990 (transferencia, sin pedido aún).
+- Por cobrar: AirPods $790 (seña $600 de $1.390) · Ramón $990 (contra reembolso, ENTREGADO 19/10: falta ir a cobrarlo en efectivo) · Lore $990 (transferencia, sin pedido aún).
 - Tecnología (línea temporal, se deja al terminar stock): costo $6.090 + envío $900. Vendido $5.980 (4 AirPods + cable+ficha), costo vendido $2.610. Stock a costo: 3 baterías MagSafe ($380) · 4 fichas USB-C ($150) · 4 cables USB-C ($60) · 5 cargadores completos ($180) · 1 AirPods Pro 2 ($600) = $3.480.
 
 ## Plan para devolver el préstamo de mamá ($10.990)

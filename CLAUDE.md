@@ -109,3 +109,10 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - VID: LINEA DE TIEMPO DENTAL (2 ventas WhatsApp a $192; CTR 2,28% en 3.0) · SI SEGUIS SIN USAR ESTO (CTR 1,39%, 1 carrito) · PROBLEMAS DE AÑOS 2.0 (1 venta web, tráfico barato).
 - IMG: ULTIMA CHANCE AZUL 2.0 (1 venta a $191) · DIENTES AMARILLOS 2.0 (1 venta a $829) · SONREIS CON LA BOCA CERRADA 3.0 (CTR 1,2%, poco gasto).
 - Textos adaptados a WhatsApp (botón "Enviar mensaje", "Escribinos y te asesoramos"). Guion de respuestas, objeciones, seguimientos y audios: WHATSAPP-guion-ventas.md.
+
+## Historias de IG: método "aburre vs vende" (aprobado por el dueño 19/10)
+- Nunca historias que solo informan ("Tenemos stock", "Envíos a todo Uruguay", "2x1 $990" a secas). Cada slide con un HOOK que hable de lo que el cliente gana o pierde: "El secreto de…", "Lo que tus mates le hacen a…", "El regalo que…", "El upgrade que…", preguntas de identificación ("¿Sonreís con la boca cerrada…?").
+- Formato de serie (5 slides que cuentan una historia, se suben juntas ~20:00): 1 Hook de dolor (sin sticker) → 2 Identificación (encuesta) → 3 Secreto/producto → 4 Prueba real (captura de cliente, datos tapados) → 5 Oferta + CTA (sticker WhatsApp/enlace).
+- Diseño: foto UGC con luz natural + texto grande Montserrat ExtraBold blanco con la palabra clave resaltada en caja amarilla #FFC425 (o en amarillo); degradado oscuro detrás del texto; disclaimer chico cuando se insinúa resultado.
+- Proceso: primero proponer ideas y texto de cada slide al dueño, armar solo cuando dice "va".
+- Serie del 19/10: mates https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/bf3c9499-16d1-4206-a51d-e845092a4f91.jpg · boca cerrada …/902232f4-5ef4-4b3a-8369-96436eb8c7a4.jpg · secreto …/4536c36f-278e-432c-937a-2f3b32f432cd.jpg · Vicky …/05f6175b-039c-476e-93c1-f93778d22ca9.jpg · regalo 2x1 …/b84b081c-ce1e-4297-9a1c-efbf68f27234.jpg

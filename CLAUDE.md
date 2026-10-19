@@ -113,6 +113,14 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 ## Historias de IG: método "aburre vs vende" (aprobado por el dueño 19/10)
 - Nunca historias que solo informan ("Tenemos stock", "Envíos a todo Uruguay", "2x1 $990" a secas). Cada slide con un HOOK que hable de lo que el cliente gana o pierde: "El secreto de…", "Lo que tus mates le hacen a…", "El regalo que…", "El upgrade que…", preguntas de identificación ("¿Sonreís con la boca cerrada…?").
 - Formato de serie (5 slides que cuentan una historia, se suben juntas ~20:00): 1 Hook de dolor (sin sticker) → 2 Identificación (encuesta) → 3 Secreto/producto → 4 Prueba real (captura de cliente, datos tapados) → 5 Oferta + CTA (sticker WhatsApp/enlace).
+- Cada serie recorre ATENCIÓN → INTERÉS → CONFIANZA → ACCIÓN (hook = atención · identificación + secreto = interés · prueba real = confianza · oferta = acción). Objetivo: que la persona indicada piense "Necesito esto". Un solo CTA por serie.
+- Antes de proponer una serie, responder las 6 preguntas (base fija de Nuvora; ajustar el ángulo del día):
+  1. ¿A quién? Uruguayos/as 25–50 que toman mate y/o café todos los días y se sacan fotos (fiestas, eventos).
+  2. ¿Qué problema tiene? Manchas de mate y café; sonríe con la boca cerrada; vergüenza en fotos.
+  3. ¿Qué quiere lograr? Sonreír tranquilo/a en las fotos y en el día a día, sin ir al dentista estético.
+  4. ¿Por qué le debería importar ahora? Se vienen las fiestas y las fotos; es barato y lo hace en casa.
+  5. ¿Qué nos hace diferentes? Carbón activado de coco, se usa en 2 minutos, 2x1 $990, despacho en el día, te responde una persona real por WhatsApp.
+  6. ¿Qué debe hacer después? UNA acción: escribir por WhatsApp o tocar el enlace a la web.
 - Diseño: foto UGC con luz natural + texto grande Montserrat ExtraBold blanco con la palabra clave resaltada en caja amarilla #FFC425 (o en amarillo); degradado oscuro detrás del texto; disclaimer chico cuando se insinúa resultado.
 - Proceso: primero proponer ideas y texto de cada slide al dueño, armar solo cuando dice "va".
 - Serie del 19/10: mates https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/bf3c9499-16d1-4206-a51d-e845092a4f91.jpg · boca cerrada …/902232f4-5ef4-4b3a-8369-96436eb8c7a4.jpg · secreto …/4536c36f-278e-432c-937a-2f3b32f432cd.jpg · Vicky …/05f6175b-039c-476e-93c1-f93778d22ca9.jpg · regalo 2x1 …/b84b081c-ce1e-4297-9a1c-efbf68f27234.jpg

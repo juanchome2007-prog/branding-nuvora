@@ -35,9 +35,9 @@ Reglas: nada de "100%", "no daña el esmalte", "resultados en X días", antes/de
 ## 6. Cierre — datos para el envío [/datos]
 > ¡Buenísimo! Pasame así te lo preparo:
 > • Nombre y apellido
-> • Cédula
 > • Celular
-> • Ciudad y agencia DAC (o dirección si lo querés a domicilio)
+> • Departamento o ciudad
+> • ¿A agencia DAC o a domicilio? (decime cuál agencia o la dirección)
 
 ## 7. Confirmación [/listo]
 > ¡Listo! Ya está tu pedido ✅
@@ -88,7 +88,7 @@ Mandá audio en 3 momentos: cuando duda si funciona, cuando dice "lo voy a pensa
 "Dale, sin problema. Solo te cuento que el 2x1 a 990 está ahora, y si lo querés para más de una persona, el de cuatro sale con envío gratis. Cualquier duda me escribís o me mandás un audio, ¿sí?"
 
 **Audio de cierre (ya eligió pack)**
-"¡Buenísimo! Pasame tu nombre, cédula y a qué agencia de DAC te queda bien, y hoy mismo te lo despacho. Para pagar te paso el link de Mercado Pago o la cuenta, lo que te quede más cómodo."
+"¡Buenísimo! Pasame tu nombre, celular, de dónde sos y si lo querés en agencia de DAC o a domicilio, y hoy mismo te lo despacho. Para pagar te paso el link de Mercado Pago o la cuenta, lo que te quede más cómodo."
 
 ---
 

@@ -47,6 +47,10 @@ Ideas pendientes para el próximo testeo (iteraciones), en los 4 formatos:
 - Problema / Solución (pantalla dividida): izquierda "El problema" (🧉 manchas de mate y café · 🪥 el cepillado común no alcanza · ⏱️ sin tiempo para tratamientos); derecha "La solución": frasco al centro con flechas "Carbón activado de coco" · "Ayuda con manchas de mate y café*" · "Se usa en 2 minutos" · "2x1 $990" + disclaimer. Sin "100.000 clientes" ni "clínicamente probado".
 - Advertorial con marca propia (NO imitar El País ni otro medio real): "Nuvora · Historias de San José", solo datos reales + foto real de pedidos.
 
+- "Notitas a mano" (estilo UGC con post-its/tarjeta, aprobado por el dueño 19/10, usar como anuncio en un testeo; generar también 1:1, 4:5 y 1200x628 y sumar disclaimer en el texto del anuncio):
+  - Espejo con 3 post-its ("mate ✓ café ✓" · "2 minutos y listo" · "Aclará tus dientes y sonreí siempre") 9:16 — https://d8j0ntlcm91z4.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/hf_20261019_200358_5eb136df-2335-4934-ac25-ca091487f51d.png (job 5eb136df-2335-4934-ac25-ca091487f51d)
+  - Mate en la mesa ("Para los que no largan el mate 🧉♡") 9:16 — https://d8j0ntlcm91z4.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/hf_20261019_200102_c415b4c0-bb24-4291-ad13-d3a39a979fc7.png (job c415b4c0-bb24-4291-ad13-d3a39a979fc7)
+
 Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago · Envíos a todo Uruguay"; cada creativo tiene su texto principal y título (oferta 2x1 $990 · 6x3 envío gratis).
 
 ## Estrategia de campañas

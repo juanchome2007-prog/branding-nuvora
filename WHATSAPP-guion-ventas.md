@@ -95,3 +95,57 @@ Mandá audio en 3 momentos: cuando duda si funciona, cuando dice "lo voy a pensa
 ## Después de cada venta
 1. Crear el pedido en Shopify (las ventas por WhatsApp no las ve el píxel) y avisarle a Claude.
 2. A los 4–5 días: "¡Hola! ¿Cómo te va con el blanqueador? 😊" → si responde bien, pedirle permiso para usar la captura (con datos tapados).
+
+---
+
+## Textos de anuncios — Campaña 4 (WhatsApp)
+Botón: **Enviar mensaje** · Descripción: **Te respondemos al toque · Envíos a todo Uruguay**
+Mensaje automático de bienvenida (Meta): "¡Hola! Quiero info del 2x1 😊"
+
+### VID 1 — LINEA DE TIEMPO DENTAL
+**Texto:** Años de mate y café se notan en la sonrisa 🧉☕
+Con carbón activado de coco te cepillás 2 minutos y listo.*
+🔥 2x1 a $990 · 🎁 Envío gratis en 4x2 y 6x3
+💬 Escribinos por WhatsApp y te asesoramos.
+*Los resultados pueden variar según cada persona.
+**Título:** 2x1 a $990 · Escribinos 💬
+
+### VID 2 — SI SEGUIS SIN USAR ESTO
+**Texto:** Si seguís sonriendo con la boca cerrada, esto es para vos 😬
+Carbón activado de coco: ayuda con manchas de mate y café* y se usa en 2 minutos.
+🔥 2x1 a $990 · Despachamos en el día 📦
+💬 Mandanos un mensaje y te contamos todo.
+*Los resultados pueden variar según cada persona.
+**Título:** Preguntanos por WhatsApp 💬
+
+### VID 3 — PROBLEMAS DE AÑOS
+**Texto:** ¿El mate te dejó los dientes amarillos? No sos el único 🧉
+Probá el carbón activado de coco: ayuda con las manchas* y lo usás en tu cepillado de siempre.
+🔥 2x1 a $990 · 🎁 Envío gratis en 4x2 y 6x3
+💬 Escribinos y te respondemos al toque.
+*Los resultados pueden variar según cada persona.
+**Título:** 2 frascos a $990 🔥
+
+### IMG 1 — ULTIMA CHANCE AZUL
+**Texto:** Quedan pocos packs 2x1 a $990 🔥
+Carbón activado de coco para las manchas de mate y café.*
+📦 Envíos a todo Uruguay por DAC, despachamos en el día.
+💬 Escribinos y reservá el tuyo.
+*Los resultados pueden variar según cada persona.
+**Título:** Reservá tu 2x1 💬
+
+### IMG 2 — DIENTES AMARILLOS
+**Texto:** Dientes amarillos por el mate y el café? 🧉☕
+Carbón activado de coco: lo usás 2 minutos y listo.*
+🔥 2x1 a $990 · 🎁 4x2 y 6x3 con envío gratis
+💬 Mandanos un WhatsApp y te asesoramos.
+*Los resultados pueden variar según cada persona.
+**Título:** 2x1 a $990 · Consultanos
+
+### IMG 3 — SONREIS CON LA BOCA CERRADA
+**Texto:** ¿Sonreís con la boca cerrada en las fotos? 📸
+Se vienen las fiestas: arrancá hoy con carbón activado de coco.*
+🔥 2x1 a $990 · Despachamos en el día 📦
+💬 Escribinos y te contamos cómo se usa.
+*Los resultados pueden variar según cada persona.
+**Título:** Escribinos por WhatsApp 💬

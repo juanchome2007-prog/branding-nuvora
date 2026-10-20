@@ -106,7 +106,12 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 ## Productos nuevos
 - Para sumar otro producto seguir PLAYBOOK-nuevo-producto.md (números → investigación → tienda → 8 creativos → testeo → escalado → cuentas).
 
-## Campaña 4 (propuesta 19/10): CBO a WhatsApp con los mejores creativos
+## Campaña 4 (CREADA 20/10, EN PAUSA, la revisa y activa el dueño): "CBO - BLANQUEADOR DENTAL COCO 4.0 WHATSAPP" (id 120251660448040524)
+- Conjuntos: "BLANQUEADOR DENTAL VID 4.0" (120251660451130524) y "BLANQUEADOR DENTAL IMG 4.0" (120251660451500524); objetivo Ventas, optimiza Conversaciones, destino WhatsApp, UY 25–50 (Advantage+ público/ubicaciones), CBO $700/día.
+- Ads (6, textos del guion, nombres "… - WPP 4.0"): LINEA DE TIEMPO DENTAL, SI SEGUIS SIN USAR ESTO, PROBLEMAS DE AÑOS · ULTIMA CHANCE AZUL, DIENTES AMARILLOS, SONREIS CON LA BOCA CERRADA.
+- Al revisar en Ads Manager: elegir cuenta de IG @_nuvora.uy en cada anuncio (el conector no la ve), número WhatsApp 091 498 062, mensaje de bienvenida "¡Hola! Quiero info del 2x1 😊", portada de los 3 videos (quedó en baja resolución, cambiarla por un fotograma).
+- Antes de que Meta cobre ($2.480 a ~2 días de $700): cargar en MP lo de Ramón ($990); si no, bajar a $500/día.
+### Campaña 4 (propuesta 19/10): CBO a WhatsApp con los mejores creativos
 - Objetivo Ventas, conversión en "Mensajes → WhatsApp" (091 498 062). CBO ~$700/día, 3–4 días sin tocar.
 - VID: LINEA DE TIEMPO DENTAL (2 ventas WhatsApp a $192; CTR 2,28% en 3.0) · SI SEGUIS SIN USAR ESTO (CTR 1,39%, 1 carrito) · PROBLEMAS DE AÑOS 2.0 (1 venta web, tráfico barato).
 - IMG: ULTIMA CHANCE AZUL 2.0 (1 venta a $191) · DIENTES AMARILLOS 2.0 (1 venta a $829) · SONREIS CON LA BOCA CERRADA 3.0 (CTR 1,2%, poco gasto).

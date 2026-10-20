@@ -56,6 +56,11 @@ Reglas: nada de "100%", "no daña el esmalte", "resultados en X días", antes/de
 > Es un polvo de carbón de coco, se usa suave como un cepillado normal.
 > Si tenés sensibilidad o algún tratamiento, lo mejor es consultarlo con tu dentista 👍
 
+**"¿Saca el sarro?"** [/sarro]
+> El sarro ya endurecido lo saca solo el dentista con una limpieza 🦷
+> Esto ayuda con las manchas de mate y café en la superficie del diente, y lo usás en tu cepillado de siempre.
+(Nunca decir que saca sarro. Uso sugerido: 2 o 3 veces por semana, cepillado suave.)
+
 **"Está caro"** [/caro]
 > Te entiendo. Con el 2x1 cada frasco te queda a $495 y te dura bastante.
 > Si lo compartís con alguien de tu casa, el 4x2 sale lo mismo por frasco y el envío es gratis.

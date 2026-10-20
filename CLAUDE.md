@@ -143,7 +143,8 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - Flujo: prueba atrae → nutrición convence → historias venden.
 - Formato reel: 7–15 s, 9:16, hook en texto en el 1er segundo, luz natural/UGC, sin la cara del dueño (manos, mate, frasco, espejo), audio en tendencia, cierre "Seguinos" (prueba) o pregunta para comentar (nutrición). Mismas reglas de claims + disclaimer.
 - Proceso: proponer ideas y textos → armar solo con "va".
-- Reels hechos: mar 20/10 PRUEBA "Si tomás más de 5 mates por día" (12 s, 4 clips kling3_0 std, 10 créditos c/u) https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/fcec6540-8d36-47e0-accb-a42be670b3bf.mp4
+- Reels hechos: mar 20/10 PRUEBA "Si tomás más de 5 mates por día" (12 s, 4 clips kling3_0 std, 10 créditos c/u) https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/1785e3af-40ad-4c72-8f81-1d98a5ea51cf.mp4 (v2: escena 2 reutilizada del video Demostración, seg 7–9,7, cepillo de bambú; subtítulo viejo tapado)
+- Ahorro de créditos (idea del dueño): reutilizar escenas buenas de videos anteriores antes de generar nuevas. Escenas reutilizables del video Demostración (d36a3ed7…): 0–4 s chica con frasco y cepillo; 5–7 s mojar cepillo; 7–10 s cepillo en el polvo; 10–14 s cepillado (ojo: boca no negra); 20–35 s coco y carbón, polvo con microporos; 35–49 s frascos en el baño. Tienen subtítulos quemados abajo al centro: taparlos con el texto propio.
 - Créditos Higgsfield: plan Plus; el dueño cargó créditos el 20/10 (quedaban ~204 antes de los 3 clips). Avisar costo antes de generar video.
 
 ## Landing (19/10)

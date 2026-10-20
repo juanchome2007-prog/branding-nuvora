@@ -111,6 +111,8 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - Ads (6, textos del guion, nombres "… - WPP 4.0"): LINEA DE TIEMPO DENTAL, SI SEGUIS SIN USAR ESTO, PROBLEMAS DE AÑOS · ULTIMA CHANCE AZUL, DIENTES AMARILLOS, SONREIS CON LA BOCA CERRADA.
 - Al revisar en Ads Manager: elegir cuenta de IG @_nuvora.uy en cada anuncio (el conector no la ve), número WhatsApp 091 498 062, mensaje de bienvenida "¡Hola! Quiero info del 2x1 😊", portada de los 3 videos (quedó en baja resolución, cambiarla por un fotograma).
 - Antes de que Meta cobre ($2.480 a ~2 días de $700): cargar en MP lo de Ramón ($990); si no, bajar a $500/día.
+- Edad: el dueño la puso 18–65+ (20/10). Ubicación corregida a "viven o estuvieron recientemente" (Meta suprimió la opción vieja).
+- Regla de escalado (idea del dueño, "presupuesto = margen × 4"): margen 2x1 ≈ $746 → ×4 ≈ $3.000/día. Solo para ESCALAR un ganador probado (CPA < $400 y 3+ ventas), no para testear. Camino: testeo $700/día 3–4 días → subir 20–30% cada 2–3 días mientras el CPA quede bajo el margen → ~$3.000/día cuando la caja y la atención de WhatsApp lo permitan.
 ### Campaña 4 (propuesta 19/10): CBO a WhatsApp con los mejores creativos
 - Objetivo Ventas, conversión en "Mensajes → WhatsApp" (091 498 062). CBO ~$700/día, 3–4 días sin tocar.
 - VID: LINEA DE TIEMPO DENTAL (2 ventas WhatsApp a $192; CTR 2,28% en 3.0) · SI SEGUIS SIN USAR ESTO (CTR 1,39%, 1 carrito) · PROBLEMAS DE AÑOS 2.0 (1 venta web, tráfico barato).

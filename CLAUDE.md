@@ -106,11 +106,12 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 ## Productos nuevos
 - Para sumar otro producto seguir PLAYBOOK-nuevo-producto.md (números → investigación → tienda → 8 creativos → testeo → escalado → cuentas).
 
-## Campaña 4 (CREADA 20/10, EN PAUSA, la revisa y activa el dueño): "CBO - BLANQUEADOR DENTAL COCO 4.0 WHATSAPP" (id 120251660448040524)
+## Campaña 4 (PUBLICADA por el dueño 20/10 ~02:30 UY; revisión 48 h jue 22/10 20:45 UY, trigger trig_013c3NuuBCkTxPUqy6vBJGSy): "CBO - BLANQUEADOR DENTAL COCO 4.0 WHATSAPP" (id 120251660448040524)
 - Conjuntos: "BLANQUEADOR DENTAL VID 4.0" (120251660451130524) y "BLANQUEADOR DENTAL IMG 4.0" (120251660451500524); objetivo Ventas, optimiza Conversaciones, destino WhatsApp, UY 25–50 (Advantage+ público/ubicaciones), CBO $700/día.
 - Ads (6, textos del guion, nombres "… - WPP 4.0"): LINEA DE TIEMPO DENTAL, SI SEGUIS SIN USAR ESTO, PROBLEMAS DE AÑOS · ULTIMA CHANCE AZUL, DIENTES AMARILLOS, SONREIS CON LA BOCA CERRADA.
 - Al revisar en Ads Manager: elegir cuenta de IG @_nuvora.uy en cada anuncio (el conector no la ve), número WhatsApp 091 498 062, mensaje de bienvenida "¡Hola! Quiero info del 2x1 😊", portada de los 3 videos (quedó en baja resolución, cambiarla por un fotograma).
 - Antes de que Meta cobre ($2.480 a ~2 días de $700): cargar en MP lo de Ramón ($990); si no, bajar a $500/día.
+- WhatsApp: botones de preguntas frecuentes (plantilla "Nuvora 2x1 WPP 4.0"): "Quiero el 2x1 a $990 🔥" (resp.: …¿A qué ciudad te lo mando?) · "¿Cómo se usa?" · "¿Cuánto sale el envío?".
 - Edad: el dueño la puso 18–65+ (20/10). Ubicación corregida a "viven o estuvieron recientemente" (Meta suprimió la opción vieja).
 - Regla de escalado (idea del dueño, "presupuesto = margen × 4"): margen 2x1 ≈ $746 → ×4 ≈ $3.000/día. Solo para ESCALAR un ganador probado (CPA < $400 y 3+ ventas), no para testear. Camino: testeo $700/día 3–4 días → subir 20–30% cada 2–3 días mientras el CPA quede bajo el margen → ~$3.000/día cuando la caja y la atención de WhatsApp lo permitan.
 ### Campaña 4 (propuesta 19/10): CBO a WhatsApp con los mejores creativos

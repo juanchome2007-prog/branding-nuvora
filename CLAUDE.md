@@ -143,6 +143,8 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - Flujo: prueba atrae → nutrición convence → historias venden.
 - Formato reel: 7–15 s, 9:16, hook en texto en el 1er segundo, luz natural/UGC, sin la cara del dueño (manos, mate, frasco, espejo), audio en tendencia, cierre "Seguinos" (prueba) o pregunta para comentar (nutrición). Mismas reglas de claims + disclaimer.
 - Proceso: proponer ideas y textos → armar solo con "va".
+- Reels hechos: mar 20/10 PRUEBA "Si tomás más de 5 mates por día" (12 s, 4 clips kling3_0 std, 10 créditos c/u) https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/fcec6540-8d36-47e0-accb-a42be670b3bf.mp4
+- Créditos Higgsfield: plan Plus; el dueño cargó créditos el 20/10 (quedaban ~204 antes de los 3 clips). Avisar costo antes de generar video.
 
 ## Landing (19/10)
 - Publicado: "Nuvora - Reseña WhatsApp 2" (193921548564). Copia nueva SIN publicar: "Nuvora - Landing ordenada" (193924530452) con orden atención→dolor→solución→confianza→acción: producto (+ franja de confianza nv-trust-strip: pago seguro · sale hoy con seguimiento DAC · te responde una persona real) → problema ("Lo que tus mates le hacen a tu sonrisa") → por qué elegir + tarjetas → ingredientes → modo de uso → antes/después → reseñas → pedidos reales → comparativa → dudas (nuevas: cuánto pago en total, cómo pago MP/transferencia/Prex, cuándo me llega) + cierre → contacto.

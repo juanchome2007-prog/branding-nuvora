@@ -147,6 +147,7 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - Formato reel: 7–15 s, 9:16, hook en texto en el 1er segundo, luz natural/UGC, sin la cara del dueño (manos, mate, frasco, espejo), audio en tendencia, cierre "Seguinos" (prueba) o pregunta para comentar (nutrición). Mismas reglas de claims + disclaimer.
 - Proceso: proponer ideas y textos → armar solo con "va".
 - Reels hechos: mar 20/10 PRUEBA "Si tomás más de 5 mates por día" (12 s, 4 clips kling3_0 std, 10 créditos c/u) https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/07ce30de-eab4-4ec6-a7f2-73bf306bb786.mp4 (v4 final, 15 s: mate · cepillo en polvo · cepillado negro · enjuague y sonrisa · frasco)
+- mié 21/10 PRUEBA "Si vivís en Uruguay y con menos de $1.000" (fórmula 1, 19 s, voz IA uruguaya mujer que hizo el dueño, solo escenas del banco, 0 créditos) https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/56dbd941-5254-4f6f-8834-1dfc956cb94a.mp4
 - BANCO DE ESCENAS (guardar SIEMPRE las que salen bien, sin texto, para reutilizar en cualquier video):
   - Cepillo de dientes (blanco/celeste) entra al frasco y sale cargado de polvo negro, 3,5 s 9:16 — https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/8cb5b669-12f7-4a64-a659-014618092434.mp4 (imagen base job 006363be-1d47-4ebf-aac1-ad271e787b3c)
   - Cebando mate con termo, 5 s — https://d8j0ntlcm91z4.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/hf_20261020_070619_e08b1f42-bde4-4008-9149-33594a515e3d.mp4

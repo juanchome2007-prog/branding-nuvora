@@ -128,7 +128,7 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - Ventas, píxel 1561096599143168 (Compra), UY 25–55 Advantage+, destino página del producto. Conjuntos: VID 5.0 WEB (120251692160040524) e IMG 5.0 WEB (120251692166310524).
 - Ads VID: EL ERROR 120251692279380524 · BOCA CERRADA 120251692279750524 · MENOS DE 1000 120251692280040524 · PEDIDO 120251692280490524.
 - Ads IMG (solo 4:5; el conector no permite personalizar por ubicación → sumar la 9:16 para historias/reels a mano en Ads Manager): ROMPER EL VIDRIO 120251692281060524 · PROBLEMA SOLUCION 120251692281360524 · NOTITAS 120251692282160524 · VOS Y TU MAMA 4X2 120251692282710524.
-- Pendiente del dueño en Ads Manager: elegir IG @_nuvora.uy en cada anuncio.
+- 21/10: el dueño corrigió todo en Ads Manager (IG, 9:16) y la activó. Los conjuntos quedaron con inicio 21/10 18:32 (no se puede volver a cambiar porque ya arrancaron) → campaña PAUSADA 18:32 y se reactiva 22/10 06:30 con trigger trig_01Bt84PTcMTpiP6tdXBUgvXw.
 - Revisión 48 h: sáb 24/10 ~06:30. Reglas: apagar con gasto ≥ $380 y 0 carritos, o CTR enlace < 0,8% con >1.500 impresiones. Ganador por costo por venta (tope $746).
 
 ## Historias de IG: método "aburre vs vende" (aprobado por el dueño 19/10)

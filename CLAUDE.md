@@ -65,6 +65,7 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - Decisión 18/10: campaña 3.O queda PAUSADA hasta que entre plata (Ramón, AirPods); mientras tanto mejorar conversión de la web. Embudo 15–18/10: 372 sesiones → 36 carritos (9,7%) → 23 llegan al pago → 4 compran (83% abandona EN EL CHECKOUT): el cuello de botella es el pago/envío, no los anuncios.
 - Tema "Nuvora - Envío visible" (193882915092, SIN publicar, copia del 193840808212): agrega bloque custom_liquid 'envio_info' (snippet nv-envio) entre los precios y el botón: "Envío con DAC a todo Uruguay · Agencia $260 · Domicilio $330 · se paga en DAC al retirar/recibir · despachamos en el día · 🎁 GRATIS con 6x3". Lo publica el dueño.
 - Las ventas por WhatsApp/IG/link de pago no las ve el píxel: sumarlas a mano al evaluar.
+- Campaña web (plan 21/10, NO armar hasta que el dueño diga): después de la revisión de WhatsApp del jue 22/10. En los textos decir "Envío gratis con el pack 4x2" (no "llevando 4"), igual que en la web. Landing ordenada (193924530452) PUBLICADA el 21/10.
 
 ## Contabilidad diaria (rutina 21:55 UY)
 - Corte histórico (hasta 17/10/2026 19:30 UY = 2026-10-17T22:30Z): ventas $4.950 (5 packs 2x1: Ramón contra reembolso, Jessica depósito, Diego link, #1011, #1013). Costos fijos del corte: producto $1.172,5 (10 frascos × $117,25) + cinta $42 + Shopify $280 (US$7) + comisión MP $180. #1010 = prueba (no cuenta). #1012 CANCELADO el 17/10 (no pagó; stock repuesto): no cuenta como venta.

@@ -151,8 +151,8 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - mié 21/10 PRUEBA "Si vivís en Uruguay y con menos de $1.000" (fórmula 1, 19 s, voz IA uruguaya mujer que hizo el dueño, solo escenas del banco, 0 créditos) https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/56dbd941-5254-4f6f-8834-1dfc956cb94a.mp4
 - VIDEOS CAMPAÑA 5.0 WEB (21/10, voz IA uruguaya del dueño, escenas del banco, 0 créditos; problema → solución; 9:16):
   1. El error (26 s, textos abajo para que se vean los dientes) https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/55d4b831-b3a7-4dc0-b7c8-e502d6b2522b.mp4
-  2. Boca cerrada (24 s) https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/1335ecf0-ecbf-4e8d-b45e-01c5d2e329f5.mp4
-  3. Menos de $1.000 (25 s) https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/89090350-ac24-42ec-8f4e-43c5ae76ef87.mp4
+  2. Boca cerrada (24 s, hook selfie nueva + brindis navideño) https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/b7029b29-6385-4175-bbc9-cdb508d265ae.mp4
+  3. Menos de $1.000 (25 s, hook chica con mate mirándose los dientes + mesa mate y café) https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/b2b55b22-8097-4f67-92ce-a361ed5c5636.mp4
   4. Pedido (16 s, video real del dueño armando un paquete, sin el Before/After de la caja) https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/24f82fc1-0c48-4210-b9e0-70f099813647.mp4
 - BANCO DE ESCENAS (guardar SIEMPRE las que salen bien, sin texto, para reutilizar en cualquier video):
   - Cepillo de dientes (blanco/celeste) entra al frasco y sale cargado de polvo negro, 3,5 s 9:16 — https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/8cb5b669-12f7-4a64-a659-014618092434.mp4 (imagen base job 006363be-1d47-4ebf-aac1-ad271e787b3c)
@@ -160,6 +160,10 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
   - Cepillado con boca NEGRA (solo boca/mentón), 5 s — https://d8j0ntlcm91z4.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/hf_20261020_071028_74225d94-86ea-4251-9dff-c7fc6985bec3.mp4
   - Sonrisa natural después de enjuagar (misma chica del cepillado, toalla, dientes tono natural), 5 s — https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/d324cfcf-5009-4d79-aa24-9c334d36bae9.mp4. NO usarla como antes/después (prohibido; el dueño pidió uno con IA el 20/10 y se descartó).
   - Frasco en estante del baño con mate y cepillo, 5 s — https://d8j0ntlcm91z4.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/hf_20261020_071029_f9ee2110-2c8d-484f-bc8f-134580855f3c.mp4
+  - (21/10, 31 créditos) Selfie en fiesta de verano, una se tapa la boca, 5 s — https://d8j0ntlcm91z4.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/hf_20261021_200354_55effbc4-0980-4750-9277-c7b1fadcba93.mp4
+  - Cena navideña al aire libre, brindis y foto con celular, 5 s — https://d8j0ntlcm91z4.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/hf_20261021_200343_47c17123-0b5e-46fd-b9bf-86b107418510.mp4
+  - Chica en la cocina toma mate y se mira los dientes en el celular, preocupada, 5 s — https://d8j0ntlcm91z4.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/hf_20261021_200343_6906d64c-4fcc-4ddd-a42c-2daa4198cda0.mp4
+  - Mesa con mate y café, cebando con termo, 5 s — https://d8j0ntlcm91z4.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/hf_20261021_200343_b1a24df5-f0d6-41e0-b77b-84dfda44b83a.mp4
 - Ahorro de créditos (idea del dueño): reutilizar escenas buenas de videos anteriores antes de generar nuevas. Escenas reutilizables del video Demostración (d36a3ed7…): 0–4 s chica con frasco y cepillo; 5–7 s mojar cepillo; 7–10 s cepillo en el polvo; 10–14 s cepillado (ojo: boca no negra); 20–35 s coco y carbón, polvo con microporos; 35–49 s frascos en el baño. Tienen subtítulos quemados abajo al centro: taparlos con el texto propio.
 - Créditos Higgsfield: plan Plus; el dueño cargó créditos el 20/10 (quedaban ~204 antes de los 3 clips). Avisar costo antes de generar video.
 

@@ -1,47 +1,48 @@
 # Guion de ventas por WhatsApp — Nuvora
 
-Mensajes cortos, como si hablaras con un amigo. Un mensaje = una idea. Nunca mandes todo junto.
-Guardá cada uno como **respuesta rápida** en WhatsApp Business (Herramientas → Respuestas rápidas) con el atajo que figura entre corchetes.
+Estilo (actualizado 21/10): como le escribís a un conocido. Mensajes cortos, sin listas con viñetas, máximo 1 emoji cada 2–3 mensajes, sin signos de apertura forzados ni frases de folleto. Una idea por mensaje y siempre terminar con UNA pregunta que se conteste fácil.
+Guardá cada uno como respuesta rápida en WhatsApp Business con el atajo entre corchetes.
 
-Reglas: nada de "100%", "no daña el esmalte", "resultados en X días", antes/después ni promesas. Si preguntan por resultados: "*los resultados pueden variar según cada persona*".
+Reglas: nada de "100%", "no daña el esmalte", "resultados en X días", antes/después ni promesas. Si preguntan por resultados: "depende de cada persona".
 
 ---
 
-## 1. Primer mensaje (respondé en menos de 5 minutos) [/hola]
-> ¡Hola! 😊 Soy Juan Ignacio de Nuvora.
-> ¿Lo querés para vos o para regalar?
+## Respuestas a los botones del anuncio
 
-(La pregunta hace que conteste. Después de que responda, seguí con la oferta.)
+**"¿Cómo se usa?"** [/uso]
+> Hola, cómo va? Soy Juan Ignacio de Nuvora
+> Es bien fácil: mojás el cepillo, lo pasás por el polvo y te cepillás como siempre, un par de minutos. Después enjuagás bien y listo
+> Es carbón activado de coco, ayuda con las manchas de mate y café. Lo podés usar 2 o 3 veces por semana
+> Tomás mucho mate?
 
-## 2. Oferta [/precio]
-> Ahora tenemos el 2x1: 2 frascos a $990 🙌
-> Y si llevás el 4x2 ($1.980) o el 6x3 ($2.970) el envío te sale gratis 🎁
+**"¿Cuánto sale el envío?"** [/envio]
+> Hola! Lo mandamos por DAC a todo el país, sale el mismo día
+> A agencia son $260 y a domicilio $330, y eso lo pagás vos cuando lo retirás
+> Si llevás 4 frascos ($1.980) el envío va por mi cuenta
+> De qué ciudad sos?
 
-> ¿Cuál te sirve más?
+**"¿De dónde son?"** [/donde]
+> Hola! Somos de San José de Mayo, mandamos a todo el país por DAC
+> Te paso el número de seguimiento apenas sale, así lo vas siguiendo
+> De dónde sos vos?
 
-## 3. Cómo se usa [/uso]
-> Es re fácil: mojás el cepillo, lo pasás por el polvo y te cepillás 2 minutos. Después enjuagás y listo.
-> Es carbón activado de coco, ayuda con las manchas de mate y café ☕🧉
+**"Quiero el 2x1 a $990"** [/quiero]
+> Buenísimo! Son 2 frascos por $990
+> Pasame tu nombre, celular, ciudad y si lo querés en agencia de DAC o a domicilio, y hoy mismo sale
 
-## 4. Envío [/envio]
-> Lo mandamos por DAC a todo el país, despachamos en el día 📦
-> A agencia $260 o a domicilio $330, se paga cuando lo retirás o te llega.
-> Con el 4x2 o el 6x3 el envío es gratis.
+## Oferta [/precio]
+> Ahora está el 2x1: 2 frascos por $990
+> Si querés el envío gratis, 4 frascos por $1.980
+> Cuál te sirve?
 
-## 5. Pago [/pago]
-> Podés pagar por Mercado Pago (te paso el link), transferencia o depósito en Abitab/Redpagos a Prex.
-> ¿Cuál te queda más cómodo?
+## Pago [/pago]
+> Lo podés pagar por Mercado Pago (te paso el link) o transferencia, como te quede mejor
 
-## 6. Cierre — datos para el envío [/datos]
-> ¡Buenísimo! Pasame así te lo preparo:
-> • Nombre y apellido
-> • Celular
-> • Departamento o ciudad
-> • ¿A agencia DAC o a domicilio? (decime cuál agencia o la dirección)
+## Cierre — datos [/datos]
+> Dale! Pasame nombre y apellido, celular, ciudad y si va a agencia de DAC (cuál) o a domicilio (dirección)
 
-## 7. Confirmación [/listo]
-> ¡Listo! Ya está tu pedido ✅
-> Apenas lo despachamos te paso el número de seguimiento. ¡Gracias por la confianza! 🙌
+## Confirmación [/listo]
+> Listo, ya está tu pedido. Apenas lo despacho te mando el número de seguimiento. Gracias!
 
 ---
 
@@ -53,8 +54,8 @@ Reglas: nada de "100%", "no daña el esmalte", "resultados en X días", antes/de
 > 👉 Mandá audio acá (ver abajo).
 
 **"¿Daña los dientes?"** [/esmalte]
-> Es un polvo de carbón de coco, se usa suave como un cepillado normal.
-> Si tenés sensibilidad o algún tratamiento, lo mejor es consultarlo con tu dentista 👍
+> Es carbón de coco, se usa suave como un cepillado normal, 2 o 3 veces por semana
+> Si tenés sensibilidad o algún tratamiento, mejor consultalo con tu dentista
 
 **"¿Saca el sarro?"** [/sarro]
 > El sarro ya endurecido lo saca solo el dentista con una limpieza 🦷
@@ -66,7 +67,10 @@ Reglas: nada de "100%", "no daña el esmalte", "resultados en X días", antes/de
 > Si lo compartís con alguien de tu casa, el 4x2 sale lo mismo por frasco y el envío es gratis.
 
 **"Lo voy a pensar"** [/pensar]
-> Dale, tranqui 😊 ¿Te queda alguna duda que te pueda aclarar?
+> Dale, tranqui. Si te queda alguna duda preguntame
+
+**"¿Se puede pagar al recibir?"** [/correo]
+> Por DAC no, pero si preferís te lo mando por Correo y pagás todo cuando lo recibís (el producto, el envío y la comisión del Correo)
 
 **"¿Es confiable? ¿Cómo sé que llega?"** [/confianza]
 > Somos de San José de Mayo y despachamos todos los días por DAC 📦
@@ -76,9 +80,9 @@ Reglas: nada de "100%", "no daña el esmalte", "resultados en X días", antes/de
 
 ## Seguimientos (si deja de contestar)
 - **A las 2 horas** [/seg1]
-  > ¿Pudiste ver lo que te pasé? Cualquier duda me decís 😊
+  > Pudiste ver lo que te pasé? Cualquier cosa preguntame
 - **Al otro día** [/seg2]
-  > ¡Hola! Te guardo el 2x1 hasta hoy. Si al final no lo vas a llevar no pasa nada, avisame 🙌
+  > Buen día! Te escribo por el blanqueador, lo querés que te lo mande hoy? Si no es para ahora no pasa nada
 - Después de eso **no insistas más**.
 
 ---

@@ -161,6 +161,7 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - Versión Nuvora: (1) "Si vivís en Uruguay y con menos de $1.000 querés ayudar a sacar las manchas del mate, mirá esto." (2) "Si estás buscando un blanqueador en Uruguay, no cometas este error antes de comprar" (error: peróxido / no saber cuánto pagás de envío). (3) "Si tenés menos de $1.000 para mejorar tu sonrisa antes de las fiestas, tenés que ver esto." (4) "¿Buscás un blanqueador en Uruguay sin peróxido y que te llegue mañana? Mirá esto." Siempre claims permitidos + disclaimer.
 - Producción: mismo cuerpo de video (banco de escenas) + cambiar solo los primeros 2–3 s con cada fórmula. PERO sumar 1–2 escenas NUEVAS por tanda para que no se repita siempre lo mismo (pedido del dueño); avisar costo en créditos antes.
 - Ritmo: 3 videos nuevos por semana (12/mes); el que mejor anda como reel de prueba pasa a anuncio. Contenido comercial, no de entretenimiento.
+- PENDIENTE (después de decidir la 4.0, jue 22/10 o vie 23/10, NO antes): 4 videos con las 4 fórmulas + 4 escenas nuevas propuestas (billete de $1.000 junto al mate · mirando la etiqueta del frasco con duda · amigos brindando y selfie, una se tapa la boca · manos envolviendo el paquete en film negro), 10 créditos c/u = 40; resto del banco de escenas; 9:16 + 4:5.
 - Antes de cada testeo: 10 min en la Biblioteca de anuncios de Meta buscando "blanqueador dental" (UY/AR) y ver qué ganchos llevan más tiempo activos.
 
 ## Landing (19/10)

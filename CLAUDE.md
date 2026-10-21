@@ -151,8 +151,8 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - mié 21/10 PRUEBA "Si vivís en Uruguay y con menos de $1.000" (fórmula 1, 19 s, voz IA uruguaya mujer que hizo el dueño, solo escenas del banco, 0 créditos) https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/56dbd941-5254-4f6f-8834-1dfc956cb94a.mp4
 - VIDEOS CAMPAÑA 5.0 WEB (21/10, voz IA uruguaya del dueño, escenas del banco, 0 créditos; problema → solución; 9:16):
   1. El error (26 s, textos abajo para que se vean los dientes) https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/55d4b831-b3a7-4dc0-b7c8-e502d6b2522b.mp4
-  2. Boca cerrada (24 s, hook selfie nueva + brindis navideño) https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/b7029b29-6385-4175-bbc9-cdb508d265ae.mp4
-  3. Menos de $1.000 (25 s, hook chica con mate mirándose los dientes + mesa mate y café) https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/b2b55b22-8097-4f67-92ce-a361ed5c5636.mp4
+  2. Boca cerrada (24 s, hook selfie nueva + brindis navideño) https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/3692cac6-0d9d-491e-b5dd-8261e0b16983.mp4
+  3. Menos de $1.000 (25 s, hook chica con mate mirándose los dientes + mesa mate y café) https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/a702a89d-64a5-47a7-a3b1-dd5193305db5.mp4
   4. Pedido (16 s, video real del dueño armando un paquete, sin el Before/After de la caja) https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/24f82fc1-0c48-4210-b9e0-70f099813647.mp4
 - BANCO DE ESCENAS (guardar SIEMPRE las que salen bien, sin texto, para reutilizar en cualquier video):
   - Cepillo de dientes (blanco/celeste) entra al frasco y sale cargado de polvo negro, 3,5 s 9:16 — https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/8cb5b669-12f7-4a64-a659-014618092434.mp4 (imagen base job 006363be-1d47-4ebf-aac1-ad271e787b3c)

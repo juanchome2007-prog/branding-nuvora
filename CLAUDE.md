@@ -150,7 +150,7 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - Reels hechos: mar 20/10 PRUEBA "Si tomás más de 5 mates por día" (12 s, 4 clips kling3_0 std, 10 créditos c/u) https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/07ce30de-eab4-4ec6-a7f2-73bf306bb786.mp4 (v4 final, 15 s: mate · cepillo en polvo · cepillado negro · enjuague y sonrisa · frasco)
 - mié 21/10 PRUEBA "Si vivís en Uruguay y con menos de $1.000" (fórmula 1, 19 s, voz IA uruguaya mujer que hizo el dueño, solo escenas del banco, 0 créditos) https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/56dbd941-5254-4f6f-8834-1dfc956cb94a.mp4
 - VIDEOS CAMPAÑA 5.0 WEB (21/10, voz IA uruguaya del dueño, escenas del banco, 0 créditos; problema → solución; 9:16):
-  1. El error (26 s) https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/1328fcf4-3751-43c9-8875-0b0f1ad377f9.mp4
+  1. El error (26 s, textos abajo para que se vean los dientes) https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/55d4b831-b3a7-4dc0-b7c8-e502d6b2522b.mp4
   2. Boca cerrada (24 s) https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/1335ecf0-ecbf-4e8d-b45e-01c5d2e329f5.mp4
   3. Menos de $1.000 (25 s) https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/89090350-ac24-42ec-8f4e-43c5ae76ef87.mp4
   4. Pedido (16 s, video real del dueño armando un paquete, sin el Before/After de la caja) https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/24f82fc1-0c48-4210-b9e0-70f099813647.mp4

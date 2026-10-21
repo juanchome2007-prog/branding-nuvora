@@ -124,6 +124,13 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - IMG: ULTIMA CHANCE AZUL 2.0 (1 venta a $191) · DIENTES AMARILLOS 2.0 (1 venta a $829) · SONREIS CON LA BOCA CERRADA 3.0 (CTR 1,2%, poco gasto).
 - Textos adaptados a WhatsApp (botón "Enviar mensaje", "Escribinos y te asesoramos"). Guion de respuestas, objeciones, seguimientos y audios: WHATSAPP-guion-ventas.md.
 
+## Campaña 5.0 WEB (ACTIVADA 21/10 noche por Claude a pedido del dueño, arranca jue 22/10 06:30 UY, $700/día CBO): "CBO - BLANQUEADOR DENTAL COCO 5.0 WEB" (id 120251692142250524)
+- Ventas, píxel 1561096599143168 (Compra), UY 25–55 Advantage+, destino página del producto. Conjuntos: VID 5.0 WEB (120251692160040524) e IMG 5.0 WEB (120251692166310524).
+- Ads VID: EL ERROR 120251692279380524 · BOCA CERRADA 120251692279750524 · MENOS DE 1000 120251692280040524 · PEDIDO 120251692280490524.
+- Ads IMG (solo 4:5; el conector no permite personalizar por ubicación → sumar la 9:16 para historias/reels a mano en Ads Manager): ROMPER EL VIDRIO 120251692281060524 · PROBLEMA SOLUCION 120251692281360524 · NOTITAS 120251692282160524 · VOS Y TU MAMA 4X2 120251692282710524.
+- Pendiente del dueño en Ads Manager: elegir IG @_nuvora.uy en cada anuncio.
+- Revisión 48 h: sáb 24/10 ~06:30. Reglas: apagar con gasto ≥ $380 y 0 carritos, o CTR enlace < 0,8% con >1.500 impresiones. Ganador por costo por venta (tope $746).
+
 ## Historias de IG: método "aburre vs vende" (aprobado por el dueño 19/10)
 - Nunca historias que solo informan ("Tenemos stock", "Envíos a todo Uruguay", "2x1 $990" a secas). Cada slide con un HOOK que hable de lo que el cliente gana o pierde: "El secreto de…", "Lo que tus mates le hacen a…", "El regalo que…", "El upgrade que…", preguntas de identificación ("¿Sonreís con la boca cerrada…?").
 - Formato de serie (5 slides que cuentan una historia, se suben juntas ~20:00): 1 Hook de dolor (sin sticker) → 2 Identificación (encuesta) → 3 Secreto/producto → 4 Prueba real (captura de cliente, datos tapados) → 5 Oferta + CTA (sticker WhatsApp/enlace).

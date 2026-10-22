@@ -170,6 +170,7 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
   6. ¿Qué debe hacer después? UNA acción: escribir por WhatsApp o tocar el enlace a la web.
 - Diseño: foto UGC con luz natural + texto grande Montserrat ExtraBold blanco con la palabra clave resaltada en caja amarilla #FFC425 (o en amarillo); degradado oscuro detrás del texto; disclaimer chico cuando se insinúa resultado.
 - Proceso: primero proponer ideas y texto de cada slide al dueño, armar solo cuando dice "va".
+- Serie del 22/10, "el error de los materos", con TOMAS REALES del dueño (HTML+Playwright, Montserrat, etiquetas DAC difuminadas): 1 …/d67ee4a4-73e7-4fa0-92a0-18ab86cf189c.jpg · 2 encuesta …/1f63761c-db02-4aab-87f8-1a40a1799204.jpg · 3 secreto …/d558054d-9972-429d-8212-fcd27961503f.jpg · 4 paquetes …/aee89803-52db-417e-9494-4ebb9a3c552b.jpg · 5 2x1 …/cf2be7a8-edf0-4052-9991-4b02b76de6f6.jpg
 - Serie del 19/10: mates https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/bf3c9499-16d1-4206-a51d-e845092a4f91.jpg · boca cerrada …/902232f4-5ef4-4b3a-8369-96436eb8c7a4.jpg · secreto …/4536c36f-278e-432c-937a-2f3b32f432cd.jpg · Vicky …/05f6175b-039c-476e-93c1-f93778d22ca9.jpg · regalo 2x1 …/b84b081c-ce1e-4297-9a1c-efbf68f27234.jpg
 
 ## Sistema orgánico de IG (aprobado por el dueño 19/10)

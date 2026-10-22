@@ -107,6 +107,10 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - La tecnología es para ganar plata: su ganancia suma al capital. Cuando se termine el stock: sacarla del capital y seguir solo con Nuvora.
 - Llevar el capital actualizado cada vez que el dueño avise un movimiento (pago del lote, cobros, entregas a mamá, ventas de tecnología).
 
+## Panel Nuvora (22/10)
+- Dashboard https://claude.ai/artifact/QwmHuGU8SMtdoN2fbSrpwk (tipo Dashboard, privado del dueño). Datasets = archivos JSON (kpis, diario, ventas, campanas, tareas) que rehace la rutina de las 21:55 (trig_01PkpF6bjkr3BML4DaTNsTHh). Muestra caja, por cobrar, resultado, stock, tareas del día, ventas vs anuncios por día, capital y deuda, campañas y ventas.
+- Próximos pasos propuestos: (2) vincular @_nuvora.uy al portfolio comercial de Meta; (3) WhatsApp/IG con ManyChat o Respond.io (~US$15–30/mes) cuando el negocio pague las herramientas.
+
 ## Productos nuevos
 - Para sumar otro producto seguir PLAYBOOK-nuevo-producto.md (números → investigación → tienda → 8 creativos → testeo → escalado → cuentas).
 

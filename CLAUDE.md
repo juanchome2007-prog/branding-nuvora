@@ -121,6 +121,12 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - NO se aplican de Iridio (decisión del dueño 22/10): la regla "nunca envío gratis" (en carbones se dice "Envío gratis con el pack 4x2" porque es verdad), la de "no nombrar métodos de pago" (se mantiene "Pago seguro con Mercado Pago" y el contra reembolso a pedido) y la de armar 3 conjuntos por ángulo.
 - Rentabilidad Carbones (calculadora + bitácora, adaptada de la de la mopa): https://claude.ai/artifact/8pjdoo83TviiMGfp1vT5Sk — db: config/precios y dias/<YYYY-MM-DD> {fecha, pedidos, frascos, ingresos, pauta, herramientas, neto, nota}. La completa Claude en el cierre de las 21:55.
 
+## REGLA FIJA (dueño 22/10): Claude lleva los números de Rentabilidad Carbones y del Panel Nuvora
+- Cada vez que el dueño avise una venta (web, WhatsApp, IG, link, contra reembolso, Prex, transferencia, efectivo: venga por donde venga), un cobro, un gasto, un retiro o un aporte, o cada vez que Claude revise campañas: actualizar EN EL MOMENTO las dos páginas, sin esperar al cierre.
+  - Rentabilidad Carbones https://claude.ai/artifact/8pjdoo83TviiMGfp1vT5Sk → ArtifactData set/update de dias/<YYYY-MM-DD> {fecha, pedidos, frascos, ingresos, pauta, herramientas, neto, nota} (pauta = gasto real de Meta del día; herramientas $127/día).
+  - Panel Nuvora https://claude.ai/artifact/QwmHuGU8SMtdoN2fbSrpwk → rehacer los JSON que cambian (kpis, diario, ventas, campanas, tareas), subirlos como asset y update de datasets/<id> con if_version.
+- Todos los días, en el cierre de las 21:55, mostrarle al dueño las dos páginas (links + resumen de lo que cambió).
+
 ## Productos nuevos
 - Para sumar otro producto seguir PLAYBOOK-nuevo-producto.md (números → investigación → tienda → 8 creativos → testeo → escalado → cuentas).
 

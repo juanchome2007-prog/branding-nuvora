@@ -216,6 +216,23 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - PENDIENTE (después de decidir la 4.0, jue 22/10 o vie 23/10, NO antes): 4 videos con las 4 fórmulas + 4 escenas nuevas propuestas (billete de $1.000 junto al mate · mirando la etiqueta del frasco con duda · amigos brindando y selfie, una se tapa la boca · manos envolviendo el paquete en film negro), 10 créditos c/u = 40; resto del banco de escenas; 9:16 + 4:5.
 - Antes de cada testeo: 10 min en la Biblioteca de anuncios de Meta buscando "blanqueador dental" (UY/AR) y ver qué ganchos llevan más tiempo activos.
 
+## Método "3 pilares" para anuncios (video YouTube fVTox9zrfQY, guardado 22/10)
+- Pilar 1, radar del usuario: el anuncio sale de la lógica, no de la creatividad. Partir de un dolor u objeción concreta del cliente y escribir la hipótesis. Ejemplo: "tengo miedo de gastar en algo que no funciona" → mostrar prueba real → sube la conversión.
+- Pilar 2, rol de cada anuncio: TOFU atrae (se espera CTR y clics, no ventas) · MOFU educa · BOFU vende. NO apagar a ciegas un TOFU porque no vende: eso mata la parte de arriba del embudo. Se mira CTR, frecuencia, CPM y gasto según el rol.
+- Pilar 3, nivel de conciencia (definirlo antes de crear cada anuncio):
+  - (1) No sabe que tiene un problema → mostrarle que no es normal.
+  - (2) Sabe que tiene el problema → mostrar que hay soluciones.
+  - (3) Sabe que hay soluciones → que sepa que existimos.
+  - (4) Ya nos conoce y no se decidió → mensaje directo con prueba social o garantía.
+  - La mayoría de las marcas solo le habla a (2) y (4).
+- Estructura: hook (frena el scroll) → desarrollo (educa) → CTA (una instrucción clara).
+- Árbol de decisión para apagar:
+  - ¿Frena con el hook? Si no, el problema es el hook.
+  - ¿Se queda mirando? Si se queda y no hace clic, el problema es el mensaje.
+  - ¿Hace clic y no compra? El problema es la confianza o la web/checkout.
+  - Ventas solo se le exigen a los BOFU.
+- Si todo es TOFU y no hay remarketing, el próximo trabajo creativo es remarketing.
+
 ## Landing (19/10)
 - Publicado: "Nuvora - Reseña WhatsApp 2" (193921548564). Copia nueva SIN publicar: "Nuvora - Landing ordenada" (193924530452) con orden atención→dolor→solución→confianza→acción: producto (+ franja de confianza nv-trust-strip: pago seguro · sale hoy con seguimiento DAC · te responde una persona real) → problema ("Lo que tus mates le hacen a tu sonrisa") → por qué elegir + tarjetas → ingredientes → modo de uso → antes/después → reseñas → pedidos reales → comparativa → dudas (nuevas: cuánto pago en total, cómo pago MP/transferencia/Prex, cuándo me llega) + cierre → contacto.
 - Decisiones del dueño: se QUEDA el antes/después y las frases actuales de la landing (no aprobó sacarlas). Garantías aprobadas (19/10): (1) si llega dañado, el cliente manda el VIDEO de apertura y se le manda otro sin costo (sacar foto de cada paquete antes de cerrarlo); (2) si DAC no lo entrega (se verifica con seguimiento), se manda otro; (3) respuesta en el día por WhatsApp. NO: devolución por gusto ni garantía de resultados. Entrega: sale en el día, llega al día siguiente o a más tardar en 2 días hábiles.

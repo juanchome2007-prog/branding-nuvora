@@ -1,0 +1,282 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1"><style>:root{color-scheme:light}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#faf9f5;color:#141413}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>Rentabilidad Mopa Nuvora</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=Big+Shoulders+Display:wght@700;800&display=swap">
+<style>
+:root{
+  --bg:#eef3fa; --surface:#ffffff; --surface2:#e7eef8; --raise:#ffffff;
+  --ink:#16233f; --muted:#5c6d88; --line:#d6e0ee;
+  --sky:#2f7fb5; --sky-ink:#ffffff; --amber:#b7790a; --amber-soft:#fff3da;
+  --good:#1a9d5f; --good-soft:#e2f5ec; --bad:#d24545; --bad-soft:#fdeaea;
+  --shadow:0 8px 24px rgba(22,35,63,.10);
+}
+:root:not([data-theme="light"]){}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --bg:#0a1120; --surface:#16233f; --surface2:#1d2e4e; --raise:#1a2b4a;
+    --ink:#eaf2fb; --muted:#95a8c6; --line:rgba(255,255,255,.10);
+    --sky:#38abe9; --sky-ink:#062033; --amber:#ffb020; --amber-soft:rgba(255,176,32,.14);
+    --good:#34d399; --good-soft:rgba(52,211,153,.14); --bad:#f87171; --bad-soft:rgba(248,113,113,.14);
+    --shadow:0 10px 30px rgba(0,0,0,.45);
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0a1120; --surface:#16233f; --surface2:#1d2e4e; --raise:#1a2b4a;
+  --ink:#eaf2fb; --muted:#95a8c6; --line:rgba(255,255,255,.10);
+  --sky:#38abe9; --sky-ink:#062033; --amber:#ffb020; --amber-soft:rgba(255,176,32,.14);
+  --good:#34d399; --good-soft:rgba(52,211,153,.14); --bad:#f87171; --bad-soft:rgba(248,113,113,.14);
+  --shadow:0 10px 30px rgba(0,0,0,.45);
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);
+  font-family:'Outfit',system-ui,-apple-system,sans-serif;line-height:1.5;
+  -webkit-text-size-adjust:100%;}
+.wrap{max-width:600px;margin:0 auto;padding:22px 16px 60px}
+h1{font-size:26px;font-weight:800;margin:0;letter-spacing:-.5px}
+.ey{display:flex;align-items:center;gap:10px;margin-bottom:4px}
+.iso{width:34px;height:34px;flex:0 0 auto}
+.sub{color:var(--muted);font-size:14px;margin:2px 0 20px;font-weight:500}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:18px;margin-bottom:16px}
+.lbl{font-size:12px;font-weight:700;letter-spacing:.6px;text-transform:uppercase;color:var(--muted)}
+details.card>summary{cursor:pointer;list-style:none;display:flex;justify-content:space-between;align-items:center;font-weight:700;font-size:15px}
+details.card>summary::-webkit-details-marker{display:none}
+details.card>summary .chev{transition:transform .2s;color:var(--muted)}
+details.card[open]>summary .chev{transform:rotate(180deg)}
+.cfg-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:16px}
+.field{display:flex;flex-direction:column;gap:5px}
+.field label{font-size:12.5px;color:var(--muted);font-weight:600}
+.money{position:relative}
+.money::before{content:"$";position:absolute;left:12px;top:50%;transform:translateY(-50%);color:var(--muted);font-weight:700}
+input[type=number]{width:100%;font:inherit;font-weight:700;color:var(--ink);background:var(--surface2);
+  border:1.5px solid var(--line);border-radius:11px;padding:11px 12px 11px 24px;
+  font-variant-numeric:tabular-nums;-moz-appearance:textfield}
+input[type=number]:focus-visible{outline:none;border-color:var(--sky);box-shadow:0 0 0 3px color-mix(in srgb,var(--sky) 30%,transparent)}
+input::-webkit-outer-spin-button,input::-webkit-inner-spin-button{-webkit-appearance:none;margin:0}
+.sales{display:flex;flex-direction:column;gap:12px;margin-top:16px}
+.srow{display:flex;align-items:center;justify-content:space-between;gap:12px;background:var(--surface2);border-radius:13px;padding:10px 12px}
+.srow .info{min-width:0}
+.srow .nm{font-weight:700;font-size:15px}
+.srow .pr{font-size:12.5px;color:var(--muted);font-variant-numeric:tabular-nums}
+.step{display:flex;align-items:center;gap:8px;flex:0 0 auto}
+.step button{width:38px;height:38px;border-radius:10px;border:1.5px solid var(--line);background:var(--raise);
+  color:var(--ink);font-size:22px;font-weight:700;line-height:1;cursor:pointer;display:flex;align-items:center;justify-content:center}
+.step button:active{transform:scale(.94)}
+.step button:focus-visible{outline:none;border-color:var(--sky);box-shadow:0 0 0 3px color-mix(in srgb,var(--sky) 30%,transparent)}
+.step .val{width:34px;text-align:center;font-weight:800;font-size:19px;font-variant-numeric:tabular-nums}
+.qwrap{margin-top:12px}
+/* result */
+.result{background:linear-gradient(160deg,var(--surface),var(--surface2));border:1px solid var(--line);
+  border-radius:20px;padding:20px;box-shadow:var(--shadow);margin-bottom:16px}
+.result .top{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.pill{font-size:12.5px;font-weight:800;letter-spacing:.3px;padding:6px 14px;border-radius:999px}
+.pill.ok{background:var(--good-soft);color:var(--good)}
+.pill.no{background:var(--bad-soft);color:var(--bad)}
+.big{font-family:'Big Shoulders Display','Outfit',sans-serif;font-weight:800;font-size:60px;line-height:1;
+  margin:10px 0 2px;font-variant-numeric:tabular-nums;letter-spacing:.5px}
+.big.ok{color:var(--good)}.big.no{color:var(--bad)}
+.bignote{color:var(--muted);font-size:13.5px;font-weight:600}
+.tiles{display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px;margin-top:18px}
+.tile{background:var(--surface);border:1px solid var(--line);border-radius:13px;padding:11px 12px}
+.tile .k{font-size:11px;font-weight:700;letter-spacing:.4px;text-transform:uppercase;color:var(--muted)}
+.tile .v{font-size:20px;font-weight:800;margin-top:3px;font-variant-numeric:tabular-nums}
+.tile .v.amber{color:var(--amber)}
+/* reference */
+.ref .line{display:flex;justify-content:space-between;align-items:baseline;padding:9px 0;border-bottom:1px solid var(--line);font-variant-numeric:tabular-nums}
+.ref .line:last-child{border-bottom:none}
+.ref .rk{font-weight:600}.ref .rk small{color:var(--muted);font-weight:500}
+.ref .rv{font-weight:800;color:var(--amber)}
+.hlbox{background:var(--amber-soft);border-radius:13px;padding:13px 15px;margin-top:4px;font-size:14.5px;font-weight:600}
+.hlbox b{color:var(--amber)}
+/* log */
+.btn{width:100%;font:inherit;font-weight:800;font-size:15.5px;color:var(--sky-ink);background:var(--sky);
+  border:none;border-radius:13px;padding:14px;cursor:pointer;letter-spacing:.2px}
+.btn:active{transform:scale(.99)}
+.btn:focus-visible{outline:none;box-shadow:0 0 0 3px color-mix(in srgb,var(--sky) 40%,transparent)}
+.logtable{width:100%;border-collapse:collapse;margin-top:14px;font-size:13.5px;font-variant-numeric:tabular-nums}
+.logtable th{text-align:right;font-size:11px;letter-spacing:.4px;text-transform:uppercase;color:var(--muted);font-weight:700;padding:6px 6px}
+.logtable th:first-child{text-align:left}
+.logtable td{padding:9px 6px;border-top:1px solid var(--line);text-align:right}
+.logtable td:first-child{text-align:left;font-weight:600}
+.logtable .g-ok{color:var(--good);font-weight:800}.logtable .g-no{color:var(--bad);font-weight:800}
+.acc{display:flex;justify-content:space-between;align-items:center;margin-top:14px;padding-top:14px;border-top:2px solid var(--line);font-weight:800}
+.acc .av{font-size:22px;font-variant-numeric:tabular-nums}
+.empty{color:var(--muted);font-size:14px;text-align:center;padding:16px 0}
+.del{background:none;border:none;color:var(--muted);cursor:pointer;font-size:17px;padding:0 2px;line-height:1}
+.foot{color:var(--muted);font-size:12px;text-align:center;margin-top:24px;line-height:1.6}
+.tag{display:inline-block;background:var(--surface2);color:var(--muted);font-size:11px;font-weight:700;
+  padding:3px 9px;border-radius:999px;letter-spacing:.3px;margin-left:8px;vertical-align:middle}
+.toggle{position:absolute;top:18px;right:16px;background:var(--surface);border:1px solid var(--line);color:var(--muted);
+  border-radius:999px;width:38px;height:38px;cursor:pointer;font-size:17px}
+@media(max-width:420px){.big{font-size:52px}.tiles{gap:8px}.tile .v{font-size:18px}}
+</style>
+
+<button class="toggle" id="themeBtn" title="Cambiar tema" aria-label="Cambiar tema">◐</button>
+<div class="wrap">
+  <div class="ey">
+    <svg class="iso" viewBox="0 0 48 48" fill="none" aria-hidden="true">
+      <path d="M14 30a8 8 0 0 1 .6-15.5A11 11 0 0 1 35 18.5 7.5 7.5 0 0 1 34 33H15a3 3 0 0 1-1-3z" fill="#38ABE9"/>
+      <path d="M25 20l-6 9h5l-2 7 9-11h-5z" fill="#FFB020"/>
+    </svg>
+    <div>
+      <div class="lbl" style="color:var(--sky)">Nuvora · Mini mopa</div>
+    </div>
+  </div>
+  <h1>Rentabilidad diaria</h1>
+  <p class="sub">Cargá lo que gastaste y vendiste hoy. Te dice si ganás, tu CPA y cuánto te falta para cubrir la pauta.</p>
+
+  <details class="card" id="cfg">
+    <summary><span>Ajustes <span class="tag">costos y precios</span></span><span class="chev">▾</span></summary>
+    <div class="cfg-grid">
+      <div class="field"><label>Costo por mopa</label><div class="money"><input type="number" id="c" value="99" min="0" inputmode="numeric"></div></div>
+      <div class="field"><label>Presupuesto pauta / día</label><div class="money"><input type="number" id="g" value="900" min="0" inputmode="numeric"></div></div>
+      <div class="field"><label>Precio 1 mopa</label><div class="money"><input type="number" id="p1" value="500" min="0" inputmode="numeric"></div></div>
+      <div class="field"><label>Precio pack 2</label><div class="money"><input type="number" id="p2" value="900" min="0" inputmode="numeric"></div></div>
+      <div class="field"><label>Precio pack 3</label><div class="money"><input type="number" id="p3" value="1250" min="0" inputmode="numeric"></div></div>
+    </div>
+  </details>
+
+  <div class="card">
+    <div class="lbl">Ventas de hoy</div>
+    <div class="sales">
+      <div class="srow"><div class="info"><div class="nm">1 mopa</div><div class="pr" data-pr="1"></div></div>
+        <div class="step"><button data-dec="n1" aria-label="menos">–</button><span class="val" id="n1v">3</span><button data-inc="n1" aria-label="más">+</button></div></div>
+      <div class="srow"><div class="info"><div class="nm">Pack 2 mopas</div><div class="pr" data-pr="2"></div></div>
+        <div class="step"><button data-dec="n2" aria-label="menos">–</button><span class="val" id="n2v">1</span><button data-inc="n2" aria-label="más">+</button></div></div>
+      <div class="srow"><div class="info"><div class="nm">Pack 3 mopas</div><div class="pr" data-pr="3"></div></div>
+        <div class="step"><button data-dec="n3" aria-label="menos">–</button><span class="val" id="n3v">1</span><button data-inc="n3" aria-label="más">+</button></div></div>
+    </div>
+    <div class="cfg-grid qwrap">
+      <div class="field"><label>Consultas de WhatsApp (opcional)</label><input type="number" id="q" value="18" min="0" inputmode="numeric" style="padding-left:12px"></div>
+      <div class="field"><label>Gasto real de hoy</label><div class="money"><input type="number" id="gd" value="900" min="0" inputmode="numeric"></div></div>
+    </div>
+  </div>
+
+  <div class="result">
+    <div class="top"><span class="lbl">Ganancia neta de hoy</span><span class="pill ok" id="pill">Rentable</span></div>
+    <div class="big ok" id="net">$0</div>
+    <div class="bignote" id="netnote"></div>
+    <div class="tiles">
+      <div class="tile"><div class="k">Ingresos</div><div class="v" id="rev">$0</div></div>
+      <div class="tile"><div class="k">Margen bruto</div><div class="v" id="gm">$0</div></div>
+      <div class="tile"><div class="k">Gasto pauta</div><div class="v" id="ad">$0</div></div>
+      <div class="tile"><div class="k">CPA / venta</div><div class="v amber" id="cpa">—</div></div>
+      <div class="tile"><div class="k">ROAS</div><div class="v" id="roas">—</div></div>
+      <div class="tile"><div class="k">Cierre</div><div class="v" id="close">—</div></div>
+    </div>
+  </div>
+
+  <div class="card ref">
+    <div class="lbl" style="margin-bottom:6px">Margen por venta</div>
+    <div class="line"><span class="rk">1 mopa <small id="c1"></small></span><span class="rv" id="m1">$0</span></div>
+    <div class="line"><span class="rk">Pack 2 <small id="c2"></small></span><span class="rv" id="m2">$0</span></div>
+    <div class="line"><span class="rk">Pack 3 <small id="c3"></small></span><span class="rv" id="m3">$0</span></div>
+    <div class="hlbox" id="be"></div>
+  </div>
+
+  <div class="card">
+    <div class="lbl" style="margin-bottom:12px">Bitácora</div>
+    <button class="btn" id="save">Guardar el día</button>
+    <div id="logbox"></div>
+  </div>
+
+  <p class="foot">El CPA es por <b>venta cerrada</b>, no por consulta. Medí ventas reales por WhatsApp y restá comisiones o packaging si tenés.<br>Los datos se guardan solo en este dispositivo.</p>
+</div>
+
+<script>
+(function(){
+  var S={n1:3,n2:1,n3:1};
+  var $=function(id){return document.getElementById(id)};
+  var fmt=function(n){return '$'+Math.round(n).toLocaleString('es-UY')};
+  var num=function(id){var v=parseFloat($(id).value);return isNaN(v)?0:v};
+
+  // theme toggle
+  try{var t=localStorage.getItem('mopa-theme');if(t)document.documentElement.setAttribute('data-theme',t);}catch(e){}
+  $('themeBtn').addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme');
+    var mq=window.matchMedia('(prefers-color-scheme:dark)').matches;
+    var next=cur?(cur==='dark'?'light':'dark'):(mq?'light':'dark');
+    document.documentElement.setAttribute('data-theme',next);
+    try{localStorage.setItem('mopa-theme',next);}catch(e){}
+  });
+
+  function calc(){
+    var c=num('c'),p1=num('p1'),p2=num('p2'),p3=num('p3'),g=num('gd');
+    var n1=S.n1,n2=S.n2,n3=S.n3;
+    var pedidos=n1+n2+n3;
+    var unidades=n1+2*n2+3*n3;
+    var rev=n1*p1+n2*p2+n3*p3;
+    var gm=rev-unidades*c;
+    var net=gm-g;
+    var q=num('q');
+    // per-order margins
+    var m1=p1-c,m2=p2-2*c,m3=p3-3*c;
+    $('m1').textContent=fmt(m1);$('m2').textContent=fmt(m2);$('m3').textContent=fmt(m3);
+    $('c1').textContent='· '+fmt(p1)+' − '+fmt(c);
+    $('c2').textContent='· '+fmt(p2)+' − '+fmt(2*c);
+    $('c3').textContent='· '+fmt(p3)+' − '+fmt(3*c);
+    // sale row price hints
+    document.querySelector('[data-pr="1"]').textContent=fmt(p1)+' · margen '+fmt(m1);
+    document.querySelector('[data-pr="2"]').textContent=fmt(p2)+' · margen '+fmt(m2);
+    document.querySelector('[data-pr="3"]').textContent=fmt(p3)+' · margen '+fmt(m3);
+    // results
+    $('rev').textContent=fmt(rev);
+    $('gm').textContent=fmt(gm);
+    $('ad').textContent=fmt(g);
+    $('net').textContent=(net<0?'−':'')+fmt(Math.abs(net));
+    var ok=net>=0;
+    $('net').className='big '+(ok?'ok':'no');
+    $('pill').className='pill '+(ok?'ok':'no');
+    $('pill').textContent=ok?'Rentable':'En pérdida';
+    $('cpa').textContent=pedidos>0?fmt(g/pedidos):'—';
+    $('roas').textContent=g>0?(rev/g).toFixed(2)+'×':'—';
+    $('close').textContent=q>0?Math.round(pedidos/q*100)+'%':'—';
+    // note
+    if(pedidos===0){$('netnote').textContent='Cargá las ventas de hoy para ver el resultado.';}
+    else if(ok){$('netnote').textContent='Vendiste '+pedidos+' pedido'+(pedidos>1?'s':'')+' ('+unidades+' mopas) y cubriste la pauta. 🎉';}
+    else{var falta=Math.ceil((-net)/m1);$('netnote').textContent='Te faltan ~'+falta+' venta'+(falta>1?'s':'')+' de 1u para llegar a cero.';}
+    // breakeven box
+    var be=m1>0?(g/m1):0;
+    $('be').innerHTML='Para cubrir <b>'+fmt(g)+'</b> de pauta necesitás <b>~'+ (Math.round(be*10)/10).toLocaleString('es-UY') +' ventas de 1 mopa</b> por día (o menos si vendés packs).';
+  }
+
+  // steppers
+  document.querySelectorAll('[data-inc]').forEach(function(b){b.addEventListener('click',function(){var k=b.getAttribute('data-inc');S[k]++;$(k+'v').textContent=S[k];calc();});});
+  document.querySelectorAll('[data-dec]').forEach(function(b){b.addEventListener('click',function(){var k=b.getAttribute('data-dec');S[k]=Math.max(0,S[k]-1);$(k+'v').textContent=S[k];calc();});});
+  ['c','g','p1','p2','p3','q','gd'].forEach(function(id){$(id).addEventListener('input',calc);});
+  // sync gd default to g when g changes and gd untouched
+  var gdTouched=false;$('gd').addEventListener('input',function(){gdTouched=true;});
+  $('g').addEventListener('input',function(){if(!gdTouched)$('gd').value=$('g').value;calc();});
+
+  // log
+  var LOG=[];
+  try{LOG=JSON.parse(localStorage.getItem('mopa-log')||'[]');}catch(e){LOG=[];}
+  function saveLog(){try{localStorage.setItem('mopa-log',JSON.stringify(LOG));}catch(e){}}
+  function renderLog(){
+    var box=$('logbox');
+    if(!LOG.length){box.innerHTML='<div class="empty">Todavía no guardaste ningún día.</div>';return;}
+    var acc=LOG.reduce(function(a,d){return a+d.net;},0);
+    var rows=LOG.slice().reverse().map(function(d,i){
+      var real=LOG.length-1-i;
+      return '<tr><td>'+d.date+'</td><td>'+d.ped+'</td><td>'+fmt(d.g)+'</td>'+
+        '<td class="'+(d.net>=0?'g-ok':'g-no')+'">'+(d.net<0?'−':'')+fmt(Math.abs(d.net))+'</td>'+
+        '<td><button class="del" data-i="'+real+'" aria-label="borrar">✕</button></td></tr>';
+    }).join('');
+    box.innerHTML='<table class="logtable"><thead><tr><th>Día</th><th>Ped.</th><th>Pauta</th><th>Ganancia</th><th></th></tr></thead><tbody>'+rows+'</tbody></table>'+
+      '<div class="acc"><span>Acumulado</span><span class="av '+(acc>=0?'g-ok':'g-no')+'" style="color:'+(acc>=0?'var(--good)':'var(--bad)')+'">'+(acc<0?'−':'')+fmt(Math.abs(acc))+'</span></div>';
+    box.querySelectorAll('.del').forEach(function(b){b.addEventListener('click',function(){LOG.splice(+b.getAttribute('data-i'),1);saveLog();renderLog();});});
+  }
+  $('save').addEventListener('click',function(){
+    var c=num('c'),p1=num('p1'),p2=num('p2'),p3=num('p3'),g=num('gd');
+    var n1=S.n1,n2=S.n2,n3=S.n3,ped=n1+n2+n3,un=n1+2*n2+3*n3;
+    var rev=n1*p1+n2*p2+n3*p3, net=rev-un*c-g;
+    var d=new Date();var date=d.getDate()+'/'+(d.getMonth()+1);
+    LOG.push({date:date,ped:ped,g:g,net:net});saveLog();renderLog();
+    var btn=$('save');btn.textContent='✓ Guardado';setTimeout(function(){btn.textContent='Guardar el día';},1400);
+  });
+
+  calc();renderLog();
+})();
+</script>
+
+</body></html>

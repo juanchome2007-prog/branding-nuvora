@@ -111,6 +111,16 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - Dashboard https://claude.ai/artifact/QwmHuGU8SMtdoN2fbSrpwk (tipo Dashboard, privado del dueño). Datasets = archivos JSON (kpis, diario, ventas, campanas, tareas) que rehace la rutina de las 21:55 (trig_01PkpF6bjkr3BML4DaTNsTHh). Muestra caja, por cobrar, resultado, stock, tareas del día, ventas vs anuncios por día, capital y deuda, campañas y ventas.
 - Próximos pasos propuestos: (2) vincular @_nuvora.uy al portfolio comercial de Meta; (3) WhatsApp/IG con ManyChat o Respond.io (~US$15–30/mes) cuando el negocio pague las herramientas.
 
+## MÉTODO IRIDIO (Axel Bizera, mentor del dueño) — MODO DE TRABAJO GENERAL desde 22/10 (docs/metodo/)
+- Tesis: no competimos por precio, competimos por VALOR PERCIBIDO.
+- 1 Filtro /15 antes de invertir (Market Fit /5 · Operaciones /5 · Ecosistema /5; fuentes: Meta Ads Library, Mercado Libre, Amazon, Google Trends 5 años, TikTok, Reddit). ≥11 pasa · 7–10 fortalecer · <7 o 2 MUST fallados = NO-GO. Nunca descartar por precio.
+- 2 Investigación: VOCC (≥50 frases textuales reales de reseñas/Reddit/TikTok/YouTube) en Dolor · Deseo · Objeción · Transformación → clusters → ÁNGULOS (dolor específico + avatar con identidad, nada genérico) → 3 competidores en Ads Library para hallar el GAP. Hablarle al consciente de la solución.
+- 3 Creativos: estructura Hook → Problema → Producto → Beneficio → Prueba → Oferta → CTA. Foto por IA (Higgsfield gpt_image) SIN texto, fiel a foto real del producto; texto/logo/precio/CTA montados aparte (HTML/PIL → PNG). Sentence case, palabra clave resaltada, una sola acción. Checklist: hook se entiende en 1 s y habla del beneficio · producto entero y limpio · un solo CTA · sin TODO MAYÚSCULAS.
+- 4 Campaña: UNA CBO, 3 CONJUNTOS = 3 ÁNGULOS distintos, 3–5 anuncios c/u, imagen y video MEZCLADOS dentro del conjunto (NO conjunto de fotos + conjunto de videos). Canal según producto (web/Ventas o WhatsApp/Mensajes).
+- 5 Optimización: el que no vende se apaga sin culpa; el ganador → duplicar la campaña SIN el ganador y escalar el ganador aparte. Regla de oro: costo por venta real < margen. Cruzar compras de Meta con Shopify/ventas reales. No tocar una campaña activa ~3 días. Nunca activar/gastar sin OK del dueño.
+- Choques con lo de carbones (ACLARAR con el dueño, mientras tanto rige lo de carbones): Iridio dice "nunca envío gratis" (para carbones SÍ es verdad en 4x2/6x3, lo paga Nuvora) y "no nombrar métodos de pago ni contra reembolso" (los anuncios de carbones dicen "Pago seguro con Mercado Pago" en la descripción y se ofrece contra reembolso a pedido). Las campañas 4.0/5.0 están armadas por formato (VID/IMG), no por ángulo: la próxima ya va por ángulos.
+- Rentabilidad Carbones (calculadora + bitácora, adaptada de la de la mopa): https://claude.ai/artifact/8pjdoo83TviiMGfp1vT5Sk — db: config/precios y dias/<YYYY-MM-DD> {fecha, pedidos, frascos, ingresos, pauta, herramientas, neto, nota}. La completa Claude en el cierre de las 21:55.
+
 ## Productos nuevos
 - Para sumar otro producto seguir PLAYBOOK-nuevo-producto.md (números → investigación → tienda → 8 creativos → testeo → escalado → cuentas).
 

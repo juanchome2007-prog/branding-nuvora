@@ -1,0 +1,324 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1"><style>:root{color-scheme:light}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#faf9f5;color:#141413}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>Armá el anuncio del vaso</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Big+Shoulders+Display:wght@600;700;800;900&display=swap">
+<style>
+  :root{
+    --ink:#0A1120;
+    --navy:#16233F;
+    --line:#25355b;
+    --sky:#38ABE9;
+    --blue:#2E6FC0;
+    --muted:#95A8C6;
+    --text:#EAF1FB;
+    --signal:#FFB020;
+    --good:#3ED598;
+    --bad:#FF6B6B;
+    --salmon:#F6B49A;
+    --cream:#FCEFE4;
+    --pink:#F2A0B8;
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0;
+    background:
+      radial-gradient(1000px 560px at 84% -6%, rgba(56,171,233,.16), transparent 60%),
+      radial-gradient(820px 460px at -4% 3%, rgba(46,111,192,.13), transparent 55%),
+      var(--ink);
+    color:var(--text);
+    font-family:"Outfit",system-ui,-apple-system,"Segoe UI",sans-serif;
+    line-height:1.62;-webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:900px;margin:0 auto;padding-inline:22px;padding-block:0}
+  a{color:var(--sky)}
+
+  header.hero{padding-block:60px 24px}
+  .brandline{display:flex;align-items:center;gap:11px;margin-bottom:26px}
+  .mark{width:32px;height:32px;flex:none}
+  .brandname{font-weight:700;letter-spacing:.14em;text-transform:uppercase;font-size:.8rem;color:var(--muted)}
+  .kicker{display:inline-flex;align-items:center;gap:8px;font-size:.72rem;font-weight:600;letter-spacing:.18em;text-transform:uppercase;color:var(--sky);border:1px solid rgba(56,171,233,.35);background:rgba(56,171,233,.08);padding:6px 13px;border-radius:100px;margin-bottom:20px}
+  h1{font-size:clamp(2.1rem,5.6vw,3.3rem);line-height:1.04;margin:0 0 18px;font-weight:800;letter-spacing:-.02em;text-wrap:balance}
+  h1 .em{color:var(--sky)}
+  .lede{font-size:clamp(1.02rem,2.2vw,1.18rem);color:#C6D4EC;max-width:60ch;margin:0}
+  .lede b{color:var(--text);font-weight:600}
+
+  section{padding-block:32px;border-top:1px solid var(--line)}
+  .sec-head{display:flex;align-items:flex-start;gap:15px;margin-bottom:12px}
+  .step-badge{flex:none;width:44px;height:44px;border-radius:12px;display:grid;place-items:center;background:linear-gradient(150deg,var(--sky),var(--blue));color:var(--ink);font-family:"Big Shoulders Display";font-weight:800;font-size:1.5rem;box-shadow:0 6px 20px rgba(56,171,233,.25)}
+  .sec-head h2{font-size:1.5rem;margin:0;font-weight:700;letter-spacing:-.01em;line-height:1.15}
+  .sec-head .eyebrow{font-size:.72rem;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);display:block;margin-bottom:3px}
+  .sec-body{margin-left:59px}
+  @media(max-width:560px){.sec-body{margin-left:0}}
+  .sec-body p{margin:.5em 0 1em;color:#CFDBEF}
+  .sec-body p b{color:var(--text)}
+
+  /* ---- workshop layout: ad + annotations ---- */
+  .build{display:grid;grid-template-columns:340px 1fr;gap:26px;align-items:start;margin-top:6px}
+  @media(max-width:720px){.build{grid-template-columns:1fr;gap:22px}}
+
+  /* the mock creative */
+  .ad{
+    position:relative;width:100%;max-width:340px;aspect-ratio:1/1;margin-inline:auto;
+    background:
+      radial-gradient(120% 90% at 50% 0%, #1c2e52 0%, var(--navy) 55%, #101d36 100%);
+    border:1px solid var(--line);border-radius:18px;overflow:hidden;
+    box-shadow:0 24px 60px rgba(0,0,0,.45);
+    display:flex;flex-direction:column;padding:20px 18px;
+  }
+  .ad-iso{display:flex;align-items:center;gap:7px}
+  .ad-iso svg{width:20px;height:20px}
+  .ad-iso span{font-weight:700;letter-spacing:.14em;text-transform:uppercase;font-size:.62rem;color:var(--muted)}
+  .ad-hook{font-weight:800;font-size:1.18rem;line-height:1.12;letter-spacing:-.01em;margin-top:9px;text-wrap:balance}
+  .ad-hook .hl{color:var(--sky)}
+  .ad-sub{font-size:.72rem;color:var(--muted);margin-top:5px;max-width:26ch}
+  .ad-stage{flex:1;position:relative;display:grid;place-items:center;margin:2px 0}
+  .cup-wrap{position:relative;filter:drop-shadow(0 16px 26px rgba(0,0,0,.5))}
+  .temp-badge{
+    position:absolute;top:6px;right:-6px;background:var(--ink);border:1.5px solid var(--sky);
+    color:var(--sky);font-family:"Big Shoulders Display";font-weight:800;font-size:1.15rem;
+    padding:4px 10px;border-radius:9px;box-shadow:0 0 18px rgba(56,171,233,.35)
+  }
+  .temp-badge small{display:block;font-family:"Outfit";font-size:.5rem;font-weight:600;letter-spacing:.08em;color:var(--muted);text-transform:uppercase}
+  .ad-bottom{display:flex;align-items:center;justify-content:space-between;gap:10px}
+  .ad-price{font-family:"Big Shoulders Display";font-weight:800;font-size:1.9rem;color:var(--signal);line-height:.85}
+  .ad-price small{display:block;font-family:"Outfit";font-size:.52rem;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-top:3px}
+  .ad-cta{background:#25D366;color:#06331b;font-weight:700;font-size:.74rem;padding:9px 13px;border-radius:100px;display:inline-flex;align-items:center;gap:6px;white-space:nowrap}
+  .ad-cta svg{width:14px;height:14px}
+
+  /* number hotspots on the ad */
+  .hot{position:absolute;width:23px;height:23px;border-radius:50%;background:var(--signal);color:var(--ink);font-weight:800;font-size:.8rem;display:grid;place-items:center;box-shadow:0 2px 8px rgba(0,0,0,.5);z-index:5}
+  .h1{top:56px;left:-9px}
+  .h2{top:47%;left:-9px}
+  .h3{top:35%;right:-9px}
+  .h4{bottom:60px;left:-9px}
+  .h5{bottom:16px;right:-9px}
+
+  /* annotation list */
+  .anno{display:flex;flex-direction:column;gap:12px}
+  .an{display:grid;grid-template-columns:26px 1fr;gap:12px;align-items:start}
+  .an .num{width:23px;height:23px;border-radius:50%;background:var(--signal);color:var(--ink);font-weight:800;font-size:.8rem;display:grid;place-items:center;margin-top:2px}
+  .an h4{margin:0;font-size:.98rem;font-weight:600}
+  .an .role{font-size:.66rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--sky)}
+  .an p{margin:2px 0 0;font-size:.87rem;color:var(--muted)}
+
+  /* copy block */
+  .copy{background:var(--navy);border:1px solid var(--line);border-radius:14px;padding:4px 4px}
+  .copy-row{display:grid;grid-template-columns:120px 1fr;gap:0;border-bottom:1px dashed var(--line)}
+  .copy-row:last-child{border-bottom:0}
+  .copy-row .k{padding:11px 14px;font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);border-right:1px dashed var(--line)}
+  .copy-row .val{padding:11px 15px;font-size:.95rem;color:var(--text)}
+  .copy-row .val b{color:var(--sky)}
+  @media(max-width:520px){.copy-row{grid-template-columns:1fr}.copy-row .k{border-right:0;border-bottom:1px dashed var(--line)}}
+
+  /* produce steps */
+  .pipe{display:grid;gap:0}
+  .pstep{display:grid;grid-template-columns:34px 1fr;gap:15px;padding:15px 0;border-bottom:1px dashed var(--line)}
+  .pstep:last-child{border-bottom:0}
+  .pstep .pn{font-family:"Big Shoulders Display";font-weight:700;color:var(--sky);font-size:1.35rem;line-height:1.2}
+  .pstep h4{margin:0 0 3px;font-size:1rem;font-weight:600}
+  .pstep p{margin:0;font-size:.9rem;color:var(--muted)}
+  .pstep code{background:var(--ink);border:1px solid var(--line);border-radius:5px;padding:1px 6px;font-size:.82em;color:#B7C7E4}
+
+  /* checklist */
+  .check{display:grid;gap:9px}
+  .ck{display:flex;gap:11px;align-items:flex-start;background:var(--navy);border:1px solid var(--line);border-radius:11px;padding:12px 14px}
+  .ck .box{flex:none;width:20px;height:20px;border-radius:5px;border:2px solid var(--sky);display:grid;place-items:center;margin-top:1px;color:var(--sky);font-size:.8rem;font-weight:800}
+  .ck p{margin:0;font-size:.9rem;color:#CFDBEF}
+  .ck p b{color:var(--text)}
+  .ck.bad .box{border-color:var(--bad);color:var(--bad)}
+
+  /* practice */
+  .ex{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:6px}
+  @media(max-width:560px){.ex{grid-template-columns:1fr}}
+  .exc{background:var(--navy);border:1px solid var(--line);border-radius:13px;padding:16px}
+  .exc .tag{font-size:.66rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--sky);display:block;margin-bottom:6px}
+  .exc h4{margin:0 0 6px;font-size:1.05rem}
+  .exc p{margin:0 0 4px;font-size:.86rem;color:var(--muted)}
+  .exc .seed{font-size:.86rem;color:#CFDBEF;font-style:italic;border-left:2px solid var(--signal);padding-left:9px;margin-top:8px}
+
+  footer{padding-block:30px 60px;border-top:1px solid var(--line);color:var(--muted);font-size:.85rem}
+  footer b{color:var(--text)}
+  .note{background:rgba(255,176,32,.07);border:1px solid rgba(255,176,32,.3);border-radius:12px;padding:13px 16px;font-size:.9rem;color:#E7D9BE;margin-top:8px}
+  .note b{color:var(--signal)}
+</style>
+
+<div class="wrap">
+
+  <header class="hero">
+    <div class="brandline">
+      <svg class="mark" viewBox="0 0 48 48" fill="none" aria-hidden="true">
+        <path d="M14 30a8 8 0 0 1 .6-15.98A11 11 0 0 1 36 17.2 7.5 7.5 0 0 1 34 32H15" stroke="#38ABE9" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+        <path d="M25 20l-5 8h5l-2 7 8-10h-5l3-5z" fill="#FFB020"/>
+      </svg>
+      <span class="brandname">Nuvora · Taller práctico</span>
+    </div>
+    <span class="kicker">◆ Aprendé haciéndolo</span>
+    <h1>Armá tu primer <span class="em">anuncio de imagen</span> del vaso</h1>
+    <p class="lede">Vamos a construir <b>un anuncio de verdad</b>, juntos y de una. Primero te muestro uno ya resuelto para el vaso inteligente, te explico por qué cada parte está donde está, y al final te dejo dos ángulos más para que los hagas vos.</p>
+    <div class="note"><b>Antes de arrancar:</b> un buen anuncio no se inventa — sale del ángulo que ya investigamos. Para el vaso tenemos tres: <b>Deseo</b>, <b>Temperatura</b> y <b>Testimonio</b>. Acá arrancamos con <b>Temperatura</b>, porque es lo único que este vaso tiene y ningún vaso común: la pantalla que muestra los grados.</p></div>
+  </header>
+
+  <!-- 1: the ad we're building -->
+  <section>
+    <div class="sec-head">
+      <div class="step-badge">1</div>
+      <div><span class="eyebrow">Esto es lo que vamos a lograr</span><h2>El anuncio, pieza por pieza</h2></div>
+    </div>
+    <div class="sec-body">
+      <p>Un anuncio de imagen mete la estructura de venta de 7 pasos <b>dentro de un solo cuadro</b>. No los escribís todos con letras — algunos los cuenta la foto. Mirá dónde vive cada uno (los números amarillos):</p>
+
+      <div class="build">
+        <!-- MOCK CREATIVE -->
+        <div class="ad" role="img" aria-label="Ejemplo de anuncio del vaso Nuvora, ángulo temperatura">
+          <span class="hot h1">1</span>
+          <span class="hot h2">2</span>
+          <span class="hot h3">3</span>
+          <span class="hot h4">4</span>
+          <span class="hot h5">5</span>
+
+          <div class="ad-iso">
+            <svg viewBox="0 0 48 48" fill="none" aria-hidden="true">
+              <path d="M14 30a8 8 0 0 1 .6-15.98A11 11 0 0 1 36 17.2 7.5 7.5 0 0 1 34 32H15" stroke="#38ABE9" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+              <path d="M25 20l-5 8h5l-2 7 8-10h-5l3-5z" fill="#FFB020"/>
+            </svg>
+            <span>Nuvora</span>
+          </div>
+
+          <div class="ad-hook">Tu café, siempre a la <span class="hl">temperatura exacta</span></div>
+          <div class="ad-sub">La pantalla te muestra los grados en tiempo real. Nunca más un café hirviendo ni frío.</div>
+
+          <div class="ad-stage">
+            <div class="cup-wrap">
+              <div class="temp-badge">65°<small>en vivo</small></div>
+              <svg width="150" height="180" viewBox="0 0 150 180" aria-hidden="true">
+                <defs>
+                  <linearGradient id="cupg" x1="0" y1="0" x2="0" y2="1">
+                    <stop offset="0" stop-color="#F6B49A"/>
+                    <stop offset="1" stop-color="#FCEFE4"/>
+                  </linearGradient>
+                </defs>
+                <!-- body -->
+                <path d="M42 48 L108 48 L98 168 Q75 176 52 168 Z" fill="url(#cupg)" stroke="#e6c9b6" stroke-width="1.5"/>
+                <!-- lid -->
+                <rect x="38" y="30" width="74" height="24" rx="12" fill="#F2A0B8"/>
+                <rect x="66" y="22" width="18" height="12" rx="6" fill="#e78aa6"/>
+                <!-- LED display -->
+                <ellipse cx="75" cy="98" rx="30" ry="20" fill="#0A1120" stroke="#38ABE9" stroke-width="1.5"/>
+                <text x="75" y="105" text-anchor="middle" font-family="'Big Shoulders Display',sans-serif" font-weight="800" font-size="22" fill="#38ABE9">65°</text>
+                <!-- engraving -->
+                <text x="75" y="150" text-anchor="middle" font-family="Outfit,sans-serif" font-weight="700" font-size="7" letter-spacing="2" fill="#d8b6a2">COFFEE</text>
+              </svg>
+            </div>
+          </div>
+
+          <div class="ad-bottom">
+            <div class="ad-price">$690<small>Vaso inteligente</small></div>
+            <span class="ad-cta">
+              <svg viewBox="0 0 24 24" fill="#06331b" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.6 15l-1.3 4.8 4.9-1.3A10 10 0 1 0 12 2Zm5.3 14.1c-.2.6-1.2 1.2-1.7 1.2-.4 0-1 .1-3.3-.9-2.8-1.2-4.5-4-4.6-4.2-.1-.2-1-1.4-1-2.6 0-1.2.6-1.8.9-2 .2-.3.5-.3.7-.3h.5c.2 0 .4 0 .6.5l.8 2c.1.2.1.3 0 .5l-.4.6c-.2.2-.3.3-.1.6.2.3.8 1.3 1.7 2.1 1.2 1 2.1 1.4 2.4 1.5.2.1.4.1.6-.1l.8-1c.2-.2.3-.2.6-.1l2 .9c.2.1.4.2.4.3.1.2.1.6-.1 1.1Z"/></svg>
+              Escribinos por WhatsApp
+            </span>
+          </div>
+        </div>
+
+        <!-- ANNOTATIONS -->
+        <div class="anno">
+          <div class="an"><div class="num">1</div><div><span class="role">Hook · el gancho</span><h4>Frena el scroll en 1 segundo</h4><p>Habla del beneficio que el cliente quiere, con su lenguaje. "Temperatura exacta" es la promesa central de este ángulo.</p></div></div>
+          <div class="an"><div class="num">2</div><div><span class="role">Producto · la foto</span><h4>El vaso, entero y limpio</h4><p>La foto la genera Higgsfield a partir de una foto real. Producto completo, sin difuminado ni glow alrededor.</p></div></div>
+          <div class="an"><div class="num">3</div><div><span class="role">Beneficio + prueba</span><h4>El "65°" es el mecanismo único</h4><p>El dato visible demuestra la promesa sin explicar. Es lo que ningún vaso común puede mostrar.</p></div></div>
+          <div class="an"><div class="num">4</div><div><span class="role">Oferta</span><h4>El precio, claro</h4><p>$690 en tipografía grande. Sin "envío gratis" y sin mencionar cómo se paga.</p></div></div>
+          <div class="an"><div class="num">5</div><div><span class="role">CTA · qué hacer ahora</span><h4>Una sola acción</h4><p>El vaso se vende por WhatsApp → "Escribinos". El pago se coordina después, en el chat.</p></div></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 2: exact copy -->
+  <section>
+    <div class="sec-head">
+      <div class="step-badge">2</div>
+      <div><span class="eyebrow">Copiá y pegá</span><h2>El texto exacto de este anuncio</h2></div>
+    </div>
+    <div class="sec-body">
+      <p>Todo esto sale del ángulo <b>Temperatura</b>. Fijate que le habla a alguien que <b>ya sabe que existen vasos térmicos</b> pero no eligió cuál — ahí está el 80% de las ventas.</p>
+      <div class="copy">
+        <div class="copy-row"><div class="k">Hook</div><div class="val">Tu café, siempre a la <b>temperatura exacta</b></div></div>
+        <div class="copy-row"><div class="k">Bajada</div><div class="val">La pantalla te muestra los grados en tiempo real. Nunca más un café hirviendo ni frío.</div></div>
+        <div class="copy-row"><div class="k">Dato / prueba</div><div class="val">65° en vivo — lo ves en la tapa</div></div>
+        <div class="copy-row"><div class="k">Oferta</div><div class="val">Vaso inteligente · $690</div></div>
+        <div class="copy-row"><div class="k">CTA</div><div class="val">Escribinos por WhatsApp</div></div>
+        <div class="copy-row"><div class="k">Envíos</div><div class="val">Enviamos a todo Uruguay por DAC</div></div>
+      </div>
+      <p style="font-size:.86rem;color:var(--muted);margin-top:12px">Todo en <b>sentence case</b> (como se habla), no TODO EN MAYÚSCULAS. La palabra clave del ángulo va resaltada en celeste o ámbar, nada más.</p>
+    </div>
+  </section>
+
+  <!-- 3: produce it -->
+  <section>
+    <div class="sec-head">
+      <div class="step-badge">3</div>
+      <div><span class="eyebrow">Cómo se fabrica de verdad</span><h2>De la idea al PNG listo</h2></div>
+    </div>
+    <div class="sec-body">
+      <p>Este es el pipeline de Nuvora. La foto la hace la IA; el texto lo montamos aparte para que no se rompa el español ni el logo.</p>
+      <div class="pipe">
+        <div class="pstep"><div class="pn">1</div><div><h4>Subí una foto real del vaso a Higgsfield</h4><p>La foto del dueño (no la del mayorista). Es la referencia para que la IA respete el producto tal cual es.</p></div></div>
+        <div class="pstep"><div class="pn">2</div><div><h4>Generá solo la foto, sin texto</h4><p>Con <code>gpt_image_2</code> pedís la escena/producto limpio. Draft en baja calidad; cuando gusta, la subís a alta.</p></div></div>
+        <div class="pstep"><div class="pn">3</div><div><h4>Montá el texto encima con HTML → PNG</h4><p>Hook, isotipo Nuvora, precio y CTA en las fuentes de la marca (Outfit + Big Shoulders). Sale un cuadro <b>1080×1080</b> listo.</p></div></div>
+        <div class="pstep"><div class="pn">4</div><div><h4>Repetí el mismo molde para los 3 ángulos</h4><p>Cambia el hook, el dato y quizá la escena — la estructura y la marca quedan iguales. Así el conjunto se ve prolijo.</p></div></div>
+      </div>
+      <div class="note" style="margin-top:14px"><b>Ojo:</b> Claude puede hacer estos pasos con vos desde acá. Vos solo tenés que <b>re-subir la foto del vaso</b> cada sesión (las referencias no se guardan de una vez para otra).</div>
+    </div>
+  </section>
+
+  <!-- 4: checklist -->
+  <section>
+    <div class="sec-head">
+      <div class="step-badge">✓</div>
+      <div><span class="eyebrow">Antes de subirlo a la campaña</span><h2>La checklist de Nuvora</h2></div>
+    </div>
+    <div class="sec-body">
+      <div class="check">
+        <div class="ck"><div class="box">✓</div><p>El <b>hook</b> se entiende en 1 segundo y habla del beneficio, no del producto.</p></div>
+        <div class="ck"><div class="box">✓</div><p>El vaso se ve <b>entero y limpio</b>, sin cortes ni difuminado alrededor.</p></div>
+        <div class="ck"><div class="box">✓</div><p>Hay <b>una sola acción</b> (Escribinos por WhatsApp), no tres botones.</p></div>
+        <div class="ck bad"><div class="box">✕</div><p>No dice <b>"envío gratis"</b> — despachamos por DAC y el flete lo paga el cliente.</p></div>
+        <div class="ck bad"><div class="box">✕</div><p>No nombra <b>ningún método de pago</b> — eso se coordina en el chat de WhatsApp.</p></div>
+        <div class="ck bad"><div class="box">✕</div><p>No está <b>TODO EN MAYÚSCULAS</b> ni sobrecargado de textos.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 5: your turn -->
+  <section>
+    <div class="sec-head">
+      <div class="step-badge">▶</div>
+      <div><span class="eyebrow">Ahora te toca a vos</span><h2>Practicá con los otros dos ángulos</h2></div>
+    </div>
+    <div class="sec-body">
+      <p>Usá el mismo molde de arriba, pero cambiando el <b>ángulo</b>. La estructura y la marca no se tocan — solo el mensaje. Escribí el hook de cada uno y armalos:</p>
+      <div class="ex">
+        <div class="exc">
+          <span class="tag">Ángulo · Deseo</span>
+          <h4>El vaso que llevás a todos lados</h4>
+          <p>Le habla a quien quiere el objeto lindo y práctico para el día a día, más que al problema.</p>
+          <div class="seed">Semilla de hook: "El vaso que no vas a querer soltar" — foto lifestyle, en la mano, afuera.</div>
+        </div>
+        <div class="exc">
+          <span class="tag">Ángulo · Testimonio</span>
+          <h4>La reseña de alguien real</h4>
+          <p>Prueba social: una clienta contando cómo lo usa. Genera confianza en frío.</p>
+          <div class="seed">Semilla de hook: cita real de reseña + estrellas ★★★★★ — el producto de fondo, más chico.</div>
+        </div>
+      </div>
+      <p style="margin-top:16px">Cuando tengas los tres, ya tenés el <b>conjunto de un ángulo por pieza</b> para armar la campaña CBO. Ese es el siguiente paso — pero primero, hacé estos.</p>
+    </div>
+  </section>
+
+  <footer>
+    <b>Taller práctico Nuvora</b> · Método Iridio — creativos para el vaso inteligente. Un ángulo por anuncio, la foto por IA, el texto a mano, y las reglas de la marca siempre.
+  </footer>
+
+</div>
+
+</body></html>

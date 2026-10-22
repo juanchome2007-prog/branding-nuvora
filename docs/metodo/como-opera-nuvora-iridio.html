@@ -1,0 +1,356 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1"><style>:root{color-scheme:light}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#faf9f5;color:#141413}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>Cómo opera Nuvora</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Big+Shoulders+Display:wght@600;700;800&display=swap">
+<style>
+  :root{
+    --ink:#0A1120;
+    --navy:#16233F;
+    --navy-2:#1B2C4E;
+    --line:#25355b;
+    --sky:#38ABE9;
+    --blue:#2E6FC0;
+    --muted:#95A8C6;
+    --text:#EAF1FB;
+    --signal:#FFB020;
+    --good:#3ED598;
+    --bad:#FF6B6B;
+    --warn:#FFB020;
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0;
+    background:
+      radial-gradient(1100px 620px at 82% -8%, rgba(56,171,233,.16), transparent 60%),
+      radial-gradient(900px 500px at 0% 4%, rgba(46,111,192,.14), transparent 55%),
+      var(--ink);
+    color:var(--text);
+    font-family:"Outfit",system-ui,-apple-system,"Segoe UI",sans-serif;
+    line-height:1.62;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:940px;margin:0 auto;padding-inline:22px;padding-block:0}
+  a{color:var(--sky)}
+
+  /* ---------- HERO ---------- */
+  header.hero{padding-block:64px 40px}
+  .brandline{display:flex;align-items:center;gap:11px;margin-bottom:30px}
+  .mark{width:34px;height:34px;flex:none}
+  .brandname{font-weight:700;letter-spacing:.14em;text-transform:uppercase;font-size:.82rem;color:var(--muted)}
+  .kicker{
+    display:inline-flex;align-items:center;gap:8px;
+    font-size:.72rem;font-weight:600;letter-spacing:.18em;text-transform:uppercase;
+    color:var(--sky);
+    border:1px solid rgba(56,171,233,.35);
+    background:rgba(56,171,233,.08);
+    padding:6px 13px;border-radius:100px;margin-bottom:22px;
+  }
+  h1{
+    font-size:clamp(2.3rem,6vw,3.7rem);
+    line-height:1.03;margin:0 0 20px;font-weight:800;letter-spacing:-.02em;
+    text-wrap:balance;
+  }
+  h1 .em{color:var(--sky)}
+  .lede{font-size:clamp(1.05rem,2.3vw,1.22rem);color:#C6D4EC;max-width:60ch;margin:0}
+  .lede b{color:var(--text);font-weight:600}
+
+  .thesis{
+    margin-top:34px;
+    border-left:3px solid var(--signal);
+    background:linear-gradient(90deg, rgba(255,176,32,.08), transparent 80%);
+    padding:16px 20px;border-radius:0 12px 12px 0;
+  }
+  .thesis span{color:var(--signal);font-weight:700}
+
+  /* ---------- FLOW STRIP ---------- */
+  .flow{
+    display:flex;flex-wrap:wrap;gap:10px;margin-block:44px 8px;
+    padding-block:0;
+  }
+  .flow-item{
+    flex:1 1 150px;min-width:0;
+    background:var(--navy);border:1px solid var(--line);border-radius:12px;
+    padding:13px 15px;position:relative;
+  }
+  .flow-item .n{font-family:"Big Shoulders Display";font-weight:700;font-size:1.5rem;color:var(--sky);line-height:1}
+  .flow-item .t{font-weight:600;font-size:.92rem;margin-top:5px}
+  .flow-item .s{color:var(--muted);font-size:.78rem;margin-top:2px}
+
+  /* ---------- SECTIONS ---------- */
+  section{padding-block:34px;border-top:1px solid var(--line)}
+  .sec-head{display:flex;align-items:flex-start;gap:16px;margin-bottom:8px}
+  .step-badge{
+    flex:none;width:46px;height:46px;border-radius:12px;
+    display:grid;place-items:center;
+    background:linear-gradient(150deg,var(--sky),var(--blue));
+    color:var(--ink);font-family:"Big Shoulders Display";font-weight:800;font-size:1.55rem;
+    box-shadow:0 6px 20px rgba(56,171,233,.25);
+  }
+  .sec-head h2{font-size:1.55rem;margin:0;font-weight:700;letter-spacing:-.01em;line-height:1.15}
+  .sec-head .eyebrow{font-size:.72rem;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);display:block;margin-bottom:3px}
+  .sec-body{margin-left:62px}
+  @media(max-width:560px){.sec-body{margin-left:0}}
+  .sec-body p{margin:.5em 0 1em;color:#CFDBEF}
+  .sec-body p b{color:var(--text)}
+
+  /* generic cards */
+  .cards{display:grid;gap:12px;margin:6px 0 4px}
+  .g2{grid-template-columns:1fr 1fr}
+  .g3{grid-template-columns:repeat(3,1fr)}
+  @media(max-width:620px){.g2,.g3{grid-template-columns:1fr}}
+  .card{background:var(--navy);border:1px solid var(--line);border-radius:12px;padding:15px 17px}
+  .card h4{margin:0 0 5px;font-size:.98rem;font-weight:600}
+  .card p{margin:0;font-size:.9rem;color:var(--muted)}
+  .card .tag{font-size:.68rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--sky);display:block;margin-bottom:7px}
+
+  ul.clean{list-style:none;padding:0;margin:8px 0}
+  ul.clean li{position:relative;padding-left:26px;margin:9px 0;color:#CFDBEF}
+  ul.clean li::before{
+    content:"";position:absolute;left:2px;top:9px;width:8px;height:8px;
+    background:var(--sky);border-radius:2px;transform:rotate(45deg);
+  }
+  ul.clean li b{color:var(--text)}
+
+  .verdicts{display:flex;flex-wrap:wrap;gap:10px;margin:10px 0}
+  .v{flex:1 1 160px;border-radius:11px;padding:12px 14px;border:1px solid var(--line);background:var(--navy)}
+  .v .dot{font-size:1.1rem}
+  .v .lab{font-weight:700;font-size:.95rem;margin:3px 0}
+  .v .txt{font-size:.82rem;color:var(--muted)}
+  .v.go{border-color:rgba(62,213,152,.4)}
+  .v.mid{border-color:rgba(255,176,32,.4)}
+  .v.no{border-color:rgba(255,107,107,.4)}
+
+  /* pipeline (creativos) */
+  .pipe{display:grid;gap:0}
+  .pstep{display:grid;grid-template-columns:34px 1fr;gap:15px;padding:14px 0;border-bottom:1px dashed var(--line)}
+  .pstep:last-child{border-bottom:0}
+  .pstep .pn{font-family:"Big Shoulders Display";font-weight:700;color:var(--sky);font-size:1.35rem;line-height:1.2}
+  .pstep h4{margin:0 0 3px;font-size:1rem;font-weight:600}
+  .pstep p{margin:0;font-size:.9rem;color:var(--muted)}
+  .pstep code{background:var(--ink);border:1px solid var(--line);border-radius:5px;padding:1px 6px;font-size:.82em;color:#B7C7E4}
+
+  /* CBO diagram */
+  .cbo{background:var(--navy);border:1px solid var(--line);border-radius:14px;padding:18px;margin:8px 0}
+  .cbo-top{text-align:center;background:linear-gradient(150deg,var(--sky),var(--blue));color:var(--ink);font-weight:700;border-radius:10px;padding:9px;font-size:.95rem}
+  .cbo-arrow{text-align:center;color:var(--muted);font-size:1.1rem;line-height:1;margin:9px 0}
+  .cbo-sets{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+  @media(max-width:620px){.cbo-sets{grid-template-columns:1fr}}
+  .cbo-set{background:var(--ink);border:1px solid var(--line);border-radius:10px;padding:12px;text-align:center}
+  .cbo-set .ang{font-weight:700;color:var(--sky);font-size:.9rem}
+  .cbo-set .lbl{font-size:.68rem;text-transform:uppercase;letter-spacing:.1em;color:var(--muted);margin-bottom:4px}
+  .cbo-set .ads{margin-top:8px;display:flex;justify-content:center;gap:4px;flex-wrap:wrap}
+  .cbo-set .ads i{width:20px;height:26px;border-radius:3px;background:rgba(56,171,233,.25);border:1px solid rgba(56,171,233,.5);font-style:normal}
+  .cbo-set .cnt{font-size:.75rem;color:var(--muted);margin-top:7px}
+
+  .opt{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:6px}
+  @media(max-width:560px){.opt{grid-template-columns:1fr}}
+  .opt div{border-radius:12px;padding:14px 16px;border:1px solid var(--line)}
+  .opt .kill{background:rgba(255,107,107,.07);border-color:rgba(255,107,107,.35)}
+  .opt .win{background:rgba(62,213,152,.07);border-color:rgba(62,213,152,.35)}
+  .opt h4{margin:0 0 4px;font-size:1rem}
+  .opt .kill h4{color:var(--bad)} .opt .win h4{color:var(--good)}
+  .opt p{margin:0;font-size:.88rem;color:#CFDBEF}
+
+  /* rules */
+  .rule{display:flex;gap:12px;align-items:flex-start;padding:12px 0;border-bottom:1px solid var(--line)}
+  .rule:last-child{border-bottom:0}
+  .rule .ic{flex:none;width:26px;height:26px;border-radius:7px;display:grid;place-items:center;font-weight:800;font-size:.9rem}
+  .rule .no{background:rgba(255,107,107,.15);color:var(--bad)}
+  .rule .yes{background:rgba(62,213,152,.15);color:var(--good)}
+  .rule p{margin:0;font-size:.92rem;color:#CFDBEF}
+  .rule p b{color:var(--text)}
+
+  .econ{display:grid;grid-template-columns:auto 1fr;gap:14px 18px;align-items:center;background:var(--navy);border:1px solid var(--line);border-radius:14px;padding:18px 20px;margin-top:6px}
+  @media(max-width:560px){.econ{grid-template-columns:1fr}}
+  .econ .big{font-family:"Big Shoulders Display";font-weight:800;font-size:2.6rem;color:var(--signal);line-height:.9}
+  .econ .big small{display:block;font-family:"Outfit";font-size:.72rem;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin-top:6px}
+
+  footer{padding-block:34px 60px;border-top:1px solid var(--line);color:var(--muted);font-size:.85rem}
+  footer b{color:var(--text)}
+  .pillrow{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}
+  .pill{font-size:.75rem;color:#CFDBEF;background:var(--navy);border:1px solid var(--line);border-radius:100px;padding:5px 12px}
+  .credit{display:inline-block;margin-top:14px;font-size:.75rem;color:var(--muted)}
+</style>
+
+<div class="wrap">
+
+  <header class="hero">
+    <div class="brandline">
+      <svg class="mark" viewBox="0 0 48 48" fill="none" aria-hidden="true">
+        <path d="M14 30a8 8 0 0 1 .6-15.98A11 11 0 0 1 36 17.2 7.5 7.5 0 0 1 34 32H15" stroke="#38ABE9" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+        <path d="M25 20l-5 8h5l-2 7 8-10h-5l3-5z" fill="#FFB020"/>
+      </svg>
+      <span class="brandname">Nuvora</span>
+    </div>
+
+    <span class="kicker">◆ Cómo operamos hoy</span>
+    <h1>El <span class="em">Método Iridio</span>, de punta a punta</h1>
+    <p class="lede">Así elegimos qué vender, cómo investigamos el mercado, cómo fabricamos los creativos y cómo montamos la campaña en Meta. <b>Este es el sistema con el que trabajamos ahora</b> — reemplaza por completo lo que veníamos haciendo antes.</p>
+
+    <div class="thesis">
+      No competimos por precio. <span>Competimos por valor percibido.</span> Todo lo que sigue —el filtro, la investigación, cada creativo y cada anuncio— existe para hacer que el producto valga más a los ojos del cliente, no para ser el más barato.
+    </div>
+
+    <div class="flow">
+      <div class="flow-item"><div class="n">01</div><div class="t">El Filtro</div><div class="s">¿Vale la pena?</div></div>
+      <div class="flow-item"><div class="n">02</div><div class="t">La Investigación</div><div class="s">Voz del cliente</div></div>
+      <div class="flow-item"><div class="n">03</div><div class="t">Creativos</div><div class="s">Foto + texto</div></div>
+      <div class="flow-item"><div class="n">04</div><div class="t">Campaña CBO</div><div class="s">1 ángulo × conjunto</div></div>
+      <div class="flow-item"><div class="n">05</div><div class="t">Optimización</div><div class="s">Apagar / escalar</div></div>
+    </div>
+  </header>
+
+  <!-- 01 -->
+  <section>
+    <div class="sec-head">
+      <div class="step-badge">1</div>
+      <div><span class="eyebrow">Antes de invertir un peso</span><h2>El Filtro — ¿este producto vale la pena?</h2></div>
+    </div>
+    <div class="sec-body">
+      <p>Ningún producto entra a campaña sin pasar este filtro primero. Lo puntuamos sobre <b>15</b> en tres bloques, mirando fuentes reales: Meta Ads Library, Mercado Libre, Amazon US/UK, Google Trends (5 años), TikTok y Reddit.</p>
+
+      <div class="cards g3">
+        <div class="card"><span class="tag">Bloque 1 · /5</span><h4>Market Fit</h4><p>Problema real, marcas serias invirtiendo afuera, demanda evergreen (no moda de 30–60 días), margen y demanda local.</p></div>
+        <div class="card"><span class="tag">Bloque 2 · /5</span><h4>Operaciones</h4><p>Logística y peso, proveedor con stock (sin stock = flag crítica), post-venta simple.</p></div>
+        <div class="card"><span class="tag">Bloque 3 · /5</span><h4>Ecosistema</h4><p>Mecanismo único explicable en 30s y potencial de marca sostenible, no un solo pelotazo.</p></div>
+      </div>
+
+      <p style="margin-top:16px">Hay criterios <b>eliminatorios</b> (MUST): si fallan dos, el producto es NO-GO aunque el resto sume. El veredicto:</p>
+      <div class="verdicts">
+        <div class="v go"><div class="dot">🟢</div><div class="lab">≥ 11 puntos</div><div class="txt">Pasa. Avanzamos al Paso 2.</div></div>
+        <div class="v mid"><div class="dot">🟠</div><div class="lab">7 – 10 puntos</div><div class="txt">Fortalecer un punto débil y volver a correr.</div></div>
+        <div class="v no"><div class="dot">🔴</div><div class="lab">&lt; 7 · o 2 MUST</div><div class="txt">No viable. No se invierte.</div></div>
+      </div>
+      <p style="font-size:.86rem;color:var(--muted);margin-top:12px">Nunca descartamos un producto <b>por precio</b> — el precio es lo último que miramos.</p>
+    </div>
+  </section>
+
+  <!-- 02 -->
+  <section>
+    <div class="sec-head">
+      <div class="step-badge">2</div>
+      <div><span class="eyebrow">La base de todo el copy</span><h2>La Investigación — la voz real del cliente</h2></div>
+    </div>
+    <div class="sec-body">
+      <p>Con el producto ya aprobado, salimos a escuchar al mercado. Todo lo que después decimos en un anuncio nace de acá, no de nuestra cabeza. El corazón es la <b>VOCC (Voz Real del Cliente)</b>: mínimo 50 frases textuales que sacamos de reseñas, Reddit, TikTok y YouTube.</p>
+
+      <ul class="clean">
+        <li><b>Dolor</b> — qué sufren, en sus propias palabras (reseñas de 1–2★).</li>
+        <li><b>Deseo</b> — qué quieren de verdad.</li>
+        <li><b>Objeción</b> — por qué NO compraron, qué temen.</li>
+        <li><b>Transformación</b> — el resultado que consiguieron (reseñas de 5★).</li>
+      </ul>
+
+      <p>Esas frases las agrupamos en <b>clusters de dolor</b> y de ahí salen los <b>ángulos de venta</b>: uno por dolor específico, cada uno con un avatar concreto (persona con contexto real, no "gente que sufre"). Cerramos mirando a <b>3 competidores</b> en Meta Ads Library para encontrar el <b>gap</b>: el dolor que nadie ataca bien, la promesa que nadie hace. Ahí nos paramos.</p>
+
+      <div class="card" style="border-color:rgba(56,171,233,.4)">
+        <span class="tag">Regla anti-genérico</span>
+        <p style="color:#CFDBEF">Un ángulo es un dolor <b style="color:var(--text)">específico</b> — "café que se enfría antes de terminarlo", no "frustración general". Un avatar tiene <b style="color:var(--text)">identidad</b> — no "persona que busca una solución". Lo genérico no vende.</p>
+      </div>
+      <p style="margin-top:14px">El 80% de los anuncios ganadores le hablan a alguien <b>consciente de la solución</b>: ya sabe que existe algo así, pero todavía no eligió marca. A ese le hablamos.</p>
+    </div>
+  </section>
+
+  <!-- 03 -->
+  <section>
+    <div class="sec-head">
+      <div class="step-badge">3</div>
+      <div><span class="eyebrow">Cómo fabricamos cada pieza</span><h2>Los Creativos — foto por IA + texto a mano</h2></div>
+    </div>
+    <div class="sec-body">
+      <p>Cada creativo sigue una estructura de venta de 7 pasos — <b>Hook → Problema → Producto → Beneficio → Prueba → Oferta → CTA</b> — y el mensaje sale del ángulo del Paso 2. Lo que cambió con Iridio es <b>cómo</b> los producimos: rápido, consistentes con la marca y sin depender de un diseñador.</p>
+
+      <div class="pipe">
+        <div class="pstep"><div class="pn">1</div><div><h4>Referencia real del producto</h4><p>Partimos de fotos reales (las del dueño, no las del mayorista) y las subimos a Higgsfield.</p></div></div>
+        <div class="pstep"><div class="pn">2</div><div><h4>La foto la genera Higgsfield</h4><p>Con <code>gpt_image_2</code> generamos la escena/producto <b>sin nada de texto</b> — fiel a la referencia. Draft en baja, subimos calidad cuando se aprueba.</p></div></div>
+        <div class="pstep"><div class="pn">3</div><div><h4>El texto se monta aparte</h4><p>Título, isotipo Nuvora real, precios y CTA se overlayean con <b>HTML → PNG</b> (fuentes Outfit y Big Shoulders reales). Así la IA nunca rompe el español ni deforma el logo.</p></div></div>
+        <div class="pstep"><div class="pn">4</div><div><h4>Sale el set completo</h4><p>Piezas 1080×1080 (render @2×) listas para la campaña, todas con la misma paleta e identidad de marca.</p></div></div>
+      </div>
+
+      <div class="cards g2" style="margin-top:16px">
+        <div class="card"><h4>Por qué separamos foto y texto</h4><p>La IA es excelente para la imagen del producto, pésima para escribir texto legible en español. Cada herramienta hace lo que sabe.</p></div>
+        <div class="card"><h4>Formatos que armamos</h4><p>Imagen, video, carrusel. El mensaje manda; el formato se elige según el ángulo y se testean juntos.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 04 -->
+  <section>
+    <div class="sec-head">
+      <div class="step-badge">4</div>
+      <div><span class="eyebrow">La estructura que escala</span><h2>La Campaña — una CBO, un ángulo por conjunto</h2></div>
+    </div>
+    <div class="sec-body">
+      <p>Dejamos atrás la estructura vieja (un solo conjunto con 4 anuncios). Ahora usamos <b>CBO</b>: el presupuesto va a nivel de campaña y Meta lo reparte solo entre las mejores oportunidades. Una campaña, <b>3 conjuntos</b>, y cada conjunto es <b>un ángulo distinto</b> con 3 a 5 anuncios.</p>
+
+      <div class="cbo">
+        <div class="cbo-top">⚡ Campaña CBO — presupuesto a nivel campaña (Advantage+)</div>
+        <div class="cbo-arrow">▾</div>
+        <div class="cbo-sets">
+          <div class="cbo-set"><div class="lbl">Conjunto 1</div><div class="ang">Testimonial</div><div class="ads"><i></i><i></i><i></i></div><div class="cnt">3–5 anuncios</div></div>
+          <div class="cbo-set"><div class="lbl">Conjunto 2</div><div class="ang">Problema–solución</div><div class="ads"><i></i><i></i><i></i></div><div class="cnt">3–5 anuncios</div></div>
+          <div class="cbo-set"><div class="lbl">Conjunto 3</div><div class="ang">Caja de preguntas</div><div class="ads"><i></i><i></i><i></i></div><div class="cnt">3–5 anuncios</div></div>
+        </div>
+      </div>
+
+      <p style="margin-top:14px">La clave: <b>un ángulo por conjunto</b> para poder leer qué gancho vende de verdad. Los formatos (imagen y video del mismo ángulo) van <b>mezclados dentro</b> de su conjunto — no se arma "un conjunto de fotos y otro de videos". Eso último NO es Iridio.</p>
+
+      <div class="card" style="border-color:rgba(255,176,32,.35);background:rgba(255,176,32,.06);margin-top:6px">
+        <span class="tag" style="color:var(--signal)">Canal por producto</span>
+        <p style="color:#CFDBEF">No todos los productos van al mismo lado. La <b style="color:var(--text)">aspiradora</b> va a la web (objetivo Ventas, botón "Comprar"). El <b style="color:var(--text)">vaso</b> va por WhatsApp (objetivo Mensajes, "Escribinos"). La estructura CBO es la misma; cambia el objetivo y la métrica.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- 05 -->
+  <section>
+    <div class="sec-head">
+      <div class="step-badge">5</div>
+      <div><span class="eyebrow">Qué hacemos con los datos</span><h2>Optimización — apagar lo muerto, escalar al ganador</h2></div>
+    </div>
+    <div class="sec-body">
+      <p>El CBO naturalmente vuelca casi toda la plata en un anuncio. Cuando eso pasa, tenemos dos jugadas y ninguna otra:</p>
+      <div class="opt">
+        <div class="kill"><h4>✕ No vende</h4><p>Se apaga. Sin culpa, sin darle "otra oportunidad". Liberamos presupuesto.</p></div>
+        <div class="win"><h4>✓ Sí vende (winner)</h4><p>Duplicamos la campaña <b>sin el ganador</b>. Los demás anuncios reciben presupuesto para buscar otro winner, y el ganador sigue escalando aparte.</p></div>
+      </div>
+      <p style="margin-top:16px"><b>La regla de oro:</b> mientras cada venta real cueste en ads menos que nuestro margen, la campaña gana. Ese es el único número que decide si seguimos.</p>
+
+      <div class="econ">
+        <div class="big">~$845<small>Margen de referencia (UYU)</small></div>
+        <div style="color:#CFDBEF;font-size:.92rem">Si conseguir una venta cuesta menos que esto en publicidad, estamos ganando plata. Ojo con el conteo de compras de Meta: <b style="color:var(--text)">siempre lo cruzamos contra Shopify</b>, que a veces infla el número.</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- RULES -->
+  <section>
+    <div class="sec-head">
+      <div class="step-badge">✦</div>
+      <div><span class="eyebrow">Innegociables de Nuvora</span><h2>Las reglas que no rompemos</h2></div>
+    </div>
+    <div class="sec-body">
+      <div class="rule"><div class="ic no">✕</div><p><b>Nunca decimos "envío gratis".</b> Sería falso: despachamos por DAC a todo Uruguay y el flete lo paga el cliente al retirar. Decir lo contrario es publicidad engañosa → reclamos y cancelaciones.</p></div>
+      <div class="rule"><div class="ic no">✕</div><p><b>No nombramos métodos de pago en los creativos.</b> Nada de "pagás al recibir", transferencia ni cuotas. El pago se coordina en la conversación de WhatsApp. (El contrareembolso ya no lo usamos.)</p></div>
+      <div class="rule"><div class="ic yes">✓</div><p><b>Todo el copy nace de la VOCC real</b> del Paso 2 — nunca de frases genéricas inventadas.</p></div>
+      <div class="rule"><div class="ic yes">✓</div><p><b>Nunca activamos ni gastamos sin el OK del dueño.</b> Y no se toca una campaña activa ~3 días: editarla reinicia el aprendizaje de Meta.</p></div>
+    </div>
+  </section>
+
+  <footer>
+    <b>Método Iridio</b> (Axel Bizera) — el sistema completo con el que Nuvora opera desde septiembre 2026. Reemplaza los métodos anteriores, que ya no usamos.
+    <div class="pillrow">
+      <span class="pill">El Filtro /15</span>
+      <span class="pill">La Investigación · VOCC</span>
+      <span class="pill">Higgsfield + HTML→PNG</span>
+      <span class="pill">CBO · 1 ángulo/conjunto</span>
+      <span class="pill">Winner → duplicar sin él</span>
+      <span class="pill">Envíos DAC · sin “envío gratis”</span>
+    </div>
+    <span class="credit">Documento interno — para poner al día a un socio.</span>
+  </footer>
+
+</div>
+
+</body></html>

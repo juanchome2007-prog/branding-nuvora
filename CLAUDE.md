@@ -225,7 +225,10 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
   - Campaña TOFU: niveles 1–2 (no sabe del problema / sabe del problema). Ganchos de identificación y "esto no es normal". Se mide por gancho, retención, CTR y CPM; NO se apaga por no vender.
   - Campaña MOFU: nivel 3 (sabe que hay soluciones). "Por qué nosotros": carbón de coco, sin peróxido, 2 minutos, comparativas, error al comprar. Se mide por CTR, carritos y costo por pago iniciado.
   - Campaña BOFU: nivel 4 (ya nos conoce y no se decide). Remarketing (visitas a la web, vistas de video, interacción en IG) con prueba real, garantía y oferta (2x1 $990 / 4x2 envío gratis). Se mide por costo por venta (tope $746).
-  - Dentro de cada campaña se mantienen los conjuntos IMG y VID, salvo que el dueño diga otra cosa.
+  - ACTUALIZADO 22/10 (dueño): en vez de 3 campañas, UNA campaña de Ventas con presupuesto POR CONJUNTO (ABO) y 3 conjuntos nombrados por etapa: "TOFU - …", "MOFU - …", "BOFU - …". Cada conjunto lleva solo anuncios de su etapa; imágenes y videos van mezclados dentro de cada conjunto. Se deja de separar IMG/VID, porque si no serían 6 conjuntos.
+  - Presupuesto de referencia: TOFU ~50% · MOFU ~30% · BOFU ~20%.
+  - Objetivo de rendimiento por conjunto: TOFU = visitas a la página de destino o clics; MOFU y BOFU = compras.
+  - Públicos: el conjunto BOFU va a remarketing (visitas web 14 días + vistas de video 50% + interacción IG). TOFU y MOFU van a público amplio EXCLUYENDO compradores y el público BOFU.
 - 22/10: NO armar nada todavía. Primero, en la revisión de hoy, se analizan las campañas 4.0 y 5.0 y sus anuncios para aprovecharlos: se clasifica cada anuncio por etapa y se mide según su rol.
 - Clasificación actual:
   - TOFU/problema: BOCA CERRADA, SONREÍS CON LA BOCA CERRADA, DIENTES AMARILLOS, SI SEGUÍS SIN USAR ESTO, PROBLEMAS DE AÑOS, LÍNEA DE TIEMPO.

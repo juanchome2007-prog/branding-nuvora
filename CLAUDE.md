@@ -207,6 +207,21 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
   - Mate + termo + billete de $1.000 uruguayo en la mesa, cebando, 5 s — https://d8j0ntlcm91z4.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/hf_20261022_052808_3c1b3742-981b-49af-bc58-a66ff6a6eb59.mp4
   - ❌ NO USAR (la etiqueta no es la real del frasco; el dueño la graba con el frasco verdadero): Manos girando el frasco leyendo la etiqueta (buzo gris), 5 s — https://d8j0ntlcm91z4.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/hf_20261022_052808_c1f58620-e7db-4395-8252-d693659deb77.mp4
   - Manos envolviendo paquete en film negro (cenital, sin etiquetas), 5 s — https://d8j0ntlcm91z4.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/hf_20261022_052808_638a7fa7-f39b-43a9-b3a7-78ff100a3cfb.mp4
+- ⭐ TOMAS REALES DEL DUEÑO (22/10, Drive 11NRUHAzUzXWyRFU_FQ6FUytkQ57XrqAi, subidas al CDN). USAR ANTES QUE IA. Base URL https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/ + id.
+  - Videos 9:16 1080x1920:
+    - Abriendo frasco y polvo adentro + fila de frascos, fondo blanco, 15 s → 92d1c96d-34ff-471f-9423-ef2967086743.mp4
+    - Abre el frasco, cepillo rosa entra al polvo y sale cargado, 34 s → 5e2e2994-0dfe-4468-ba3e-97c52f309f79.mp4
+    - Dos frascos en la mano (2x1), 4 s → 27361f7b-c579-4bbc-91e6-847ae42cce86.mp4
+    - Mate con yerba y frasco al lado (piso rojo), 7,5 s → 95d33743-6aa6-4d51-a601-c757b6270ac3.mp4
+    - Termo, mate y frasco, 3 s → 8cea7c66-4aee-4803-bfca-c065555af8d5.mp4
+    - Cargando el termo con caldera, 12 s → b94074b7-9729-401c-b021-66dd473ab0a6.mp4
+    - Mano con frasco junto al mate; la caja con Before/After aparece de fondo, recortar, 6 s → 21200dde-5bd8-4bdc-86aa-fb5501ce2856.mp4
+    - Mano con frasco junto al mate, sin caja, 5 s → 535d1591-b4c2-496f-a602-5078133aad14.mp4
+    - Cebando mate con termo, frasco al costado, 10 s → 4f7fd62b-5e11-4bc3-8533-b164d5f5f6a7.mp4
+  - Fotos:
+    - Caja en la mano al aire libre (tiene Before/After impreso: NO en anuncios sin taparlo) → 1050555a-dae8-4c7e-b14f-5c627c140188.jpg, c2f3c910-af5b-49ac-804d-8b17267c0e87.jpg
+    - Armando paquete (film negro, cinta) → 22f5287b-dcef-45c2-870d-5bf9a8c630fc.jpg
+  - Sin subir porque se ve la etiqueta DAC con datos del cliente (difuminar antes de usar): IMG_7979 paquete en la agencia DAC · IMG_8017 pila de paquetes en la mano.
 - (22/10) TANDA 1 de reels de prueba (aprobada "va"): 1 Lo que tu mate le hace a tus dientes · 2 ¿Por qué me cepillo con polvo negro? · 3 Menos de $1.000 antes de las fiestas · 4 Sin peróxido y te llega mañana · 5 3 cosas que manchan tus dientes · 6 Cómo se usa en 15 s. ElevenLabs alcanzó solo para 2 voces → reels 1 y 2 con voz, 3–6 solo texto + audio en tendencia. HECHOS: 1 Mate (14 s) https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/cac8d012-17c1-47dc-80cb-f6cb61e47c8e.mp4 · 2 Polvo negro (11,5 s) https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/cf6257e2-c579-4910-a97c-b6c5562befdd.mp4 (textos sobre boca/dientes van abajo, top 1150). Video misterioso (no Nuvora) https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/65bfd256-5729-43c0-bdc6-690d0577a5fa.mp4
 - (22/10) CLON DEL DUEÑO (prueba): selfie del dueño (media 5fd2ce8d-9851-41ea-8d87-434f4d2da11b, gorra azul) + voz preset Higgsfield "Cillian" (d8ba9f14-8a24-44db-932b-99e16c45bd32, elegida por el dueño) con seed_audio → seedance_2_5 omni_reference 5 s 9:16 720p (35 créditos, ~10 min) "Hola, soy Juan, de Nuvora" https://d8j0ntlcm91z4.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/hf_20261022_064629_0f44ded0-2616-4e07-90d4-a2dd2c3f16f4.mp4 . Regla: el clon habla como dueño de la marca, NUNCA como testimonio de resultados. Quedan ~44 créditos.
 - Ahorro de créditos (idea del dueño): reutilizar escenas buenas de videos anteriores antes de generar nuevas. Escenas reutilizables del video Demostración (d36a3ed7…): 0–4 s chica con frasco y cepillo; 5–7 s mojar cepillo; 7–10 s cepillo en el polvo; 10–14 s cepillado (ojo: boca no negra); 20–35 s coco y carbón, polvo con microporos; 35–49 s frascos en el baño. Tienen subtítulos quemados abajo al centro: taparlos con el texto propio.

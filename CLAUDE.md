@@ -108,6 +108,7 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - Llevar el capital actualizado cada vez que el dueño avise un movimiento (pago del lote, cobros, entregas a mamá, ventas de tecnología).
 
 ## Panel Nuvora (22/10)
+- (22/10, pedido del dueño) El Panel y Rentabilidad muestran TODO JUNTO: ventas del primer lote + lote nuevo, y todos los anuncios desde el 13/10. Ventas: 12 al 22/10, $10.990. Rentabilidad tiene filas 15, 16 y 17/10 con el primer lote (Ramón, Jessica y Diego con fecha aprox. 17/10). Resultado total al 22/10 17:30 ≈ +$950.
 - Dashboard https://claude.ai/artifact/QwmHuGU8SMtdoN2fbSrpwk (tipo Dashboard, privado del dueño). Datasets = archivos JSON (kpis, diario, ventas, campanas, tareas) que rehace la rutina de las 21:55 (trig_01PkpF6bjkr3BML4DaTNsTHh). Muestra caja, por cobrar, resultado, stock, tareas del día, ventas vs anuncios por día, capital y deuda, campañas y ventas.
 - Próximos pasos propuestos: (2) vincular @_nuvora.uy al portfolio comercial de Meta; (3) WhatsApp/IG con ManyChat o Respond.io (~US$15–30/mes) cuando el negocio pague las herramientas.
 

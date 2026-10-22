@@ -116,7 +116,7 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - 1 Filtro /15 antes de invertir (Market Fit /5 · Operaciones /5 · Ecosistema /5; fuentes: Meta Ads Library, Mercado Libre, Amazon, Google Trends 5 años, TikTok, Reddit). ≥11 pasa · 7–10 fortalecer · <7 o 2 MUST fallados = NO-GO. Nunca descartar por precio.
 - 2 Investigación: VOCC (≥50 frases textuales reales de reseñas/Reddit/TikTok/YouTube) en Dolor · Deseo · Objeción · Transformación → clusters → ÁNGULOS (dolor específico + avatar con identidad, nada genérico) → 3 competidores en Ads Library para hallar el GAP. Hablarle al consciente de la solución.
 - 3 Creativos: estructura Hook → Problema → Producto → Beneficio → Prueba → Oferta → CTA. Foto por IA (Higgsfield gpt_image) SIN texto, fiel a foto real del producto; texto/logo/precio/CTA montados aparte (HTML/PIL → PNG). Sentence case, palabra clave resaltada, una sola acción. Checklist: hook se entiende en 1 s y habla del beneficio · producto entero y limpio · un solo CTA · sin TODO MAYÚSCULAS.
-- 4 Campaña (AJUSTE DEL DUEÑO 22/10, manda sobre Iridio): UNA CBO con 2 CONJUNTOS: uno de IMÁGENES y otro de VIDEOS, como venimos haciendo (NO 3 conjuntos por ángulo). Dentro de cada conjunto, anuncios de ángulos distintos. Canal según producto (web/Ventas o WhatsApp/Mensajes).
+- 4 Campaña (REEMPLAZADO 22/10 por EMBUDO PARA TODO: 3 campañas TOFU/MOFU/BOFU; regla vieja →) UNA CBO con 2 CONJUNTOS: uno de IMÁGENES y otro de VIDEOS, como venimos haciendo (NO 3 conjuntos por ángulo). Dentro de cada conjunto, anuncios de ángulos distintos. Canal según producto (web/Ventas o WhatsApp/Mensajes).
 - 5 Optimización: el que no vende se apaga sin culpa; el ganador → duplicar la campaña SIN el ganador y escalar el ganador aparte. Regla de oro: costo por venta real < margen. Cruzar compras de Meta con Shopify/ventas reales. No tocar una campaña activa ~3 días. Nunca activar/gastar sin OK del dueño.
 - NO se aplican de Iridio (decisión del dueño 22/10): la regla "nunca envío gratis" (en carbones se dice "Envío gratis con el pack 4x2" porque es verdad), la de "no nombrar métodos de pago" (se mantiene "Pago seguro con Mercado Pago" y el contra reembolso a pedido) y la de armar 3 conjuntos por ángulo.
 - Rentabilidad Carbones (calculadora + bitácora, adaptada de la de la mopa): https://claude.ai/artifact/8pjdoo83TviiMGfp1vT5Sk — db: config/precios y dias/<YYYY-MM-DD> {fecha, pedidos, frascos, ingresos, pauta, herramientas, neto, nota}. La completa Claude en el cierre de las 21:55.
@@ -215,6 +215,22 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - Ritmo: 3 videos nuevos por semana (12/mes); el que mejor anda como reel de prueba pasa a anuncio. Contenido comercial, no de entretenimiento.
 - PENDIENTE (después de decidir la 4.0, jue 22/10 o vie 23/10, NO antes): 4 videos con las 4 fórmulas + 4 escenas nuevas propuestas (billete de $1.000 junto al mate · mirando la etiqueta del frasco con duda · amigos brindando y selfie, una se tapa la boca · manos envolviendo el paquete en film negro), 10 créditos c/u = 40; resto del banco de escenas; 9:16 + 4:5.
 - Antes de cada testeo: 10 min en la Biblioteca de anuncios de Meta buscando "blanqueador dental" (UY/AR) y ver qué ganchos llevan más tiempo activos.
+
+## EMBUDO PARA TODO (REGLA FIJA del dueño 22/10, manda sobre la regla anterior de "1 CBO con IMG+VID")
+- Instagram orgánico:
+  - TOFU = REELS (atraer gente nueva; reels de prueba).
+  - MOFU = POSTS (educar y dar confianza; carruseles o fotos al feed). Antes se hacían solo reels + historias; ahora se suman posts.
+  - BOFU = HISTORIAS (vender; serie de 5 slides "aburre vs vende").
+- Anuncios: 3 campañas separadas, una por etapa. Cada una lleva SOLO anuncios hechos para esa etapa y para su nivel de conciencia:
+  - Campaña TOFU: niveles 1–2 (no sabe del problema / sabe del problema). Ganchos de identificación y "esto no es normal". Se mide por gancho, retención, CTR y CPM; NO se apaga por no vender.
+  - Campaña MOFU: nivel 3 (sabe que hay soluciones). "Por qué nosotros": carbón de coco, sin peróxido, 2 minutos, comparativas, error al comprar. Se mide por CTR, carritos y costo por pago iniciado.
+  - Campaña BOFU: nivel 4 (ya nos conoce y no se decide). Remarketing (visitas a la web, vistas de video, interacción en IG) con prueba real, garantía y oferta (2x1 $990 / 4x2 envío gratis). Se mide por costo por venta (tope $746).
+  - Dentro de cada campaña se mantienen los conjuntos IMG y VID, salvo que el dueño diga otra cosa.
+- 22/10: NO armar nada todavía. Primero, en la revisión de hoy, se analizan las campañas 4.0 y 5.0 y sus anuncios para aprovecharlos: se clasifica cada anuncio por etapa y se mide según su rol.
+- Clasificación actual:
+  - TOFU/problema: BOCA CERRADA, SONREÍS CON LA BOCA CERRADA, DIENTES AMARILLOS, SI SEGUÍS SIN USAR ESTO, PROBLEMAS DE AÑOS, LÍNEA DE TIEMPO.
+  - MOFU: EL ERROR, PROBLEMA/SOLUCIÓN, NOTITAS, MENOS DE $1.000.
+  - BOFU: PEDIDO, VOS Y TU MAMÁ 4X2, ROMPER EL VIDRIO, ÚLTIMA CHANCE AZUL.
 
 ## Método "3 pilares" para anuncios (video YouTube fVTox9zrfQY, guardado 22/10)
 - Pilar 1, radar del usuario: el anuncio sale de la lógica, no de la creatividad. Partir de un dolor u objeción concreta del cliente y escribir la hipótesis. Ejemplo: "tengo miedo de gastar en algo que no funciona" → mostrar prueba real → sube la conversión.

@@ -15,7 +15,8 @@
 - Prohibido: "14 días", "no daña el esmalte", "100%", antes/después, testimonios falsos o con IA, otras marcas, "solo hoy" falso.
 - Claims permitidos: "carbón activado de coco", "ayuda con manchas de mate y café*", "se usa en 2 minutos" + "*Los resultados pueden variar según cada persona."
 - Promocionar solo desde Ads Manager (no "promocionar" desde IG).
-- Privacidad: en fotos/capturas de clientes difuminar nombres, teléfonos, direcciones, CI y nombre del dueño. La caja trae "Before/After" impreso: taparlo.
+- Privacidad: en fotos/capturas de clientes difuminar nombres, teléfonos, direcciones, CI y nombre del dueño.
+- ANTES/DESPUÉS (decisión del dueño 22/10): en ANUNCIOS nunca un antes/después falso ni el "Before/After" impreso de la caja (taparlo). En orgánico (reels, historias, posts, marca personal, web) la caja con su Before/After se muestra tal cual, sin difuminar. Un antes/después REAL (ej. la línea de tiempo del amigo) se puede usar en todo el orgánico.
 
 ## Marca
 - Logo: "NUVORA" blanco con la O amarilla. Paleta: negro #070C14, #0F1A2B, card #111D30, amarillo #FFC425, azul #1E8AD6, gris #9AA8BC. Tipografía Montserrat (800/600).

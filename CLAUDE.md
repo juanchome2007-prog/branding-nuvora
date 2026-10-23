@@ -249,7 +249,7 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 
 ## Campaña 4.1 WPP ITERACIONES (creada 23/10 por Claude con OK del dueño, arranca sáb 24/10 06:30 UY, $450/día CBO): "CBO - BLANQUEADOR DENTAL COCO 4.1 WPP ITERACIONES" (id 120251718275210524)
 - Ventas, optimiza Conversaciones, destino WhatsApp, UY 18–65 Advantage+ (copia de VID 4.0). Conjunto "PROBLEMAS DE AÑOS VID 4.1" (120251718276330524). La 4.0 sigue igual, sin tocar.
-- Ads (mismo texto y título de PROBLEMAS DE AÑOS 4.0, videos 9:16 con voz del dueño): V1 GANCHO 120251718405480524 · V2 CORTO 120251718408220524 · V3 REAL 120251718409240524, con descripción "Te respondemos al toque · Envíos a todo Uruguay" (igual que la 4.0). Los primeros 3 (…298670524, …301550524, …302020524) salieron sin descripción y quedaron PAUSADOS (los creativos no se pueden editar).
+- Ads (mismo texto y título de PROBLEMAS DE AÑOS 4.0, videos 9:16 con voz del dueño): V1 GANCHO 120251718405480524 · V2 CORTO 120251718408220524 · V3 REAL 120251718409240524, con descripción "Te respondemos al toque · Envíos a todo Uruguay" (igual que la 4.0). Los primeros 3 (…298670524, …301550524, …302020524) salieron sin descripción y se BORRARON el 23/10 a pedido del dueño.
 - El conector no deja crear creativos de WhatsApp sueltos ni portadas desde nuestro CDN → portada = fotograma de Meta en baja resolución. En Ads Manager: elegir IG @_nuvora.uy, WhatsApp 091 498 062, mensaje de bienvenida y cambiar portada; opcional sumar la versión 4:5 para feed.
 - Revisión 48 h: lun 26/10 09:00 UY. Comparar costo por chat y ventas contra PROBLEMAS DE AÑOS 4.0 ($16,8/chat, $317/venta).
 

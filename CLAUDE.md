@@ -260,6 +260,11 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
   - MOFU: EL ERROR, PROBLEMA/SOLUCIÓN, NOTITAS, MENOS DE $1.000.
   - BOFU: PEDIDO, VOS Y TU MAMÁ 4X2, ROMPER EL VIDRIO, ÚLTIMA CHANCE AZUL.
 
+## Aprendizaje del dueño (23/10): LOS ÁNGULOS VENDEN, LOS FORMATOS CAMBIAN LOS COSTOS
+- El ángulo (qué dolor/deseo y a quién le hablás) decide SI vende. El formato (video, imagen, UGC, carrusel, duración, 9:16/4:5) decide CUÁNTO cuesta llegar (CPM, CTR, costo por chat/venta).
+- Prueba en datos 4.0: PROBLEMAS DE AÑOS (ángulo "manchas de años de mate", video) 6 ventas, CPM ≈ $84; las imágenes rondaron CPM $130–180.
+- Cómo se testea: 1) primero ÁNGULOS distintos (mismo formato) para encontrar el que vende; 2) con el ángulo ganador, testear FORMATOS (video corto/largo, imagen, UGC, otro gancho) para bajar el costo; nunca cambiar ángulo y formato a la vez en el mismo test.
+
 ## Método "3 pilares" para anuncios (video YouTube fVTox9zrfQY, guardado 22/10)
 - Pilar 1, radar del usuario: el anuncio sale de la lógica, no de la creatividad. Partir de un dolor u objeción concreta del cliente y escribir la hipótesis. Ejemplo: "tengo miedo de gastar en algo que no funciona" → mostrar prueba real → sube la conversión.
 - Pilar 2, rol de cada anuncio: TOFU atrae (se espera CTR y clics, no ventas) · MOFU educa · BOFU vende. NO apagar a ciegas un TOFU porque no vende: eso mata la parte de arriba del embudo. Se mira CTR, frecuencia, CPM y gasto según el rol.

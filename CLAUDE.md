@@ -244,6 +244,15 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - PENDIENTE (después de decidir la 4.0, jue 22/10 o vie 23/10, NO antes): 4 videos con las 4 fórmulas + 4 escenas nuevas propuestas (billete de $1.000 junto al mate · mirando la etiqueta del frasco con duda · amigos brindando y selfie, una se tapa la boca · manos envolviendo el paquete en film negro), 10 créditos c/u = 40; resto del banco de escenas; 9:16 + 4:5.
 - Antes de cada testeo: 10 min en la Biblioteca de anuncios de Meta buscando "blanqueador dental" (UY/AR) y ver qué ganchos llevan más tiempo activos.
 
+## REGLA FIJA (dueño 23/10): ANUNCIOS CUIDADOSOS + CERRAR BIEN WHATSAPP
+- Contexto: al 23/10 Nuvora facturó $12.970 y ganó +$1.532 neto; los anuncios se comieron el 76% del margen (las web 2.0/3.0/5.0 gastaron ~$4.200 por 3 ventas). Objetivo: achicar gasto y cerrar más en WhatsApp.
+- Canal: solo WhatsApp hasta que la web cierre pagos (no armar campañas a la web sin que el dueño lo pida y se publiquen "Envío visible" + "Botones Realizar pedido").
+- Antes de crear o subir presupuesto: decir cuánto se va a gastar por día y en total hasta la revisión, y esperar el OK.
+- Topes (stop-loss) por anuncio en WhatsApp: gasto ≥ $400 sin venta → se propone apagar; costo por chat > $25 con ≥ $200 gastados → se propone apagar o cambiar el gancho. Por campaña: costo por venta real > $500 en 3 días → bajar presupuesto.
+- Gasto total diario en anuncios: no pasar de ~$1.200/día sin OK del dueño (hoy 4.0 $700 + 4.1 $450).
+- Testear de a poco: una iteración nueva (formato del ángulo ganador) por vez, presupuesto chico ($150–450/día), 3 días sin tocar.
+- WhatsApp: ofrecer siempre el 4x2 primero (más margen), 1 dato por mensaje, terminar con pregunta, solo 2 formas de pago (contra reembolso solo si insiste), seguimientos con las listas. Medir por semana: chats, % de cierre, costo por venta y % de 4x2.
+
 ## FOCO ACTUAL (dueño 23/10): bajar el costo por chat y cerrar más ventas en WhatsApp
 - El embudo TOFU/MOFU/BOFU queda EN PAUSA (no lo convence sin probarlo). Prioridad: (1) bajar costo por chat con iteraciones de FORMATO del ángulo ganador PROBLEMAS DE AÑOS (gancho nuevo, versión corta, tomas reales) dentro de la campaña WhatsApp; (2) subir el cierre de WhatsApp (simulacros, mensaje de 1 dato por vez, seguimientos con listas). Medir cada semana: costo por chat, % de chats que compran, costo por venta, ticket promedio (% de 4x2).
 - Base 4.0 al 23/10: 132 chats, 7 ventas (≈5% de cierre), ≈$16,8 por chat, ≈$317 por venta.

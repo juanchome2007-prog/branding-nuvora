@@ -141,6 +141,7 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
   - ÚLTIMA CHANCE AZUL: 1 venta (Lorena).
   - Gasto total de la 4.0 al 22/10 ~14:30: $1.964. PROBLEMAS DE AÑOS $1.634 → $327 por venta. ÚLTIMA CHANCE AZUL $18 → 1 venta. DIENTES AMARILLOS $186 y SI SEGUÍS SIN USAR ESTO $74, ambos con 0 ventas. LÍNEA DE TIEMPO $50 y SONREÍS $1, casi sin entrega.
   - Total 6 ventas → $327 por venta (margen 2x1 sin MP $805). Rentable.
+  - 23/10 ~05:40: PAUSADOS por el dueño DIENTES AMARILLOS ($210, 0 ventas) y SI SEGUÍS SIN USAR ESTO ($76, 0 ventas). Siguen: PROBLEMAS DE AÑOS ($1.933 acumulado), LÍNEA DE TIEMPO, SONREÍS y ÚLTIMA CHANCE AZUL.
 - Revisión jue 22/10: además de las métricas, cruzar cada cliente que compró con el anuncio del que vino (el dueño lo anota desde el chat) → costo por venta REAL por anuncio. En WhatsApp ofrecer siempre el 4x2 (margen $1.246 vs $746).
 - Antes de que Meta cobre ($2.480 a ~2 días de $700): cargar en MP lo de Ramón ($990, ya cobrado en efectivo el 20/10); si no, bajar a $500/día.
 - WhatsApp: botones de preguntas frecuentes (plantilla "Nuvora 2x1 WPP 4.0"): "Quiero el 2x1 a $990 🔥" (resp.: …¿A qué ciudad te lo mando?) · "¿Cómo se usa?" · "¿Cuánto sale el envío?".

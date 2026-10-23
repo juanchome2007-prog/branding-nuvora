@@ -241,6 +241,10 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - PENDIENTE (después de decidir la 4.0, jue 22/10 o vie 23/10, NO antes): 4 videos con las 4 fórmulas + 4 escenas nuevas propuestas (billete de $1.000 junto al mate · mirando la etiqueta del frasco con duda · amigos brindando y selfie, una se tapa la boca · manos envolviendo el paquete en film negro), 10 créditos c/u = 40; resto del banco de escenas; 9:16 + 4:5.
 - Antes de cada testeo: 10 min en la Biblioteca de anuncios de Meta buscando "blanqueador dental" (UY/AR) y ver qué ganchos llevan más tiempo activos.
 
+## FOCO ACTUAL (dueño 23/10): bajar el costo por chat y cerrar más ventas en WhatsApp
+- El embudo TOFU/MOFU/BOFU queda EN PAUSA (no lo convence sin probarlo). Prioridad: (1) bajar costo por chat con iteraciones de FORMATO del ángulo ganador PROBLEMAS DE AÑOS (gancho nuevo, versión corta, tomas reales) dentro de la campaña WhatsApp; (2) subir el cierre de WhatsApp (simulacros, mensaje de 1 dato por vez, seguimientos con listas). Medir cada semana: costo por chat, % de chats que compran, costo por venta, ticket promedio (% de 4x2).
+- Base 4.0 al 23/10: 132 chats, 7 ventas (≈5% de cierre), ≈$16,8 por chat, ≈$317 por venta.
+
 ## EMBUDO TOFU/MOFU/BOFU — IDEA EN EVALUACIÓN (22/10; NO es regla todavía: el dueño pidió investigar Meta Ads/marketing y decidir juntos si conviene)
 - Instagram orgánico:
   - TOFU = REELS (atraer gente nueva; reels de prueba).

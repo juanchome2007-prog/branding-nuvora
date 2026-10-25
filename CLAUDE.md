@@ -139,6 +139,7 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - ORIGEN DE VENTAS 4.0 (el dueño lo confirmó el 22/10):
   - PROBLEMAS DE AÑOS: 6 ventas (Mileidys, Carlos, Elisabel, Leticia, Lidia, Adriana 4x2 23/10).
   - ÚLTIMA CHANCE AZUL: 2 ventas (Lorena; Luisa 24/10, que antes había escrito por DIENTES AMARILLOS).
+  - 24/10 (por miniatura y link del chat): PROBLEMAS DE AÑOS 4.0 (miniatura blanca borrosa, link fb.me/6F7ufeU94) → Ricardo (después vio ÚLTIMA CHANCE), Marcelo, Marianella, Miguel = 4. 4.1 (miniatura mate con yerba en piso rojo, links distintos; casi seguro V1 GANCHO, que tuvo 17 de los 25 chats de la 4.1) → María Fernanda, Spencer, Oscar = 3. ÚLTIMA CHANCE → Luisa = 1. Cómo distinguir: miniatura blanca = 4.0; miniatura mate = 4.1.
   - Gasto total de la 4.0 al 22/10 ~14:30: $1.964. PROBLEMAS DE AÑOS $1.634 → $327 por venta. ÚLTIMA CHANCE AZUL $18 → 1 venta. DIENTES AMARILLOS $186 y SI SEGUÍS SIN USAR ESTO $74, ambos con 0 ventas. LÍNEA DE TIEMPO $50 y SONREÍS $1, casi sin entrega.
   - Total 6 ventas → $327 por venta (margen 2x1 sin MP $805). Rentable.
   - 23/10 ~05:40: PAUSADOS por el dueño DIENTES AMARILLOS ($210, 0 ventas) y SI SEGUÍS SIN USAR ESTO ($76, 0 ventas). Siguen: PROBLEMAS DE AÑOS ($1.933 acumulado), LÍNEA DE TIEMPO, SONREÍS y ÚLTIMA CHANCE AZUL.

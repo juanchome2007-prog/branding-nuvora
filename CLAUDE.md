@@ -138,7 +138,7 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - Al revisar en Ads Manager: elegir cuenta de IG @_nuvora.uy en cada anuncio (el conector no la ve), número WhatsApp 091 498 062, mensaje de bienvenida "¡Hola! Quiero info del 2x1 😊", portada de los 3 videos (quedó en baja resolución, cambiarla por un fotograma).
 - ORIGEN DE VENTAS 4.0 (el dueño lo confirmó el 22/10):
   - PROBLEMAS DE AÑOS: 6 ventas (Mileidys, Carlos, Elisabel, Leticia, Lidia, Adriana 4x2 23/10).
-  - ÚLTIMA CHANCE AZUL: 1 venta (Lorena).
+  - ÚLTIMA CHANCE AZUL: 2 ventas (Lorena; Luisa 24/10, que antes había escrito por DIENTES AMARILLOS).
   - Gasto total de la 4.0 al 22/10 ~14:30: $1.964. PROBLEMAS DE AÑOS $1.634 → $327 por venta. ÚLTIMA CHANCE AZUL $18 → 1 venta. DIENTES AMARILLOS $186 y SI SEGUÍS SIN USAR ESTO $74, ambos con 0 ventas. LÍNEA DE TIEMPO $50 y SONREÍS $1, casi sin entrega.
   - Total 6 ventas → $327 por venta (margen 2x1 sin MP $805). Rentable.
   - 23/10 ~05:40: PAUSADOS por el dueño DIENTES AMARILLOS ($210, 0 ventas) y SI SEGUÍS SIN USAR ESTO ($76, 0 ventas). Siguen: PROBLEMAS DE AÑOS ($1.933 acumulado), LÍNEA DE TIEMPO, SONREÍS y ÚLTIMA CHANCE AZUL.

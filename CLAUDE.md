@@ -179,7 +179,7 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - Serie del 23/10, "las fotos del finde" (4 slides, sin identificación, 2 en video, tomas reales + selfie del banco; etiqueta del paquete difuminada): 1 hook VIDEO …/c5de896f-6bcc-4171-ae85-2b058a4a8619.mp4 · 2 secreto VIDEO (cepillo rosa al polvo) …/3749cb58-c410-4e34-b2d1-d01915a37701.mp4 · 3 pedidos …/fb135de4-d688-4ba2-b546-205caedda64f.jpg · 4 oferta 4x2 …/03ab9061-cda6-4d01-8ce6-08f3b7f3ee7c.jpg. Preferencia del dueño: series de 4 y alguna slide en video.
 - Serie del 19/10: mates https://d2ol7oe51mr4n9.cloudfront.net/user_3GchJZdZpFBkw4LnFrTHvG1F34X/bf3c9499-16d1-4206-a51d-e845092a4f91.jpg · boca cerrada …/902232f4-5ef4-4b3a-8369-96436eb8c7a4.jpg · secreto …/4536c36f-278e-432c-937a-2f3b32f432cd.jpg · Vicky …/05f6175b-039c-476e-93c1-f93778d22ca9.jpg · regalo 2x1 …/b84b081c-ce1e-4297-9a1c-efbf68f27234.jpg
 
-- Serie del 26/10, "los pedidos del finde" (2 slides, foto real IMG_8171 con etiquetas difuminadas + video 2 frascos): 1 …/678efb84-0cda-48f5-8be4-37e2d2957b4e.jpg · 2 VIDEO …/b43970dd-67ff-4f57-8f59-fecea5251cff.mp4
+- Serie del 26/10, "los pedidos del finde" (2 slides, foto real IMG_8171, etiquetas a la vista con solo la letra borrosa —preferencia del dueño 26/10: no difuminar etiquetas enteras ni usar fotos donde aparece él— + video 2 frascos): 1 …/bf4ccb1e-e360-4e22-bdf1-73ac5f3cc610.jpg · 2 VIDEO …/b43970dd-67ff-4f57-8f59-fecea5251cff.mp4
 - Preferencia del dueño (25/10): el carrusel "Lo que tu mate le hace a tu sonrisa" NO le gustó (descartado; la idea de post se arma en otro momento). Historias de 2 slides resumidas, que hable la foto y no el texto.
 
 ## Sistema orgánico de IG (aprobado por el dueño 19/10)

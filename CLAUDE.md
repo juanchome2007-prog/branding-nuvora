@@ -254,7 +254,7 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - Canal: solo WhatsApp hasta que la web cierre pagos (no armar campañas a la web sin que el dueño lo pida y se publiquen "Envío visible" + "Botones Realizar pedido").
 - Antes de crear o subir presupuesto: decir cuánto se va a gastar por día y en total hasta la revisión, y esperar el OK.
 - Topes (stop-loss) por anuncio en WhatsApp: gasto ≥ $400 sin venta → se propone apagar; costo por chat > $25 con ≥ $200 gastados → se propone apagar o cambiar el gancho. Por campaña: costo por venta real > $500 en 3 días → bajar presupuesto.
-- Gasto total diario en anuncios: no pasar de ~$1.200/día sin OK del dueño (hoy 4.0 $700 + 4.1 $450).
+- Gasto total diario en anuncios: no pasar de ~$1.200/día sin OK del dueño (desde 26/10: 4.0 $700 + 4.1 $300 = $1.000).
 - Testear de a poco: una iteración nueva (formato del ángulo ganador) por vez, presupuesto chico ($150–450/día), 3 días sin tocar.
 - WhatsApp: ofrecer siempre el 4x2 primero (más margen), 1 dato por mensaje, terminar con pregunta, solo 2 formas de pago (contra reembolso solo si insiste), seguimientos con las listas. Medir por semana: chats, % de cierre, costo por venta y % de 4x2.
 
@@ -268,6 +268,7 @@ Textos de anuncios: botón "Comprar", descripción "Pago seguro con Mercado Pago
 - Ads (mismo texto y título de PROBLEMAS DE AÑOS 4.0, videos 9:16 con voz del dueño): V1 GANCHO 120251718405480524 · V2 CORTO 120251718408220524 · V3 REAL 120251718409240524, con descripción "Te respondemos al toque · Envíos a todo Uruguay" (igual que la 4.0). Los primeros 3 (…298670524, …301550524, …302020524) salieron sin descripción y se BORRARON el 23/10 a pedido del dueño.
 - El conector no deja crear creativos de WhatsApp sueltos ni portadas desde nuestro CDN → portada = fotograma de Meta en baja resolución. En Ads Manager: elegir IG @_nuvora.uy, WhatsApp 091 498 062, mensaje de bienvenida y cambiar portada; opcional sumar la versión 4:5 para feed.
 - Revisión 48 h: dom 25/10 09:00 UY. Comparar costo por chat y ventas contra PROBLEMAS DE AÑOS 4.0 ($16,8/chat, $317/venta).
+- 26/10 noche (OK del dueño, para abaratar): V3 REAL PAUSADO ($170, 7 chats, 0 ventas) y presupuesto de la 4.1 bajado de $450 a $300/día (siguen V1 GANCHO y V2 CORTO). La 4.0 queda igual en $700. Gasto total ≈ $1.000/día. Revisión jue 29/10. Al bajar el presupuesto Meta pausó la campaña sola → se reactivó en el momento.
 
 ## EMBUDO TOFU/MOFU/BOFU — IDEA EN EVALUACIÓN (22/10; NO es regla todavía: el dueño pidió investigar Meta Ads/marketing y decidir juntos si conviene)
 - Instagram orgánico:
